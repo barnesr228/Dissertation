@@ -1,0 +1,63 @@
+Species	.fna Filename	Accession Numbers													
+Capronia coronata CBS 617.96	GCA_000585585.1_Capr_coro_CBS_617_96_V1_genomic	PRJNA164585 SAMN00974099													
+Capronia epimyces CBS 606.96	GCA_000585565.1_Capr_epim_CBS_606_96_V1_genomic	PRJNA164587 SAMN00974100													
+Chaetothyriales sp. CBS 132003	GCA_003709865.1_ASM370986v1_genomic	PRJNA482740 SAMN09487416													
+Chaetothyriales sp. CBS 134916	GCA_003709845.1_ASM370984v1_genomic	PRJNA482740 SAMN09487415													
+Chaetothyriales sp. CBS 134920	GCA_003693665.1_ASM369366v1_genomic	PRJNA482740 SAMN09487414													
+Chaetothyriales sp. CBS 135597	GCA_003709825.1_ASM370982v1_genomic	PRJNA482740 SAMN09487417													
+Chaetothyriales sp. CCFEE 6169	GCA_035928255.1_ASM3592825v1_genomic	PRJNA666634 SAMN23564146													
+Cladophialophora bantiana CBS 173.52	GCA_000835475.1_Clad_bant_CBS_173_52_V1_genomic	PRJNA233316 SAMN02567658													
+Cladophialophora carrionii CBS 160.54	GCA_000365165.2_Clad_carr_CBS_160_54_V1_genomic	PRJNA185784 SAMN01919308													
+Cladophialophora chaetospira	GCA_030247875.1_UCR_TK_41_genomic	PRJNA631111 SAMN14852391													
+Cladophialophora exuberans	GCA_030068005.1_CMRP1227_Cexuberans_genomic	PRJNA852683 SAMN29341164													
+Cladophialophora immunda	GCA_000835495.1_Clad_immu_CBS83496_V1_genomic	PRJNA325796 SAMN03176946													
+Cladophialophora psammophila CBS 110553	GCA_000585535.1_Clad_psam_CBS_110553_V1_genomic	PRJNA164589 SAMN00974101													
+Cladophialophora sp. XZL-2018a	GCA_040207545.1_ASM4020754v1_genomic	PRJNA952342 SAMN34074970													
+Cladophialophora yegresii CBS 114405	GCA_000585515.1_Clad_yegr_CBS_114405_V1_genomic	PRJNA164591 SAMN00974102													
+Exophiala alcalophila	GCA_001599775.1_JCM_1751_assembly_v001_genomic	PRJDB3660 SAMD00028380													
+Exophiala aquamarina CBS 119918	GCA_000709125.1_Exop_aqua_CBS_119918_V1_genomic	PRJNA164593 SAMN00974103													
+Exophiala bonariae	GCA_035927105.1_ASM3592710v1_genomic	PRJNA666634 SAMN23564062													
+Exophiala calicioides	GCA_001599795.1_JCM_6030_assembly_v001_genomic	PRJDB3661 SAMD00028381													
+Exophiala dermatitidis NIH/UT8656	GCA_000230625.1_Exop_derm_V1_genomic	PRJNA64935 SAMN00760826													
+Exophiala lecanii-corni	GCA_003955835.1_ASM395583v1_genomic	PRJNA489473 SAMN09980456													
+Exophiala mesophila	GCA_000836275.1_Exop_meso_CBS40295_V1_genomic	PRJNA325797 SAMN03176949													
+Exophiala oligosperma	GCA_000835515.1_Exop_olig_CBS72588_V1_genomic	PRJNA325798 SAMN03176945													
+Exophiala phaeomuriformis	GCA_010883475.1_ASM1088347v1_genomic	PRJNA600036 SAMN13781147													
+Exophiala sideris	GCA_000835395.1_Exop_side_CBS121828_V1_genomic	PRJNA325799 SAMN03176950													
+Exophiala sp.	GCA_004026505.1_ASM402650v1_genomic	PRJNA471744 SAMN09217383													
+Exophiala sp. BO6	GCA_015295625.1_ASM1529562v1_genomic	PRJNA656291 SAMN15776674													
+Exophiala sp. HKRS030	GCA_023897205.1_ASM2389720v1_genomic	PRJNA744509 SAMN20104351													
+Exophiala sp. LBMH1013	GCA_024611085.1_UAEM_Exo_1.0_genomic	PRJNA821518 SAMN27109707													
+Exophiala spinifera	GCA_000836115.1_Exop_spin_CBS89968_V1_genomic	PRJNA325800 SAMN03176947													
+Exophiala viscosa	GCA_022695815.1_EurotioJF033F_1_genomic	PRJNA500555 SAMN10366861													
+Exophiala xenobiotica	GCA_000835505.1_Exop_xeno_CBS118157_V1_genomic	PRJNA325801 SAMN03176944													
+Fonsecaea erecta	GCA_001651985.1_ASM165198v1_genomic	PRJNA312449 SAMN04497957													
+Fonsecaea monophora	GCA_001642475.1_ASM164247v1_genomic	PRJNA312449 SAMN04498468													
+Fonsecaea multimorphosa CBS 102226	GCA_000836435.1_Fons_mult_CBS_102226_V1_genomic	PRJNA233317 SAMN02567659													
+Fonsecaea nubica	GCA_001646965.1_ASM164696v1_genomic	PRJNA312449 SAMN04498467													
+Fonsecaea pedrosoi CBS 271.37	GCA_000835455.1_Fons_pedr_CBS_271_37_V1_genomic	PRJNA233314 SAMN02567656													
+Fonsecaea pugnacius	GCA_011800825.1_ASM1180082v1_genomic	PRJNA580185 SAMN13152001													
+Herpotrichiellaceae sp.	GCA_029293275.1_ASM2929327v1_genomic	PRJNA810309 SAMN26302846													
+Herpotrichiellaceae sp. UM238	GCA_000315175.1_Herpo1.0_genomic	PRJNA176958 SAMN02981467													
+Leptoxyphium fumago	GCA_001660795.1_Cfu_V1.2_genomic	PRJNA311153 SAMN04479285													
+Phialophora americana	GCA_016110215.1_ASM1611021v1_genomic	PRJNA674881 SAMN16679394													
+Phialophora chinensis	GCA_016109575.1_ASM1610957v1_genomic	PRJNA674881 SAMN16679404													
+Phialophora expanda	GCA_016109585.1_ASM1610958v1_genomic	PRJNA674881 SAMN16679407													
+Phialophora macrospora	GCA_000835435.1_Capr_semi_CBS27337_V1_genomic	PRJNA325795 SAMN03176943													
+Phialophora tarda	GCA_016109495.1_ASM1610949v1_genomic	PRJNA674881 SAMN16679413													
+Phialophora verrucosa	GCA_002099365.1_ASM209936v1_genomic	PRJNA357962 SAMN06158380													
+Rhinocladiella mackenziei CBS 650.93	GCA_000835555.1_Rhin_mack_CBS_650_93_V1_genomic	PRJNA233315 SAMN02567657													
+Rhinocladiella similis	GCA_024082115.1_ASM2408211v1_genomic	PRJNA847151 SAMN28920583													
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
