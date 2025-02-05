@@ -4,6 +4,6 @@
 
 "F_VF_screen.py" = screen file produced by "extract_VF.py" by those found in the sample genome 
 
-"L_uniquegenes.xlsx" = tblastn output of reference genome against sample to identify unique genes
+"L_unique_genes.xlsx" = tblastn output of reference genome against sample to identify unique genes
 
 "Listeria_prokka_genome_labels.tsv" = Prokka output for sample genome annotation
