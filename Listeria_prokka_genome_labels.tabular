@@ -1,0 +1,2861 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LKHOAPEA_00001	rRNA	110				5S ribosomal RNA
+LKHOAPEA_00002	CDS	459	ctsr			Transcriptional regulator CtsR
+LKHOAPEA_00003	CDS	519	mcsA		COG3880	Protein-arginine kinase activator protein
+LKHOAPEA_00004	CDS	1023	mcsB	2.7.14.1		Protein-arginine kinase
+LKHOAPEA_00005	CDS	2463	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+LKHOAPEA_00006	CDS	1374	radA	3.6.4.-	COG1066	DNA repair protein RadA
+LKHOAPEA_00007	CDS	1074	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+LKHOAPEA_00008	CDS	699	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+LKHOAPEA_00009	CDS	474	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+LKHOAPEA_00010	CDS	1476	gltX	6.1.1.17		Glutamate--tRNA ligase
+LKHOAPEA_00011	CDS	615	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+LKHOAPEA_00012	CDS	1416	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+LKHOAPEA_00013	CDS	411	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+LKHOAPEA_00014	CDS	756		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+LKHOAPEA_00015	CDS	513	yacP		COG3688	putative protein YacP
+LKHOAPEA_00016	CDS	606	sigH		COG1595	RNA polymerase sigma-H factor
+LKHOAPEA_00017	CDS	180	secE			Protein translocase subunit SecE
+LKHOAPEA_00018	CDS	534	nusG		COG0250	Transcription termination/antitermination protein NusG
+LKHOAPEA_00019	CDS	471				hypothetical protein
+LKHOAPEA_00020	CDS	426	rplK		COG0080	50S ribosomal protein L11
+LKHOAPEA_00021	CDS	690	rplA			50S ribosomal protein L1
+LKHOAPEA_00022	CDS	501	rplJ		COG0244	50S ribosomal protein L10
+LKHOAPEA_00023	CDS	363	rplL		COG0222	50S ribosomal protein L7/L12
+LKHOAPEA_00024	CDS	606	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+LKHOAPEA_00025	CDS	1179	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+LKHOAPEA_00026	CDS	996	degA_1		COG1609	HTH-type transcriptional regulator DegA
+LKHOAPEA_00027	CDS	1227	cycB_1		COG2182	Cyclodextrin-binding protein
+LKHOAPEA_00028	CDS	1338				hypothetical protein
+LKHOAPEA_00029	CDS	831	dasC		COG0395	Diacetylchitobiose uptake system permease protein DasC
+LKHOAPEA_00030	CDS	1698	malL_1	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+LKHOAPEA_00031	CDS	1443	gtfA	2.4.1.7	COG0366	Sucrose phosphorylase
+LKHOAPEA_00032	CDS	3555	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+LKHOAPEA_00033	CDS	3606	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+LKHOAPEA_00034	CDS	546	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+LKHOAPEA_00035	CDS	1461	bglH_1	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+LKHOAPEA_00036	CDS	273				hypothetical protein
+LKHOAPEA_00037	CDS	156				hypothetical protein
+LKHOAPEA_00038	CDS	1662	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LKHOAPEA_00039	CDS	1776	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LKHOAPEA_00040	CDS	405				hypothetical protein
+LKHOAPEA_00041	CDS	1647	inlH_1		COG4886	Internalin H
+LKHOAPEA_00042	CDS	1707	inlH_2		COG4886	Internalin H
+LKHOAPEA_00043	CDS	1500	inlH_3		COG4886	Internalin H
+LKHOAPEA_00044	CDS	1140	dapE	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+LKHOAPEA_00045	CDS	417			COG1846	putative HTH-type transcriptional regulator/GBAA_1941/BAS1801
+LKHOAPEA_00046	CDS	960	mhqA_1	1.13.11.-	COG0346	Putative ring-cleaving dioxygenase MhqA
+LKHOAPEA_00047	CDS	636	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+LKHOAPEA_00048	CDS	1887				hypothetical protein
+LKHOAPEA_00049	CDS	1086				hypothetical protein
+LKHOAPEA_00050	CDS	627				hypothetical protein
+LKHOAPEA_00051	CDS	1437	bglC_1	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglC
+LKHOAPEA_00052	CDS	813	yidA_1	3.1.3.23	COG0561	Sugar phosphatase YidA
+LKHOAPEA_00053	CDS	504				hypothetical protein
+LKHOAPEA_00054	CDS	663				hypothetical protein
+LKHOAPEA_00055	CDS	843	comEC_1		COG0658	ComE operon protein 3
+LKHOAPEA_00056	CDS	822	yitU_1	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+LKHOAPEA_00057	CDS	975	iolG_1	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+LKHOAPEA_00058	CDS	1101	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+LKHOAPEA_00059	CDS	2151	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+LKHOAPEA_00060	CDS	552	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+LKHOAPEA_00061	CDS	672				hypothetical protein
+LKHOAPEA_00062	CDS	780	yafV	3.5.1.3		Omega-amidase YafV
+LKHOAPEA_00063	CDS	663	metP_1		COG2011	Methionine import system permease protein MetP
+LKHOAPEA_00064	CDS	1017	metN_1	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+LKHOAPEA_00065	CDS	822	metQ_1		COG1464	D-methionine-binding lipoprotein MetQ
+LKHOAPEA_00066	CDS	1182	bacF	2.6.1.-	COG0436	Transaminase BacF
+LKHOAPEA_00067	CDS	714	walR		COG0745	Transcriptional regulatory protein WalR
+LKHOAPEA_00068	CDS	1833	walK	2.7.13.3		Sensor histidine kinase WalK
+LKHOAPEA_00069	CDS	1323	yycH		COG4863	Two-component system WalR/WalK regulatory protein YycH
+LKHOAPEA_00070	CDS	840	yycI		COG4853	Two-component system WalR/WalK regulatory protein YycI
+LKHOAPEA_00071	CDS	831	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+LKHOAPEA_00072	CDS	1503				hypothetical protein
+LKHOAPEA_00073	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+LKHOAPEA_00074	CDS	864	gltR_1		COG0583	HTH-type transcriptional regulator GltR
+LKHOAPEA_00075	CDS	738	nfrA1_1	1.5.1.38	COG0778	FMN reductase (NADPH)
+LKHOAPEA_00076	CDS	639				hypothetical protein
+LKHOAPEA_00077	CDS	1872	licR_1		COG1762	putative licABCH operon regulator
+LKHOAPEA_00078	CDS	1314	gmuC_1		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+LKHOAPEA_00079	CDS	291	celA_1	2.7.1.205		PTS system cellobiose-specific EIIB component
+LKHOAPEA_00080	CDS	1392	bglC_2	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglC
+LKHOAPEA_00081	CDS	342	gmuA_1		COG1447	PTS system oligo-beta-mannoside-specific EIIA component
+LKHOAPEA_00082	CDS	288				hypothetical protein
+LKHOAPEA_00083	CDS	555				hypothetical protein
+LKHOAPEA_00084	CDS	1089				hypothetical protein
+LKHOAPEA_00085	CDS	786		3.5.1.-	COG3394	Carbohydrate deacetylase
+LKHOAPEA_00086	CDS	675	tenA	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+LKHOAPEA_00087	CDS	810	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+LKHOAPEA_00088	CDS	804	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+LKHOAPEA_00089	CDS	645	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+LKHOAPEA_00090	CDS	1416	bglH_2	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+LKHOAPEA_00091	CDS	1245				hypothetical protein
+LKHOAPEA_00092	CDS	660				hypothetical protein
+LKHOAPEA_00093	CDS	393				hypothetical protein
+LKHOAPEA_00094	CDS	774				hypothetical protein
+LKHOAPEA_00095	CDS	468				hypothetical protein
+LKHOAPEA_00096	CDS	903				hypothetical protein
+LKHOAPEA_00097	CDS	873				hypothetical protein
+LKHOAPEA_00098	CDS	3942				hypothetical protein
+LKHOAPEA_00099	CDS	681				hypothetical protein
+LKHOAPEA_00100	CDS	1857				hypothetical protein
+LKHOAPEA_00101	CDS	837				hypothetical protein
+LKHOAPEA_00102	CDS	1875				hypothetical protein
+LKHOAPEA_00103	CDS	5328	inlI			Internalin I
+LKHOAPEA_00104	CDS	528				hypothetical protein
+LKHOAPEA_00105	CDS	285				hypothetical protein
+LKHOAPEA_00106	CDS	369				hypothetical protein
+LKHOAPEA_00107	CDS	1437				hypothetical protein
+LKHOAPEA_00108	CDS	396				hypothetical protein
+LKHOAPEA_00109	CDS	120				hypothetical protein
+LKHOAPEA_00110	CDS	231				hypothetical protein
+LKHOAPEA_00111	CDS	228				hypothetical protein
+LKHOAPEA_00112	CDS	261				hypothetical protein
+LKHOAPEA_00113	CDS	189				hypothetical protein
+LKHOAPEA_00114	CDS	1998	tkt_1	2.2.1.1		Transketolase
+LKHOAPEA_00115	CDS	657	tal_1	2.2.1.2	COG0176	Transaldolase
+LKHOAPEA_00116	CDS	765	golD	1.1.1.6		NAD-dependent glycerol dehydrogenase
+LKHOAPEA_00117	CDS	447	rpiB_1	5.3.1.6	COG0698	Ribose-5-P isomerase B
+LKHOAPEA_00118	CDS	765	tpi-2	5.3.1.1	COG0149	Triosephosphate isomerase 2
+LKHOAPEA_00119	CDS	651	dhaL-2	2.7.1.121	COG2376	PEP-dependent dihydroxyacetone kinase 2, ADP-binding subunit DhaL
+LKHOAPEA_00120	CDS	996	dhaK-2	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase 2, dihydroxyacetone-binding subunit DhaK
+LKHOAPEA_00121	CDS	342				Putative glycerol transporter
+LKHOAPEA_00122	CDS	432				Putative glycerol transporter
+LKHOAPEA_00123	CDS	378	dhaM-2	2.7.1.121	COG3412	PEP-dependent dihydroxyacetone kinase 2, phosphoryl donor subunit DhaM
+LKHOAPEA_00124	CDS	765	srlR_1		COG1349	Glucitol operon repressor
+LKHOAPEA_00125	CDS	411				hypothetical protein
+LKHOAPEA_00126	CDS	1770	inlH_4		COG4886	Internalin H
+LKHOAPEA_00127	CDS	1527	menE_1	6.2.1.26		2-succinylbenzoate--CoA ligase
+LKHOAPEA_00128	CDS	1521	ifcA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+LKHOAPEA_00129	CDS	1017	yhhX	1.-.-.-	COG0673	putative oxidoreductase YhhX
+LKHOAPEA_00130	CDS	447	fruA_1		COG1299	PTS system fructose-specific EIIABC component
+LKHOAPEA_00131	CDS	1395	fruA_2		COG1299	PTS system fructose-specific EIIABC component
+LKHOAPEA_00132	CDS	861	gatY_1	4.1.2.40		D-tagatose-1,6-bisphosphate aldolase subunit GatY
+LKHOAPEA_00133	CDS	771	srlR_2		COG1349	Glucitol operon repressor
+LKHOAPEA_00134	CDS	228				hypothetical protein
+LKHOAPEA_00135	CDS	735	tatC2		COG0805	Sec-independent protein translocase protein TatCy
+LKHOAPEA_00136	CDS	180	tatAy			Sec-independent protein translocase protein TatAy
+LKHOAPEA_00137	CDS	633		3.4.21.-	COG3340	putative peptidase
+LKHOAPEA_00138	CDS	954				hypothetical protein
+LKHOAPEA_00139	CDS	1485	efeU		COG0672	Ferrous iron permease EfeU
+LKHOAPEA_00140	CDS	1161	efeM		COG2822	putative iron uptake system component EfeM
+LKHOAPEA_00141	CDS	1266	efeN	1.11.1.-	COG2837	putative deferrochelatase/peroxidase EfeN
+LKHOAPEA_00142	CDS	510	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+LKHOAPEA_00143	CDS	720				putative transcriptional regulatory protein
+LKHOAPEA_00144	CDS	336				hypothetical protein
+LKHOAPEA_00145	CDS	714	gmuR_1		COG2188	HTH-type transcriptional regulator GmuR
+LKHOAPEA_00146	CDS	1443	gmuD_1	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+LKHOAPEA_00147	CDS	1335	licC_1		COG1455	Lichenan permease IIC component
+LKHOAPEA_00148	CDS	303	celA_2	2.7.1.205		PTS system cellobiose-specific EIIB component
+LKHOAPEA_00149	CDS	195				hypothetical protein
+LKHOAPEA_00150	CDS	921				hypothetical protein
+LKHOAPEA_00151	CDS	420				hypothetical protein
+LKHOAPEA_00152	CDS	447				hypothetical protein
+LKHOAPEA_00153	CDS	252				hypothetical protein
+LKHOAPEA_00154	CDS	285				hypothetical protein
+LKHOAPEA_00155	CDS	387				hypothetical protein
+LKHOAPEA_00156	CDS	762	ydjF		COG1349	putative HTH-type transcriptional regulator YdjF
+LKHOAPEA_00157	CDS	1467	iolA	1.2.1.-	COG1012	Malonate-semialdehyde dehydrogenase
+LKHOAPEA_00158	CDS	822	iolB	5.3.1.30	COG3718	5-deoxy-glucuronate isomerase
+LKHOAPEA_00159	CDS	978	iolC	2.7.1.92	COG0524	5-dehydro-2-deoxygluconokinase
+LKHOAPEA_00160	CDS	1920	iolD	3.7.1.22	COG3962	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+LKHOAPEA_00161	CDS	372	fra		COG5646	Intracellular iron chaperone frataxin
+LKHOAPEA_00162	CDS	369				hypothetical protein
+LKHOAPEA_00163	CDS	1116				hypothetical protein
+LKHOAPEA_00164	CDS	666	ung_1	3.2.2.27	COG0692	Uracil-DNA glycosylase
+LKHOAPEA_00165	CDS	300				hypothetical protein
+LKHOAPEA_00166	CDS	945				hypothetical protein
+LKHOAPEA_00167	CDS	450				hypothetical protein
+LKHOAPEA_00168	CDS	684				hypothetical protein
+LKHOAPEA_00169	CDS	159				hypothetical protein
+LKHOAPEA_00170	CDS	231				hypothetical protein
+LKHOAPEA_00171	CDS	801	proC_1	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+LKHOAPEA_00172	CDS	102				hypothetical protein
+LKHOAPEA_00173	CDS	102				hypothetical protein
+LKHOAPEA_00174	CDS	102				hypothetical protein
+LKHOAPEA_00175	CDS	1224				hypothetical protein
+LKHOAPEA_00176	CDS	651				hypothetical protein
+LKHOAPEA_00177	CDS	627				hypothetical protein
+LKHOAPEA_00178	CDS	675	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+LKHOAPEA_00179	CDS	1179	yknZ_1		COG0577	putative ABC transporter permease YknZ
+LKHOAPEA_00180	CDS	144				hypothetical protein
+LKHOAPEA_00181	CDS	483				hypothetical protein
+LKHOAPEA_00182	CDS	459	mngA_1		COG1299	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+LKHOAPEA_00183	CDS	333	fruA_3		COG1299	PTS system fructose-specific EIIB'BC component
+LKHOAPEA_00184	CDS	1113	fruA_4		COG1299	PTS system fructose-specific EIIB'BC component
+LKHOAPEA_00185	CDS	2634	mngB_1	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+LKHOAPEA_00186	CDS	1935	licR_2		COG1762	putative licABCH operon regulator
+LKHOAPEA_00187	CDS	417				hypothetical protein
+LKHOAPEA_00188	CDS	399				hypothetical protein
+LKHOAPEA_00189	CDS	1008				hypothetical protein
+LKHOAPEA_00190	CDS	381				hypothetical protein
+LKHOAPEA_00191	CDS	393				hypothetical protein
+LKHOAPEA_00192	CDS	423				hypothetical protein
+LKHOAPEA_00193	CDS	2472				hypothetical protein
+LKHOAPEA_00194	CDS	2604	rphC			rifamycin-inactivating phosphotransferase RphC
+LKHOAPEA_00195	CDS	879				hypothetical protein
+LKHOAPEA_00196	CDS	192				hypothetical protein
+LKHOAPEA_00197	CDS	810	zupT		COG0428	Zinc transporter ZupT
+LKHOAPEA_00198	CDS	1401	pgdA	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+LKHOAPEA_00199	CDS	204	ddrOP3			HTH-type transcriptional regulator DdrOP3
+LKHOAPEA_00200	CDS	411				hypothetical protein
+LKHOAPEA_00201	CDS	300				hypothetical protein
+LKHOAPEA_00202	CDS	555				Potassium channel
+LKHOAPEA_00203	CDS	813	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+LKHOAPEA_00204	CDS	858	glcU_1		COG4975	Glucose uptake protein GlcU
+LKHOAPEA_00205	CDS	1962	licR_3		COG1762	putative licABCH operon regulator
+LKHOAPEA_00206	CDS	465	fruA_5		COG1299	PTS system fructose-specific EIIABC component
+LKHOAPEA_00207	CDS	321	mngA_2		COG1299	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+LKHOAPEA_00208	CDS	1107	fruA_6		COG1299	PTS system fructose-specific EIIB'BC component
+LKHOAPEA_00209	CDS	2583	mngB_2	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+LKHOAPEA_00210	CDS	864	cynR			HTH-type transcriptional regulator CynR
+LKHOAPEA_00211	CDS	570		2.3.1.-		Putative acetyltransferase
+LKHOAPEA_00212	CDS	747		1.-.-.-		putative oxidoreductase
+LKHOAPEA_00213	CDS	426				hypothetical protein
+LKHOAPEA_00214	CDS	6555				hypothetical protein
+LKHOAPEA_00215	CDS	483				hypothetical protein
+LKHOAPEA_00216	CDS	165				hypothetical protein
+LKHOAPEA_00217	CDS	171				hypothetical protein
+LKHOAPEA_00218	CDS	357				hypothetical protein
+LKHOAPEA_00219	CDS	171				hypothetical protein
+LKHOAPEA_00220	CDS	588				hypothetical protein
+LKHOAPEA_00221	CDS	699				hypothetical protein
+LKHOAPEA_00222	CDS	2403	inlA		COG4886	Internalin A
+LKHOAPEA_00223	CDS	1893	inlB_1			Internalin B
+LKHOAPEA_00224	CDS	468				hypothetical protein
+LKHOAPEA_00225	CDS	846	qorB	1.6.5.2	COG0702	Quinone oxidoreductase 2
+LKHOAPEA_00226	CDS	618	lntA			Listeria nuclear targeted protein A
+LKHOAPEA_00227	CDS	1269				hypothetical protein
+LKHOAPEA_00228	CDS	504				hypothetical protein
+LKHOAPEA_00229	CDS	2037	pbp		COG0768	Beta-lactam-inducible penicillin-binding protein
+LKHOAPEA_00230	CDS	315				hypothetical protein
+LKHOAPEA_00231	CDS	930	msrR			Regulatory protein MsrR
+LKHOAPEA_00232	CDS	549				hypothetical protein
+LKHOAPEA_00233	CDS	726				hypothetical protein
+LKHOAPEA_00234	CDS	666				hypothetical protein
+LKHOAPEA_00235	CDS	756				hypothetical protein
+LKHOAPEA_00236	CDS	2160				hypothetical protein
+LKHOAPEA_00237	CDS	1149				hypothetical protein
+LKHOAPEA_00238	CDS	948	ravA	3.6.3.-		ATPase RavA
+LKHOAPEA_00239	CDS	1596				hypothetical protein
+LKHOAPEA_00240	CDS	1284	codB		COG1457	Cytosine permease
+LKHOAPEA_00241	CDS	1101				hypothetical protein
+LKHOAPEA_00242	CDS	1551	apc1	6.4.1.8	COG0145	Acetophenone carboxylase alpha subunit
+LKHOAPEA_00243	CDS	921				hypothetical protein
+	repeat_region	493				
+LKHOAPEA_00244	CDS	1992				hypothetical protein
+LKHOAPEA_00245	CDS	474				hypothetical protein
+LKHOAPEA_00246	CDS	1761				hypothetical protein
+LKHOAPEA_00247	CDS	486				hypothetical protein
+LKHOAPEA_00248	CDS	267				hypothetical protein
+LKHOAPEA_00249	CDS	177				hypothetical protein
+LKHOAPEA_00250	CDS	618				hypothetical protein
+LKHOAPEA_00251	CDS	348				hypothetical protein
+LKHOAPEA_00252	CDS	243				hypothetical protein
+LKHOAPEA_00253	CDS	981				hypothetical protein
+LKHOAPEA_00254	CDS	828				hypothetical protein
+LKHOAPEA_00255	CDS	360				hypothetical protein
+LKHOAPEA_00256	CDS	561				hypothetical protein
+LKHOAPEA_00257	CDS	1701	ohyA	4.2.1.53		Oleate hydratase
+LKHOAPEA_00258	CDS	1104	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+LKHOAPEA_00259	CDS	480				hypothetical protein
+LKHOAPEA_00260	CDS	366	isdG	1.14.14.18	COG2329	Heme-degrading monooxygenase
+LKHOAPEA_00261	CDS	369				hypothetical protein
+LKHOAPEA_00262	CDS	1302				hypothetical protein
+LKHOAPEA_00263	CDS	378				hypothetical protein
+LKHOAPEA_00264	CDS	576				hypothetical protein
+LKHOAPEA_00265	CDS	171	rpmF_1		COG0333	50S ribosomal protein L32
+LKHOAPEA_00266	CDS	729				hypothetical protein
+LKHOAPEA_00267	CDS	894	gltC_1			HTH-type transcriptional regulator GltC
+LKHOAPEA_00268	CDS	1995		1.-.-.-		NADH oxidase
+LKHOAPEA_00269	CDS	876	aroE_1	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+LKHOAPEA_00270	CDS	759	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+LKHOAPEA_00271	CDS	909	benM			HTH-type transcriptional regulator BenM
+LKHOAPEA_00272	CDS	1761				hypothetical protein
+LKHOAPEA_00273	CDS	594	axe2	3.1.1.72		Acetylxylan esterase
+LKHOAPEA_00274	CDS	960				hypothetical protein
+LKHOAPEA_00275	CDS	225				hypothetical protein
+LKHOAPEA_00276	CDS	450	rpiB_2	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+LKHOAPEA_00277	CDS	669	rpe_1	5.1.3.1		Ribulose-phosphate 3-epimerase
+LKHOAPEA_00278	CDS	651	tal_2	2.2.1.2	COG0176	Transaldolase
+LKHOAPEA_00279	CDS	2061				hypothetical protein
+LKHOAPEA_00280	CDS	603	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+LKHOAPEA_00281	CDS	468				hypothetical protein
+LKHOAPEA_00282	CDS	399				hypothetical protein
+LKHOAPEA_00283	CDS	651	rpe_2	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+LKHOAPEA_00284	CDS	1047	gatD_1	1.1.1.251	COG1063	Galactitol 1-phosphate 5-dehydrogenase
+LKHOAPEA_00285	CDS	294	gatB_1	2.7.1.200	COG3414	PTS system galactitol-specific EIIB component
+LKHOAPEA_00286	CDS	1272	gatC_1		COG3775	PTS system galactitol-specific EIIC component
+LKHOAPEA_00287	CDS	936	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+LKHOAPEA_00288	CDS	579				hypothetical protein
+LKHOAPEA_00289	CDS	681				hypothetical protein
+LKHOAPEA_00290	CDS	363				hypothetical protein
+LKHOAPEA_00291	CDS	459				hypothetical protein
+LKHOAPEA_00292	CDS	1830				hypothetical protein
+LKHOAPEA_00293	CDS	435				Putative universal stress protein
+LKHOAPEA_00294	CDS	1431				hypothetical protein
+LKHOAPEA_00295	CDS	816	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+LKHOAPEA_00296	CDS	369				hypothetical protein
+LKHOAPEA_00297	CDS	1416	emrY			putative multidrug resistance protein EmrY
+LKHOAPEA_00298	CDS	1005	nagK	2.7.1.59		N-acetyl-D-glucosamine kinase
+LKHOAPEA_00299	CDS	3063				hypothetical protein
+LKHOAPEA_00300	CDS	1590				hypothetical protein
+LKHOAPEA_00301	CDS	1206				hypothetical protein
+LKHOAPEA_00302	CDS	930	xerC_1			Tyrosine recombinase XerC
+LKHOAPEA_00303	CDS	1242				hypothetical protein
+LKHOAPEA_00304	CDS	1317	licH_1	3.2.1.86	COG1486	putative 6-phospho-beta-glucosidase
+LKHOAPEA_00305	CDS	753	ybbH_1		COG1737	putative HTH-type transcriptional regulator YbbH
+LKHOAPEA_00306	CDS	444				hypothetical protein
+LKHOAPEA_00307	CDS	1662			COG0659	putative sulfate transporter
+LKHOAPEA_00308	CDS	741	mta		COG0789	HTH-type transcriptional activator mta
+LKHOAPEA_00309	CDS	1476				hypothetical protein
+LKHOAPEA_00310	CDS	1497				hypothetical protein
+LKHOAPEA_00311	CDS	1251	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+LKHOAPEA_00312	CDS	2052				hypothetical protein
+LKHOAPEA_00313	CDS	855				hypothetical protein
+LKHOAPEA_00314	CDS	831	MENG_1	2.1.1.329		2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic
+LKHOAPEA_00315	CDS	270				hypothetical protein
+LKHOAPEA_00316	CDS	1356				hypothetical protein
+LKHOAPEA_00317	CDS	969	ccpB_1			Catabolite control protein B
+LKHOAPEA_00318	CDS	1323	licH_2	3.2.1.86	COG1486	putative 6-phospho-beta-glucosidase
+LKHOAPEA_00319	CDS	1272	hyuC	3.5.1.87		N-carbamoyl-L-amino-acid hydrolase
+LKHOAPEA_00320	CDS	1176	scmP_1	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+LKHOAPEA_00321	CDS	1017	lacD	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+LKHOAPEA_00322	CDS	1194	pbpX		COG1680	Putative penicillin-binding protein PbpX
+LKHOAPEA_00323	CDS	921	yfmC		COG4594	Fe(3+)-citrate-binding protein YfmC
+LKHOAPEA_00324	CDS	351	srlB		COG3731	PTS system glucitol/sorbitol-specific EIIA component
+LKHOAPEA_00325	CDS	987	srlE	2.7.1.198	COG3732	PTS system glucitol/sorbitol-specific EIIB component
+LKHOAPEA_00326	CDS	522	srlA		COG3730	PTS system glucitol/sorbitol-specific EIIC component
+LKHOAPEA_00327	CDS	381				hypothetical protein
+LKHOAPEA_00328	CDS	1251	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+LKHOAPEA_00329	CDS	948	sorC		COG2390	Sorbitol operon regulator
+LKHOAPEA_00330	CDS	666				hypothetical protein
+LKHOAPEA_00331	CDS	2025				hypothetical protein
+LKHOAPEA_00332	CDS	297				hypothetical protein
+LKHOAPEA_00333	CDS	843				hypothetical protein
+LKHOAPEA_00334	CDS	1032				hypothetical protein
+LKHOAPEA_00335	CDS	636				hypothetical protein
+LKHOAPEA_00336	CDS	1182	yqhD	1.1.1.-	COG1979	Alcohol dehydrogenase YqhD
+LKHOAPEA_00337	CDS	1479	dtpT		COG3104	Di-/tripeptide transporter
+LKHOAPEA_00338	CDS	708	gpmA_2	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+LKHOAPEA_00339	CDS	696	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+LKHOAPEA_00340	CDS	1041	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+LKHOAPEA_00341	CDS	906				hypothetical protein
+LKHOAPEA_00342	CDS	1377	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+LKHOAPEA_00343	CDS	312	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+LKHOAPEA_00344	CDS	318	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+LKHOAPEA_00345	CDS	756	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+LKHOAPEA_00346	CDS	723	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+LKHOAPEA_00347	CDS	627	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+LKHOAPEA_00348	CDS	585	hisB	4.2.1.19		Imidazoleglycerol-phosphate dehydratase
+LKHOAPEA_00349	CDS	1284	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+LKHOAPEA_00350	CDS	642	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+LKHOAPEA_00351	CDS	1179	hisZ		COG3705	ATP phosphoribosyltransferase regulatory subunit
+LKHOAPEA_00352	CDS	828	hisK	3.1.3.15	COG1387	Histidinol-phosphatase
+LKHOAPEA_00353	CDS	297	atl		COG3695	DNA base-flipping protein
+LKHOAPEA_00354	CDS	1032				hypothetical protein
+LKHOAPEA_00355	CDS	1296	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+LKHOAPEA_00356	CDS	1395	gmuD_2	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+LKHOAPEA_00357	CDS	729	gmuR_2		COG2188	HTH-type transcriptional regulator GmuR
+LKHOAPEA_00358	CDS	1464				hypothetical protein
+LKHOAPEA_00359	CDS	459				hypothetical protein
+LKHOAPEA_00360	CDS	753	yjjP		COG2966	Inner membrane protein YjjP
+LKHOAPEA_00361	CDS	210				hypothetical protein
+LKHOAPEA_00362	CDS	663	mhqD_1	3.1.-.-	COG0400	Putative hydrolase MhqD
+LKHOAPEA_00363	CDS	1185	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+LKHOAPEA_00364	CDS	1428	iap	3.4.-.-	COG0791	putative endopeptidase p60
+LKHOAPEA_00365	CDS	2331	secA2		COG0653	Protein translocase subunit SecA 2
+LKHOAPEA_00366	CDS	1173				hypothetical protein
+LKHOAPEA_00367	CDS	714				hypothetical protein
+LKHOAPEA_00368	CDS	1026				hypothetical protein
+LKHOAPEA_00369	CDS	2466				hypothetical protein
+LKHOAPEA_00370	CDS	1404	phrB	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+LKHOAPEA_00371	CDS	414				hypothetical protein
+LKHOAPEA_00372	CDS	1770				hypothetical protein
+LKHOAPEA_00373	CDS	774				hypothetical protein
+LKHOAPEA_00374	CDS	543				hypothetical protein
+LKHOAPEA_00375	CDS	801	nirC		COG2116	Nitrite transporter NirC
+LKHOAPEA_00376	CDS	1107	metXA	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+LKHOAPEA_00377	CDS	1278		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+LKHOAPEA_00378	CDS	528				hypothetical protein
+LKHOAPEA_00379	CDS	702				hypothetical protein
+LKHOAPEA_00380	CDS	549	bioY2		COG1268	Biotin transporter BioY2
+LKHOAPEA_00381	CDS	333				hypothetical protein
+LKHOAPEA_00382	CDS	591				hypothetical protein
+LKHOAPEA_00383	CDS	1101				hypothetical protein
+LKHOAPEA_00384	CDS	504	paiA	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+LKHOAPEA_00385	CDS	387				hypothetical protein
+LKHOAPEA_00386	CDS	345				hypothetical protein
+LKHOAPEA_00387	CDS	1341	yeeO_1		COG0534	putative FMN/FAD exporter YeeO
+LKHOAPEA_00388	CDS	483	slyA_1			Transcriptional regulator SlyA
+LKHOAPEA_00389	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+LKHOAPEA_00390	CDS	1818			COG1132	putative ABC transporter ATP-binding protein
+LKHOAPEA_00391	CDS	300		2.8.1.-	COG0607	Sulfurtransferase
+LKHOAPEA_00392	CDS	1770				hypothetical protein
+LKHOAPEA_00393	CDS	627	azoR4	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase 4
+LKHOAPEA_00394	CDS	504	slyA_2			Transcriptional regulator SlyA
+LKHOAPEA_00395	CDS	942				Zinc-type alcohol dehydrogenase-like protein
+LKHOAPEA_00396	CDS	534				hypothetical protein
+LKHOAPEA_00397	CDS	243				hypothetical protein
+LKHOAPEA_00398	CDS	1752				hypothetical protein
+LKHOAPEA_00399	CDS	495				hypothetical protein
+LKHOAPEA_00400	CDS	1143	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+LKHOAPEA_00401	CDS	456				hypothetical protein
+LKHOAPEA_00402	CDS	393				hypothetical protein
+LKHOAPEA_00403	CDS	741				hypothetical protein
+LKHOAPEA_00404	CDS	279				hypothetical protein
+LKHOAPEA_00405	CDS	279				hypothetical protein
+LKHOAPEA_00406	CDS	444	yycN	2.3.1.-	COG0454	putative N-acetyltransferase YycN
+LKHOAPEA_00407	CDS	702				hypothetical protein
+LKHOAPEA_00408	CDS	1680				hypothetical protein
+LKHOAPEA_00409	CDS	4785				hypothetical protein
+LKHOAPEA_00410	CDS	276				hypothetical protein
+LKHOAPEA_00411	CDS	528	rutB	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+LKHOAPEA_00412	CDS	705	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+LKHOAPEA_00413	CDS	417	nsrR			HTH-type transcriptional repressor NsrR
+LKHOAPEA_00414	CDS	594	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+LKHOAPEA_00415	tRNA	92				tRNA-Ser(cga)
+LKHOAPEA_00416	CDS	672				hypothetical protein
+LKHOAPEA_00417	CDS	186				hypothetical protein
+LKHOAPEA_00418	CDS	534				hypothetical protein
+LKHOAPEA_00419	CDS	918	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+LKHOAPEA_00420	CDS	1881	zosA	3.6.3.-	COG2217	Zinc-transporting ATPase
+LKHOAPEA_00421	CDS	729				hypothetical protein
+LKHOAPEA_00422	CDS	651	fsaA	4.1.2.-	COG0176	Fructose-6-phosphate aldolase 1
+LKHOAPEA_00423	CDS	1821	ltaS2		COG1368	Lipoteichoic acid synthase 2
+LKHOAPEA_00424	CDS	1392	yhdG_1		COG0531	putative amino acid permease YhdG
+LKHOAPEA_00425	CDS	840	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+LKHOAPEA_00426	CDS	285				hypothetical protein
+LKHOAPEA_00427	CDS	951				hypothetical protein
+LKHOAPEA_00428	CDS	642				hypothetical protein
+LKHOAPEA_00429	CDS	2691	smc_1			Chromosome partition protein Smc
+LKHOAPEA_00430	CDS	648				hypothetical protein
+LKHOAPEA_00431	CDS	537				hypothetical protein
+LKHOAPEA_00432	CDS	996				hypothetical protein
+LKHOAPEA_00433	CDS	210				hypothetical protein
+LKHOAPEA_00434	CDS	708	pphA	3.1.3.16	COG0639	Serine/threonine-protein phosphatase 1
+LKHOAPEA_00435	CDS	564				hypothetical protein
+LKHOAPEA_00436	CDS	441				hypothetical protein
+LKHOAPEA_00437	CDS	1170	bspRIM	2.1.1.37		Modification methylase BspRI
+LKHOAPEA_00438	CDS	2142				hypothetical protein
+LKHOAPEA_00439	CDS	993				hypothetical protein
+LKHOAPEA_00440	CDS	630	nth_1	4.2.99.18		Endonuclease III
+LKHOAPEA_00441	CDS	897				hypothetical protein
+LKHOAPEA_00442	CDS	282				hypothetical protein
+LKHOAPEA_00443	CDS	2475				hypothetical protein
+LKHOAPEA_00444	CDS	654				hypothetical protein
+LKHOAPEA_00445	CDS	1617				hypothetical protein
+LKHOAPEA_00446	CDS	309				hypothetical protein
+LKHOAPEA_00447	CDS	816	pdxK	2.7.1.35	COG0351	Pyridoxine kinase
+LKHOAPEA_00448	CDS	867	ywpJ_1	3.1.3.-	COG0561	Phosphatase YwpJ
+LKHOAPEA_00449	CDS	564	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+LKHOAPEA_00450	CDS	264				hypothetical protein
+LKHOAPEA_00451	CDS	378				hypothetical protein
+LKHOAPEA_00452	CDS	936	yadG		COG1131	putative ABC transporter ATP-binding protein YadG
+LKHOAPEA_00453	CDS	771	yadH		COG0842	Inner membrane transport permease YadH
+LKHOAPEA_00454	CDS	117				hypothetical protein
+LKHOAPEA_00455	CDS	885	yghA	1.-.-.-		putative oxidoreductase YghA
+LKHOAPEA_00456	CDS	177				hypothetical protein
+LKHOAPEA_00457	CDS	609				hypothetical protein
+LKHOAPEA_00458	CDS	429	yhaI		COG3152	Inner membrane protein YhaI
+LKHOAPEA_00459	CDS	210				hypothetical protein
+LKHOAPEA_00460	CDS	921	mogR			Motility gene repressor MogR
+LKHOAPEA_00461	CDS	315				hypothetical protein
+LKHOAPEA_00462	CDS	768	fliP		COG1338	Flagellar biosynthetic protein FliP
+LKHOAPEA_00463	CDS	273				hypothetical protein
+LKHOAPEA_00464	CDS	762	spaR		COG4791	Surface presentation of antigens protein SpaR
+LKHOAPEA_00465	CDS	1047	flhB		COG1377	Flagellar biosynthetic protein FlhB
+LKHOAPEA_00466	CDS	2076	flhA		COG1298	Flagellar biosynthesis protein FlhA
+LKHOAPEA_00467	CDS	1224	srp54			Signal recognition particle 54 kDa protein
+LKHOAPEA_00468	CDS	780	flgG		COG4786	Flagellar basal-body rod protein FlgG
+LKHOAPEA_00469	CDS	789	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+LKHOAPEA_00470	CDS	336				hypothetical protein
+LKHOAPEA_00471	CDS	852	pomA		COG1291	Chemotaxis protein PomA
+LKHOAPEA_00472	CDS	828	motB		COG1360	Motility protein B
+LKHOAPEA_00473	CDS	501				hypothetical protein
+LKHOAPEA_00474	CDS	1914				hypothetical protein
+LKHOAPEA_00475	CDS	909	cheV		COG0784	Chemotaxis protein CheV
+LKHOAPEA_00476	CDS	864	hag		COG1344	Flagellin
+LKHOAPEA_00477	CDS	360	cheY		COG0784	Chemotaxis protein CheY
+LKHOAPEA_00478	CDS	1857	cheA	2.7.13.3	COG0643	Chemotaxis protein CheA
+LKHOAPEA_00479	CDS	303				hypothetical protein
+LKHOAPEA_00480	CDS	411				hypothetical protein
+LKHOAPEA_00481	CDS	1047				hypothetical protein
+LKHOAPEA_00482	CDS	423				hypothetical protein
+LKHOAPEA_00483	CDS	1236	flgE		COG1749	Flagellar hook protein FlgE
+LKHOAPEA_00484	CDS	237				hypothetical protein
+LKHOAPEA_00485	CDS	993	fliM		COG1868	Flagellar motor switch protein FliM
+LKHOAPEA_00486	CDS	1548				hypothetical protein
+LKHOAPEA_00487	CDS	1413				hypothetical protein
+LKHOAPEA_00488	CDS	1167				hypothetical protein
+LKHOAPEA_00489	CDS	465				hypothetical protein
+LKHOAPEA_00490	CDS	429				hypothetical protein
+LKHOAPEA_00491	CDS	1521	flgK		COG1256	Flagellar hook-associated protein 1
+LKHOAPEA_00492	CDS	876				hypothetical protein
+LKHOAPEA_00493	CDS	1290	fliD		COG1345	Flagellar hook-associated protein 2
+LKHOAPEA_00494	CDS	387				hypothetical protein
+LKHOAPEA_00495	CDS	282				hypothetical protein
+LKHOAPEA_00496	CDS	402	flgB		COG1815	Flagellar basal body rod protein FlgB
+LKHOAPEA_00497	CDS	411	flgC		COG1558	Flagellar basal-body rod protein FlgC
+LKHOAPEA_00498	CDS	297	fliE			Flagellar hook-basal body complex protein FliE
+LKHOAPEA_00499	CDS	1653	fliF		COG1766	Flagellar M-ring protein
+LKHOAPEA_00500	CDS	1107	fliG		COG1536	Flagellar motor switch protein FliG
+LKHOAPEA_00501	CDS	693				hypothetical protein
+LKHOAPEA_00502	CDS	1302	yscN	7.1.2.2		putative ATP synthase YscN
+LKHOAPEA_00503	CDS	669	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+LKHOAPEA_00504	CDS	645				hypothetical protein
+LKHOAPEA_00505	CDS	327				hypothetical protein
+LKHOAPEA_00506	CDS	324				hypothetical protein
+LKHOAPEA_00507	CDS	648				hypothetical protein
+LKHOAPEA_00508	CDS	1731	ydaP		COG0028	Putative thiamine pyrophosphate-containing protein YdaP
+LKHOAPEA_00509	CDS	1806				hypothetical protein
+LKHOAPEA_00510	CDS	729				hypothetical protein
+LKHOAPEA_00511	CDS	213				hypothetical protein
+LKHOAPEA_00512	CDS	1806	glmS_1	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+LKHOAPEA_00513	CDS	741	ribF_1		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+LKHOAPEA_00514	CDS	480				hypothetical protein
+LKHOAPEA_00515	CDS	339				hypothetical protein
+LKHOAPEA_00516	CDS	405				hypothetical protein
+LKHOAPEA_00517	CDS	1905				hypothetical protein
+LKHOAPEA_00518	CDS	510				hypothetical protein
+LKHOAPEA_00519	CDS	660				hypothetical protein
+LKHOAPEA_00520	CDS	378	ytrA_1		COG1725	HTH-type transcriptional repressor YtrA
+LKHOAPEA_00521	CDS	690	ytrB_1		COG1131	ABC transporter ATP-binding protein YtrB
+LKHOAPEA_00522	CDS	705				hypothetical protein
+LKHOAPEA_00523	CDS	2001	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+LKHOAPEA_00524	CDS	504				hypothetical protein
+LKHOAPEA_00525	CDS	837		3.-.-.-		putative hydrolase
+LKHOAPEA_00526	CDS	681	fnr		COG0664	Anaerobic regulatory protein
+LKHOAPEA_00527	CDS	612				hypothetical protein
+LKHOAPEA_00528	CDS	822				hypothetical protein
+LKHOAPEA_00529	CDS	906	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+LKHOAPEA_00530	CDS	981				hypothetical protein
+LKHOAPEA_00531	CDS	891	mhqA_2	1.13.11.-	COG0346	Putative ring-cleaving dioxygenase MhqA
+LKHOAPEA_00532	CDS	960	mhqA_3	1.13.11.-	COG0346	Putative ring-cleaving dioxygenase MhqA
+LKHOAPEA_00533	CDS	609	mhqD_2	3.1.-.-	COG0400	Putative hydrolase MhqD
+LKHOAPEA_00534	CDS	621				hypothetical protein
+LKHOAPEA_00535	CDS	1257	hflX_1		COG2262	GTPase HflX
+LKHOAPEA_00536	CDS	873	ypbG		COG1408	putative protein YpbG
+LKHOAPEA_00537	CDS	990	lplJ_1	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+LKHOAPEA_00538	CDS	1299				hypothetical protein
+LKHOAPEA_00539	CDS	891	ngcF		COG1175	Diacetylchitobiose uptake system permease protein NgcF
+LKHOAPEA_00540	CDS	876	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+LKHOAPEA_00541	CDS	1254	ugpB		COG1653	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+LKHOAPEA_00542	CDS	1029				hypothetical protein
+LKHOAPEA_00543	CDS	1119	araR		COG1609	Arabinose metabolism transcriptional repressor
+LKHOAPEA_00544	CDS	753				hypothetical protein
+LKHOAPEA_00545	CDS	648				hypothetical protein
+LKHOAPEA_00546	CDS	990	yhfP	1.6.5.-	COG0604	Putative quinone oxidoreductase YhfP
+LKHOAPEA_00547	CDS	930	dagK_1	2.7.1.107	COG1597	Diacylglycerol kinase
+LKHOAPEA_00548	CDS	333				hypothetical protein
+LKHOAPEA_00549	CDS	867	bglK_1	2.7.1.85	COG1940	Beta-glucoside kinase
+LKHOAPEA_00550	CDS	384				hypothetical protein
+LKHOAPEA_00551	CDS	351				hypothetical protein
+LKHOAPEA_00552	CDS	468				hypothetical protein
+LKHOAPEA_00553	CDS	879	manZ_1		COG3716	PTS system mannose-specific EIID component
+LKHOAPEA_00554	CDS	816	manY		COG3715	PTS system mannose-specific EIIC component
+LKHOAPEA_00555	CDS	486	manX_1	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+LKHOAPEA_00556	CDS	435	manX_2	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+LKHOAPEA_00557	CDS	2817	dgaR			Transcriptional regulatory protein DagR
+LKHOAPEA_00558	CDS	636	azoR	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase
+LKHOAPEA_00559	CDS	1377	cycA		COG1113	D-serine/D-alanine/glycine transporter
+LKHOAPEA_00560	CDS	4431				hypothetical protein
+LKHOAPEA_00561	CDS	2181				hypothetical protein
+LKHOAPEA_00562	CDS	849	yddE	5.1.-.-	COG0384	putative isomerase YddE
+LKHOAPEA_00563	CDS	477	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+LKHOAPEA_00564	CDS	651				hypothetical protein
+LKHOAPEA_00565	CDS	891		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+LKHOAPEA_00566	CDS	702	ydfK		COG1811	putative membrane protein YdfK
+LKHOAPEA_00567	CDS	642				hypothetical protein
+LKHOAPEA_00568	CDS	921	rarD		COG2962	Protein RarD
+LKHOAPEA_00569	CDS	531				hypothetical protein
+LKHOAPEA_00570	CDS	462				hypothetical protein
+LKHOAPEA_00571	CDS	1461	lysP		COG0833	Lysine-specific permease
+LKHOAPEA_00572	CDS	762	pfyP			Blue-light photoreceptor
+LKHOAPEA_00573	CDS	354				hypothetical protein
+LKHOAPEA_00574	CDS	639	ywaC	2.7.6.5	COG2357	GTP pyrophosphokinase YwaC
+LKHOAPEA_00575	CDS	2049	nhaK		COG0025	Sodium, potassium, lithium and rubidium/H(+) antiporter
+LKHOAPEA_00576	CDS	474				hypothetical protein
+LKHOAPEA_00577	CDS	459				hypothetical protein
+LKHOAPEA_00578	CDS	543	puuR			HTH-type transcriptional regulator PuuR
+LKHOAPEA_00579	CDS	1095	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+LKHOAPEA_00580	CDS	810	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+LKHOAPEA_00581	CDS	807	ydcV			Inner membrane ABC transporter permease protein YdcV
+LKHOAPEA_00582	CDS	1074	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+LKHOAPEA_00583	CDS	702	cah	4.2.1.1	COG3338	Carbonic anhydrase
+LKHOAPEA_00584	CDS	543				hypothetical protein
+LKHOAPEA_00585	CDS	873	gmuE	2.7.1.4	COG1940	Putative fructokinase
+LKHOAPEA_00586	CDS	927		1.6.5.11	COG2070	NADH:quinone reductase
+LKHOAPEA_00587	CDS	285				hypothetical protein
+LKHOAPEA_00588	CDS	369				hypothetical protein
+LKHOAPEA_00589	CDS	1476				hypothetical protein
+LKHOAPEA_00590	CDS	432				hypothetical protein
+LKHOAPEA_00591	CDS	273				hypothetical protein
+LKHOAPEA_00592	CDS	405				hypothetical protein
+LKHOAPEA_00593	CDS	2631		7.2.2.10		Calcium-transporting ATPase 1
+LKHOAPEA_00594	CDS	849				hypothetical protein
+LKHOAPEA_00595	CDS	558	mshD_1	2.3.1.189		Mycothiol acetyltransferase
+LKHOAPEA_00596	CDS	663				hypothetical protein
+LKHOAPEA_00597	CDS	390			COG0789	putative HTH-type transcriptional regulator
+LKHOAPEA_00598	CDS	825	yvgN_1	1.1.1.-	COG0656	Glyoxal reductase
+LKHOAPEA_00599	CDS	969				hypothetical protein
+LKHOAPEA_00600	CDS	1281	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+LKHOAPEA_00601	CDS	1635				hypothetical protein
+LKHOAPEA_00602	CDS	3648		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+LKHOAPEA_00603	CDS	1962	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+LKHOAPEA_00604	CDS	912				hypothetical protein
+LKHOAPEA_00605	CDS	285				hypothetical protein
+LKHOAPEA_00606	CDS	891				hypothetical protein
+LKHOAPEA_00607	CDS	774				hypothetical protein
+LKHOAPEA_00608	CDS	1005				hypothetical protein
+LKHOAPEA_00609	CDS	414	psiE			Protein PsiE
+LKHOAPEA_00610	CDS	1638		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+LKHOAPEA_00611	CDS	1386	uhpT		COG2271	Hexose-6-phosphate:phosphate antiporter
+LKHOAPEA_00612	CDS	1212	tetA			Tetracycline resistance protein, class C
+LKHOAPEA_00613	CDS	471				hypothetical protein
+LKHOAPEA_00614	CDS	2643		7.2.2.10	COG0474	Calcium-transporting ATPase
+LKHOAPEA_00615	CDS	6093				hypothetical protein
+LKHOAPEA_00616	CDS	258				hypothetical protein
+LKHOAPEA_00617	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+LKHOAPEA_00618	CDS	1104	metE_1	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+LKHOAPEA_00619	CDS	1101	uvrC_1		COG0322	UvrABC system protein C
+LKHOAPEA_00620	CDS	1443	mltF_1	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+LKHOAPEA_00621	CDS	729	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+LKHOAPEA_00622	CDS	1848	QRSL1	6.3.5.7		Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial
+LKHOAPEA_00623	CDS	180				hypothetical protein
+LKHOAPEA_00624	CDS	759				hypothetical protein
+LKHOAPEA_00625	CDS	555				hypothetical protein
+LKHOAPEA_00626	CDS	342	gdx_1			Guanidinium exporter
+LKHOAPEA_00627	CDS	321	gdx_2			Guanidinium exporter
+LKHOAPEA_00628	CDS	1113	ddl	6.3.2.4		D-alanine--D-alanine ligase
+LKHOAPEA_00629	CDS	1413	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+LKHOAPEA_00630	CDS	714		3.1.1.23		Thermostable monoacylglycerol lipase
+LKHOAPEA_00631	CDS	1026	exuR_1		COG1609	putative HTH-type transcriptional repressor ExuR
+LKHOAPEA_00632	CDS	1320				hypothetical protein
+LKHOAPEA_00633	CDS	879	lacF_1			Lactose transport system permease protein LacF
+LKHOAPEA_00634	CDS	834	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+LKHOAPEA_00635	CDS	1533	malL_2	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+LKHOAPEA_00636	CDS	915				hypothetical protein
+LKHOAPEA_00637	CDS	1068		2.4.1.281		4-O-beta-D-mannosyl-D-glucose phosphorylase
+LKHOAPEA_00638	CDS	1674	pgcA_1	5.4.2.2		Phosphoglucomutase
+LKHOAPEA_00639	CDS	1554	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+LKHOAPEA_00640	CDS	177				hypothetical protein
+LKHOAPEA_00641	CDS	489	queT		COG4708	Queuosine precursor transporter QueT
+LKHOAPEA_00642	CDS	558				hypothetical protein
+LKHOAPEA_00643	CDS	999	ligJ	4.2.1.-		2-keto-4-carboxy-3-hexenedioate hydratase
+LKHOAPEA_00644	CDS	312				hypothetical protein
+LKHOAPEA_00645	CDS	354	ytcD		COG1733	putative HTH-type transcriptional regulator YtcD
+LKHOAPEA_00646	CDS	1167	ydhP		COG2814	Inner membrane transport protein YdhP
+LKHOAPEA_00647	CDS	2019				hypothetical protein
+LKHOAPEA_00648	CDS	330	lacF_2			PTS system lactose-specific EIIA component
+LKHOAPEA_00649	CDS	336	celA_3	2.7.1.205		PTS system cellobiose-specific EIIB component
+LKHOAPEA_00650	CDS	1326	licC_2		COG1455	Lichenan permease IIC component
+LKHOAPEA_00651	CDS	729	nagB_1	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase 1
+LKHOAPEA_00652	CDS	954	yajO_1	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+LKHOAPEA_00653	CDS	768				hypothetical protein
+LKHOAPEA_00654	CDS	1389			COG1388	Cell wall protein
+LKHOAPEA_00655	CDS	477				hypothetical protein
+LKHOAPEA_00656	CDS	483				hypothetical protein
+LKHOAPEA_00657	CDS	1476				hypothetical protein
+LKHOAPEA_00658	CDS	1380	hemY	1.3.3.4	COG1232	Protoporphyrinogen oxidase
+LKHOAPEA_00659	CDS	357	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+LKHOAPEA_00660	CDS	1107	alr	5.1.1.1		Alanine racemase
+LKHOAPEA_00661	CDS	279	ndoAI		COG0864	Antitoxin EndoAI
+LKHOAPEA_00662	CDS	345	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+LKHOAPEA_00663	CDS	837	rsbRA		COG1366	RsbT co-antagonist protein RsbRA
+LKHOAPEA_00664	CDS	357	rsbS		COG1366	RsbT antagonist protein RsbS
+LKHOAPEA_00665	CDS	417	rsbT	2.7.11.1	COG2172	Serine/threonine-protein kinase RsbT
+LKHOAPEA_00666	CDS	1005	rsbU	3.1.3.3	COG2208	Phosphoserine phosphatase RsbU
+LKHOAPEA_00667	CDS	345	rsbV		COG1366	Anti-sigma-B factor antagonist
+LKHOAPEA_00668	CDS	474	rsbW	2.7.11.1	COG2172	Serine-protein kinase RsbW
+LKHOAPEA_00669	CDS	780	sigB		COG1191	RNA polymerase sigma-B factor
+LKHOAPEA_00670	CDS	600	rsbX	3.1.3.3		Phosphoserine phosphatase RsbX
+LKHOAPEA_00671	CDS	1632	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+LKHOAPEA_00672	CDS	2178	yhgF		COG2183	Protein YhgF
+LKHOAPEA_00673	CDS	468				Protein SprT-like protein
+LKHOAPEA_00674	tRNA	75				tRNA-Asn(gtt)
+LKHOAPEA_00675	tRNA	90				tRNA-Ser(gct)
+LKHOAPEA_00676	CDS	429	ybiA	3.2.2.-	COG3236	N-glycosidase YbiA
+LKHOAPEA_00677	CDS	486				hypothetical protein
+LKHOAPEA_00678	CDS	393				hypothetical protein
+LKHOAPEA_00679	CDS	1287	gmuC_2		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+LKHOAPEA_00680	CDS	714	gmuR_3		COG2188	HTH-type transcriptional regulator GmuR
+LKHOAPEA_00681	tRNA	73				tRNA-Glu(ttc)
+LKHOAPEA_00682	tRNA	74				tRNA-Asp(gtc)
+LKHOAPEA_00683	CDS	381				hypothetical protein
+LKHOAPEA_00684	CDS	675				hypothetical protein
+LKHOAPEA_00685	CDS	498				hypothetical protein
+LKHOAPEA_00686	CDS	1350	gor	1.8.1.7	COG1249	Glutathione reductase
+LKHOAPEA_00687	CDS	675	gpmA_3	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+LKHOAPEA_00688	CDS	1137				hypothetical protein
+LKHOAPEA_00689	CDS	393	ytrA_2		COG1725	HTH-type transcriptional repressor YtrA
+LKHOAPEA_00690	CDS	1104				hypothetical protein
+LKHOAPEA_00691	CDS	504				hypothetical protein
+LKHOAPEA_00692	CDS	813	focA		COG2116	putative formate transporter 1
+LKHOAPEA_00693	CDS	1467	davD	1.2.1.-	COG1012	Glutarate-semialdehyde dehydrogenase
+LKHOAPEA_00694	CDS	306	licB_1	2.7.1.-	COG1440	Lichenan-specific phosphotransferase enzyme IIB component
+LKHOAPEA_00695	CDS	1269	licC_3		COG1455	Lichenan permease IIC component
+LKHOAPEA_00696	CDS	351	lacF_3		COG1447	PTS system lactose-specific EIIA component
+LKHOAPEA_00697	CDS	1452	bglH_3	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+LKHOAPEA_00698	CDS	1899	licR_4		COG1762	putative licABCH operon regulator
+LKHOAPEA_00699	CDS	1572	lmo0919_fam			lincomycin resistance ABC-F type ribosomal protection protein
+LKHOAPEA_00700	CDS	1041			COG0701	Putative two-component membrane permease complex subunit SMU_747c
+LKHOAPEA_00701	CDS	840			COG3689	Putative two-component membrane permease complex subunit SMU_746c
+LKHOAPEA_00702	CDS	921	coaA	2.7.1.33		Pantothenate kinase
+LKHOAPEA_00703	CDS	723	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+LKHOAPEA_00704	CDS	1116	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+LKHOAPEA_00705	CDS	657	slmA_1			Nucleoid occlusion factor SlmA
+LKHOAPEA_00706	CDS	1962	ltaS1		COG1368	Lipoteichoic acid synthase 1
+LKHOAPEA_00707	CDS	624		3.2.2.-		Putative 3-methyladenine DNA glycosylase
+LKHOAPEA_00708	CDS	669	srtA	3.4.22.-	COG3764	Sortase A
+LKHOAPEA_00709	CDS	732			COG1234	putative protein
+LKHOAPEA_00710	CDS	996	lplJ_2	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+LKHOAPEA_00711	CDS	606				hypothetical protein
+LKHOAPEA_00712	CDS	2058				hypothetical protein
+LKHOAPEA_00713	tRNA	71				tRNA-Gly(tcc)
+LKHOAPEA_00714	CDS	1143	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+LKHOAPEA_00715	CDS	510	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+LKHOAPEA_00716	CDS	741	nfrA1_2	1.5.1.38	COG0778	FMN reductase (NADPH)
+LKHOAPEA_00717	CDS	162				hypothetical protein
+LKHOAPEA_00718	CDS	459	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+LKHOAPEA_00719	CDS	747				hypothetical protein
+LKHOAPEA_00720	CDS	969				hypothetical protein
+LKHOAPEA_00721	CDS	1806	htpG		COG0326	Chaperone protein HtpG
+LKHOAPEA_00722	CDS	471	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+LKHOAPEA_00723	CDS	303				putative protein
+LKHOAPEA_00724	CDS	1131	psbU			Photosystem II 12 kDa extrinsic protein
+LKHOAPEA_00725	CDS	228				hypothetical protein
+LKHOAPEA_00726	CDS	1218	yycB		COG2807	putative transporter YycB
+LKHOAPEA_00727	CDS	690	nanR			HTH-type transcriptional repressor NanR
+LKHOAPEA_00728	CDS	1047				hypothetical protein
+LKHOAPEA_00729	CDS	900				hypothetical protein
+LKHOAPEA_00730	CDS	822				hypothetical protein
+LKHOAPEA_00731	CDS	459				hypothetical protein
+LKHOAPEA_00732	CDS	234				hypothetical protein
+LKHOAPEA_00733	CDS	315				hypothetical protein
+LKHOAPEA_00734	CDS	846				hypothetical protein
+LKHOAPEA_00735	CDS	1134	nagA_1	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+LKHOAPEA_00736	CDS	705	nagB_2	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+LKHOAPEA_00737	CDS	723	nagR_1		COG2188	HTH-type transcriptional repressor NagR
+LKHOAPEA_00738	CDS	1056	tagO_1	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+LKHOAPEA_00739	CDS	909	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+LKHOAPEA_00740	CDS	1227				hypothetical protein
+LKHOAPEA_00741	CDS	558	lemA		COG1704	Protein LemA
+LKHOAPEA_00742	CDS	915	htpX	3.4.24.-	COG0501	Protease HtpX 
+LKHOAPEA_00743	CDS	819				hypothetical protein
+LKHOAPEA_00744	CDS	585	yjbK	3.6.1.-	COG4116	Putative triphosphatase YjbK
+LKHOAPEA_00745	CDS	468				hypothetical protein
+LKHOAPEA_00746	CDS	669	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+LKHOAPEA_00747	CDS	795	nadK1_1	2.7.1.23	COG0061	NAD kinase 1
+LKHOAPEA_00748	CDS	891	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+LKHOAPEA_00749	CDS	789	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+LKHOAPEA_00750	CDS	1275	dltD		COG3966	Protein DltD
+LKHOAPEA_00751	CDS	237	dltC		COG0236	D-alanyl carrier protein
+LKHOAPEA_00752	CDS	1185				hypothetical protein
+LKHOAPEA_00753	CDS	1548	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+LKHOAPEA_00754	CDS	147				hypothetical protein
+LKHOAPEA_00755	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+LKHOAPEA_00756	CDS	435		2.3.1.-		Acetyltransferase
+LKHOAPEA_00757	CDS	750				hypothetical protein
+LKHOAPEA_00758	CDS	1020	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+LKHOAPEA_00759	CDS	765	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+LKHOAPEA_00760	CDS	753	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+LKHOAPEA_00761	CDS	1476	bmr3			Multidrug resistance protein 3
+LKHOAPEA_00762	CDS	1053	ysdC_1	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+LKHOAPEA_00763	CDS	480	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+LKHOAPEA_00764	CDS	456				hypothetical protein
+LKHOAPEA_00765	CDS	429				hypothetical protein
+LKHOAPEA_00766	CDS	912	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LKHOAPEA_00767	CDS	855				hypothetical protein
+LKHOAPEA_00768	CDS	1569	prfC			Peptide chain release factor 3
+LKHOAPEA_00769	CDS	426	slyA_3			Transcriptional regulator SlyA
+LKHOAPEA_00770	CDS	1362	mepA_1		COG0534	Multidrug export protein MepA
+LKHOAPEA_00771	CDS	768				hypothetical protein
+LKHOAPEA_00772	CDS	768				hypothetical protein
+LKHOAPEA_00773	CDS	1416	ktrB		COG0168	Ktr system potassium uptake protein B
+LKHOAPEA_00774	CDS	369				hypothetical protein
+LKHOAPEA_00775	CDS	1032				hypothetical protein
+LKHOAPEA_00776	CDS	480	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+LKHOAPEA_00777	CDS	2169	clpE		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpE
+LKHOAPEA_00778	CDS	612				hypothetical protein
+LKHOAPEA_00779	CDS	792				hypothetical protein
+LKHOAPEA_00780	CDS	1467	crtN	1.3.8.2		4,4'-diapophytoene desaturase (4,4'-diapolycopene-forming)
+LKHOAPEA_00781	CDS	285				hypothetical protein
+LKHOAPEA_00782	CDS	267	ptsH			Phosphocarrier protein HPr
+LKHOAPEA_00783	CDS	1719	ptsI	2.7.3.9		Phosphoenolpyruvate-protein phosphotransferase
+LKHOAPEA_00784	CDS	1035				hypothetical protein
+LKHOAPEA_00785	CDS	861	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+LKHOAPEA_00786	CDS	1146	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+LKHOAPEA_00787	CDS	222				hypothetical protein
+LKHOAPEA_00788	CDS	234	ykuJ		COG4703	putative protein YkuJ
+LKHOAPEA_00789	CDS	453	ykuL		COG0517	CBS domain-containing protein YkuL
+LKHOAPEA_00790	CDS	879	gltR_2		COG0583	HTH-type transcriptional regulator GltR
+LKHOAPEA_00791	CDS	711	dapH_1	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+LKHOAPEA_00792	CDS	1116		3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+LKHOAPEA_00793	CDS	882	ykuT		COG0668	putative MscS family protein YkuT
+LKHOAPEA_00794	CDS	1194	gbuA	7.6.2.9		Glycine betaine/carnitine transport ATP-binding protein GbuA
+LKHOAPEA_00795	CDS	849	gbuB			Glycine betaine/carnitine transport permease protein GbuB
+LKHOAPEA_00796	CDS	903	gbuC			Glycine betaine/carnitine transport binding protein GbuC
+LKHOAPEA_00797	CDS	492	crr			PTS system glucose-specific EIIA component
+LKHOAPEA_00798	CDS	696	cutC_1		COG3142	Copper homeostasis protein CutC
+LKHOAPEA_00799	CDS	873	cvfB			Conserved virulence factor B
+LKHOAPEA_00800	CDS	714	liaF		COG4758	Protein LiaF
+LKHOAPEA_00801	CDS	1059	liaS	2.7.13.3	COG4585	Sensor histidine kinase LiaS
+LKHOAPEA_00802	CDS	639	liaR		COG2197	Transcriptional regulatory protein LiaR
+LKHOAPEA_00803	CDS	660	ktrA		COG0569	Ktr system potassium uptake protein A
+LKHOAPEA_00804	CDS	921				hypothetical protein
+LKHOAPEA_00805	CDS	852				hypothetical protein
+LKHOAPEA_00806	CDS	966	tagU	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+LKHOAPEA_00807	CDS	1668	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+LKHOAPEA_00808	CDS	210				hypothetical protein
+LKHOAPEA_00809	CDS	771	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+LKHOAPEA_00810	CDS	1029	exuR_2		COG1609	putative HTH-type transcriptional repressor ExuR
+LKHOAPEA_00811	CDS	1404				hypothetical protein
+LKHOAPEA_00812	CDS	825	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+LKHOAPEA_00813	CDS	948	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+LKHOAPEA_00814	CDS	1464	glpK_1	2.7.1.30	COG0554	Glycerol kinase
+LKHOAPEA_00815	CDS	1857	bglF_1		COG1263	PTS system beta-glucoside-specific EIIBCA component
+LKHOAPEA_00816	CDS	1266				hypothetical protein
+LKHOAPEA_00817	CDS	804				hypothetical protein
+LKHOAPEA_00818	CDS	582	mobA	2.7.7.77		putative molybdenum cofactor guanylyltransferase
+LKHOAPEA_00819	CDS	663	cysA	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+LKHOAPEA_00820	CDS	672	modB		COG4149	Molybdenum transport system permease protein ModB
+LKHOAPEA_00821	CDS	771	modA		COG0725	Molybdate-binding protein ModA
+LKHOAPEA_00822	CDS	1224	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+LKHOAPEA_00823	CDS	486	mobB		COG1763	Molybdopterin-guanine dinucleotide biosynthesis adapter protein
+LKHOAPEA_00824	CDS	423	moaE	2.8.1.12		Molybdopterin synthase catalytic subunit
+LKHOAPEA_00825	CDS	249	moaD			Molybdopterin synthase sulfur carrier subunit
+LKHOAPEA_00826	CDS	483	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+LKHOAPEA_00827	CDS	1002	moaA2	4.1.99.22	COG2896	GTP 3',8-cyclase 2
+LKHOAPEA_00828	CDS	489	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+LKHOAPEA_00829	CDS	999				hypothetical protein
+LKHOAPEA_00830	CDS	555				hypothetical protein
+LKHOAPEA_00831	CDS	552	def2	3.5.1.88	COG0242	Peptide deformylase 2
+LKHOAPEA_00832	CDS	1116	pdhA	1.2.4.1	COG1071	Pyruvate dehydrogenase E1 component subunit alpha
+LKHOAPEA_00833	CDS	978	pdhB	1.2.4.1		Pyruvate dehydrogenase E1 component subunit beta
+LKHOAPEA_00834	CDS	1635	nqrA	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit A
+LKHOAPEA_00835	CDS	1404	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+LKHOAPEA_00836	CDS	96				hypothetical protein
+LKHOAPEA_00837	CDS	312				hypothetical protein
+LKHOAPEA_00838	CDS	954	ldh_1	1.1.1.27		L-lactate dehydrogenase
+LKHOAPEA_00839	CDS	273				hypothetical protein
+LKHOAPEA_00840	CDS	531				hypothetical protein
+LKHOAPEA_00841	CDS	945	corA		COG0598	Cobalt/magnesium transport protein CorA
+LKHOAPEA_00842	CDS	615				hypothetical protein
+LKHOAPEA_00843	CDS	774	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+LKHOAPEA_00844	CDS	1839	typA		COG1217	GTP-binding protein TypA/BipA 
+LKHOAPEA_00845	CDS	879				hypothetical protein
+LKHOAPEA_00846	CDS	231				hypothetical protein
+LKHOAPEA_00847	CDS	282				hypothetical protein
+LKHOAPEA_00848	CDS	1209	ftsW_1	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+LKHOAPEA_00849	CDS	3441	pycA	6.4.1.1		Pyruvate carboxylase
+LKHOAPEA_00850	CDS	894	btuF		COG0614	Vitamin B12-binding protein
+LKHOAPEA_00851	CDS	804	tagG		COG1682	Teichoic acid translocation permease protein TagG
+LKHOAPEA_00852	CDS	1008	tagH	7.5.2.4	COG1134	Teichoic acids export ATP-binding protein TagH
+LKHOAPEA_00853	CDS	2325				hypothetical protein
+LKHOAPEA_00854	CDS	2007				hypothetical protein
+LKHOAPEA_00855	CDS	990	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+LKHOAPEA_00856	CDS	2103				hypothetical protein
+LKHOAPEA_00857	CDS	2325	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+LKHOAPEA_00858	CDS	1011				hypothetical protein
+LKHOAPEA_00859	CDS	888	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+LKHOAPEA_00860	CDS	714	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+LKHOAPEA_00861	CDS	1026	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase 1
+LKHOAPEA_00862	CDS	1380	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+LKHOAPEA_00863	CDS	1155	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+LKHOAPEA_00864	CDS	1152	tagB	2.7.8.44	COG1887	Teichoic acid glycerol-phosphate primase
+LKHOAPEA_00865	CDS	384	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+LKHOAPEA_00866	CDS	1491	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+LKHOAPEA_00867	CDS	825	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+LKHOAPEA_00868	CDS	309				hypothetical protein
+LKHOAPEA_00869	CDS	405				hypothetical protein
+LKHOAPEA_00870	CDS	1545	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+LKHOAPEA_00871	CDS	357	fosB	2.5.1.-		Metallothiol transferase FosB
+LKHOAPEA_00872	CDS	888	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LKHOAPEA_00873	CDS	750				hypothetical protein
+LKHOAPEA_00874	CDS	318				hypothetical protein
+LKHOAPEA_00875	CDS	876				hypothetical protein
+LKHOAPEA_00876	CDS	918				hypothetical protein
+LKHOAPEA_00877	CDS	1314				hypothetical protein
+LKHOAPEA_00878	CDS	774	rhaR_1			HTH-type transcriptional activator RhaR
+LKHOAPEA_00879	CDS	357				hypothetical protein
+LKHOAPEA_00880	CDS	840				hypothetical protein
+LKHOAPEA_00881	CDS	1362	recF_1			DNA replication and repair protein RecF
+LKHOAPEA_00882	CDS	282				hypothetical protein
+LKHOAPEA_00883	CDS	600				hypothetical protein
+LKHOAPEA_00884	CDS	336				hypothetical protein
+LKHOAPEA_00885	CDS	312				hypothetical protein
+LKHOAPEA_00886	CDS	303				hypothetical protein
+LKHOAPEA_00887	CDS	453	yjaB	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase YjaB
+LKHOAPEA_00888	CDS	456				hypothetical protein
+LKHOAPEA_00889	CDS	999				hypothetical protein
+LKHOAPEA_00890	CDS	597	mshD_2	2.3.1.189		Mycothiol acetyltransferase
+LKHOAPEA_00891	CDS	720				hypothetical protein
+LKHOAPEA_00892	CDS	1716	cydD_1		COG4988	ATP-binding/permease protein CydD
+LKHOAPEA_00893	CDS	1647			COG1132	putative ABC transporter ATP-binding/permease protein
+LKHOAPEA_00894	CDS	309	yjcS_1		COG1359	putative protein YjcS
+LKHOAPEA_00895	CDS	348	adhR_1		COG0789	HTH-type transcriptional regulator AdhR
+LKHOAPEA_00896	CDS	1140				hypothetical protein
+LKHOAPEA_00897	CDS	585				hypothetical protein
+LKHOAPEA_00898	CDS	1080				hypothetical protein
+LKHOAPEA_00899	CDS	471				hypothetical protein
+LKHOAPEA_00900	CDS	291				hypothetical protein
+LKHOAPEA_00901	CDS	1500				hypothetical protein
+LKHOAPEA_00902	CDS	348				hypothetical protein
+LKHOAPEA_00903	CDS	573	clpP_1	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+LKHOAPEA_00904	CDS	408				hypothetical protein
+LKHOAPEA_00905	CDS	480	sirC	1.3.1.76		Precorrin-2 dehydrogenase
+LKHOAPEA_00906	CDS	1356	rsxC	7.-.-.-		Ion-translocating oxidoreductase complex subunit C
+LKHOAPEA_00907	CDS	555				hypothetical protein
+LKHOAPEA_00908	CDS	351	pduU		COG4810	Propanediol utilization protein PduU
+LKHOAPEA_00909	CDS	432	pduV		COG4917	Propanediol utilization protein PduV
+LKHOAPEA_00910	CDS	744				hypothetical protein
+LKHOAPEA_00911	CDS	558	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+LKHOAPEA_00912	CDS	747	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+LKHOAPEA_00913	CDS	576	cobC	3.1.3.73	COG0406	Adenosylcobalamin/alpha-ribazole phosphatase
+LKHOAPEA_00914	CDS	885	rhaR_2			HTH-type transcriptional activator RhaR
+LKHOAPEA_00915	CDS	288	pduA_1		COG4577	Propanediol utilization protein PduA
+LKHOAPEA_00916	CDS	804	pduB		COG4816	Propanediol utilization protein PduB
+LKHOAPEA_00917	CDS	1665	pduC	4.2.1.28	COG4909	Propanediol dehydratase large subunit
+LKHOAPEA_00918	CDS	660	pduD	4.2.1.28		Propanediol dehydratase medium subunit
+LKHOAPEA_00919	CDS	516	pduE	4.2.1.28	COG4910	Propanediol dehydratase small subunit
+LKHOAPEA_00920	CDS	1821	ddrA			Diol dehydratase-reactivating factor alpha subunit
+LKHOAPEA_00921	CDS	348				hypothetical protein
+LKHOAPEA_00922	CDS	438				hypothetical protein
+LKHOAPEA_00923	CDS	276	pduA_2		COG4577	Propanediol utilization protein PduA
+LKHOAPEA_00924	CDS	636	pduL_1	2.3.1.222	COG4869	Phosphate propanoyltransferase
+LKHOAPEA_00925	CDS	840	ftsA_1			Cell division protein FtsA
+LKHOAPEA_00926	CDS	480				hypothetical protein
+LKHOAPEA_00927	CDS	264	ccmL_1			Carbon dioxide concentrating mechanism protein CcmL
+LKHOAPEA_00928	CDS	996				hypothetical protein
+LKHOAPEA_00929	CDS	1410	sucD	1.2.1.76	COG1012	Succinate-semialdehyde dehydrogenase (acetylating)
+LKHOAPEA_00930	CDS	1119	adhE_1		COG1012	Aldehyde-alcohol dehydrogenase
+LKHOAPEA_00931	CDS	705	glpF_1		COG0580	Glycerol uptake facilitator protein
+LKHOAPEA_00932	CDS	1194	ackA_1	2.7.2.1	COG0282	Acetate kinase
+LKHOAPEA_00933	CDS	1086	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+LKHOAPEA_00934	CDS	876	pduX	2.7.1.177	COG4542	L-threonine kinase
+LKHOAPEA_00935	CDS	1140	adhE_2		COG1012	Aldehyde-alcohol dehydrogenase
+LKHOAPEA_00936	CDS	573	pdtaR		COG3707	putative transcriptional regulatory protein pdtaR
+LKHOAPEA_00937	CDS	1458	pdtaS	2.7.13.3	COG3920	putative sensor histidine kinase pdtaS
+LKHOAPEA_00938	CDS	1422	ftsA_2			Cell division protein FtsA
+LKHOAPEA_00939	CDS	1365	eutB	4.3.1.7	COG4303	Ethanolamine ammonia-lyase heavy chain
+LKHOAPEA_00940	CDS	882	eutC	4.3.1.7	COG4302	Ethanolamine ammonia-lyase light chain
+LKHOAPEA_00941	CDS	654	eutL		COG4816	Ethanolamine utilization protein EutL
+LKHOAPEA_00942	CDS	522				hypothetical protein
+LKHOAPEA_00943	CDS	1461	adhE_3		COG1012	Aldehyde-alcohol dehydrogenase
+LKHOAPEA_00944	CDS	285	pduA_3		COG4577	Propanediol utilization protein PduA
+LKHOAPEA_00945	CDS	756				hypothetical protein
+LKHOAPEA_00946	CDS	642	pduL_2	2.3.1.222	COG4869	Phosphate propanoyltransferase
+LKHOAPEA_00947	CDS	573				hypothetical protein
+LKHOAPEA_00948	CDS	270	ccmL_2			Carbon dioxide concentrating mechanism protein CcmL
+LKHOAPEA_00949	CDS	489				hypothetical protein
+LKHOAPEA_00950	CDS	1122				hypothetical protein
+LKHOAPEA_00951	CDS	444	eutQ		COG4766	Ethanolamine utilization protein EutQ
+LKHOAPEA_00952	CDS	552	rhaS_1			HTH-type transcriptional activator RhaS
+LKHOAPEA_00953	CDS	495				hypothetical protein
+LKHOAPEA_00954	CDS	1359	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+LKHOAPEA_00955	CDS	948	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+LKHOAPEA_00956	CDS	633	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+LKHOAPEA_00957	CDS	1122	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+LKHOAPEA_00958	CDS	597	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase
+LKHOAPEA_00959	CDS	570	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+LKHOAPEA_00960	CDS	750	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+LKHOAPEA_00961	CDS	1032	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+LKHOAPEA_00962	CDS	726	cbiH	2.1.1.-	COG1010	putative cobalt-factor III C(17)-methyltransferase
+LKHOAPEA_00963	CDS	753	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+LKHOAPEA_00964	CDS	1482	cysG	4.99.1.4		Siroheme synthase
+LKHOAPEA_00965	CDS	786	cbiK	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase
+LKHOAPEA_00966	CDS	711	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+LKHOAPEA_00967	CDS	735	cbiM		COG0310	Cobalt transport protein CbiM
+LKHOAPEA_00968	CDS	297	cbiN		COG1930	Cobalt transport protein CbiN
+LKHOAPEA_00969	CDS	678	cbiQ		COG0619	Cobalt transport protein CbiQ
+LKHOAPEA_00970	CDS	807	cbiO	7.-.-.-	COG1122	Cobalt import ATP-binding protein CbiO
+LKHOAPEA_00971	CDS	1536	cobQ			Cobyric acid synthase
+LKHOAPEA_00972	CDS	567	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+LKHOAPEA_00973	CDS	468				hypothetical protein
+LKHOAPEA_00974	CDS	450				hypothetical protein
+LKHOAPEA_00975	CDS	531	aroK_1	2.7.1.71		Shikimate kinase
+LKHOAPEA_00976	CDS	312				hypothetical protein
+LKHOAPEA_00977	CDS	552				hypothetical protein
+LKHOAPEA_00978	CDS	747	lytG	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+LKHOAPEA_00979	CDS	1014				hypothetical protein
+LKHOAPEA_00980	CDS	1080	ysdC_2	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+LKHOAPEA_00981	CDS	759		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+LKHOAPEA_00982	CDS	360				hypothetical protein
+LKHOAPEA_00983	CDS	324	yodB		COG1733	HTH-type transcriptional regulator YodB
+LKHOAPEA_00984	CDS	1053	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+LKHOAPEA_00985	CDS	2409	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+LKHOAPEA_00986	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+LKHOAPEA_00987	CDS	3411	smc_2			Chromosome partition protein Smc
+LKHOAPEA_00988	CDS	453	slyA_4			Transcriptional regulator SlyA
+LKHOAPEA_00989	CDS	3201	smc_3			Chromosome partition protein Smc
+LKHOAPEA_00990	CDS	675	ung_2	3.2.2.27	COG0692	Uracil-DNA glycosylase
+LKHOAPEA_00991	CDS	882	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+LKHOAPEA_00992	CDS	264	zapA		COG3027	Cell division protein ZapA
+LKHOAPEA_00993	CDS	543				hypothetical protein
+LKHOAPEA_00994	CDS	1713	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+LKHOAPEA_00995	CDS	2358	mutS2	3.1.-.-		Endonuclease MutS2
+LKHOAPEA_00996	CDS	312	trxA_1		COG0526	Thioredoxin
+LKHOAPEA_00997	CDS	1812	uvrC_2		COG0322	UvrABC system protein C
+LKHOAPEA_00998	CDS	1215	lysC_1	2.7.2.4	COG0527	Aspartokinase 2
+LKHOAPEA_00999	CDS	486	yslB			putative protein YslB
+LKHOAPEA_01000	CDS	801	murI	5.1.1.3	COG0796	Glutamate racemase
+LKHOAPEA_01001	CDS	747	rph	2.7.7.56	COG0689	Ribonuclease PH
+LKHOAPEA_01002	CDS	612		3.6.1.66		dITP/XTP pyrophosphatase
+LKHOAPEA_01003	CDS	525		3.1.4.-		Putative metallophosphoesterase MG207 
+LKHOAPEA_01004	tRNA	76				tRNA-Arg(tct)
+LKHOAPEA_01005	CDS	474				hypothetical protein
+LKHOAPEA_01006	CDS	363				hypothetical protein
+LKHOAPEA_01007	CDS	2145				hypothetical protein
+LKHOAPEA_01008	CDS	1359				hypothetical protein
+LKHOAPEA_01009	CDS	594				hypothetical protein
+LKHOAPEA_01010	CDS	408				hypothetical protein
+LKHOAPEA_01011	CDS	600	gpmA_4	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+LKHOAPEA_01012	CDS	261				hypothetical protein
+LKHOAPEA_01013	CDS	1413	dbpA_1	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+LKHOAPEA_01014	CDS	264				hypothetical protein
+LKHOAPEA_01015	CDS	477	nudC	3.6.1.22		NADH pyrophosphatase
+LKHOAPEA_01016	CDS	246				hypothetical protein
+LKHOAPEA_01017	CDS	1206	yfcJ			putative MFS-type transporter YfcJ
+LKHOAPEA_01018	CDS	660	larR		COG0664	Lactate racemization regulatory protein
+LKHOAPEA_01019	CDS	195				hypothetical protein
+LKHOAPEA_01020	CDS	849				hypothetical protein
+LKHOAPEA_01021	CDS	108				hypothetical protein
+LKHOAPEA_01022	CDS	138				hypothetical protein
+LKHOAPEA_01023	CDS	714	treR		COG2188	HTH-type transcriptional regulator TreR
+LKHOAPEA_01024	CDS	1647	treA	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+LKHOAPEA_01025	CDS	1485	treB		COG1263	PTS system trehalose-specific EIIBC component
+LKHOAPEA_01026	CDS	462				hypothetical protein
+LKHOAPEA_01027	CDS	465				hypothetical protein
+LKHOAPEA_01028	CDS	915		3.1.1.23	COG2267	Monoacylglycerol lipase
+LKHOAPEA_01029	CDS	1248	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+LKHOAPEA_01030	CDS	831	proB	2.7.2.11		Glutamate 5-kinase
+LKHOAPEA_01031	CDS	1140				hypothetical protein
+LKHOAPEA_01032	CDS	396	immR		COG1396	HTH-type transcriptional regulator ImmR
+LKHOAPEA_01033	CDS	216				hypothetical protein
+LKHOAPEA_01034	CDS	534				hypothetical protein
+LKHOAPEA_01035	CDS	666				hypothetical protein
+LKHOAPEA_01036	CDS	939				hypothetical protein
+LKHOAPEA_01037	CDS	1284	tig	5.2.1.8	COG0544	Trigger factor
+LKHOAPEA_01038	CDS	1260	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+LKHOAPEA_01039	CDS	567	spsB	3.4.21.89		Signal peptidase IB
+LKHOAPEA_01040	CDS	570	sipV	3.4.21.89	COG0681	Signal peptidase I V
+LKHOAPEA_01041	CDS	543	sipS	3.4.21.89	COG0681	Signal peptidase I S
+LKHOAPEA_01042	CDS	864	rbgA		COG1161	Ribosome biogenesis GTPase A
+LKHOAPEA_01043	CDS	786	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+LKHOAPEA_01044	CDS	861	dprA		COG0758	DNA processing protein DprA
+LKHOAPEA_01045	CDS	2079	topA	5.6.2.1		DNA topoisomerase 1
+LKHOAPEA_01046	CDS	1305	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+LKHOAPEA_01047	CDS	903	xerC_2		COG4974	Tyrosine recombinase XerC
+LKHOAPEA_01048	CDS	540	clpQ	3.4.21.-	COG5405	ATP-dependent protease subunit ClpQ
+LKHOAPEA_01049	CDS	1410	clpY		COG1220	ATP-dependent protease ATPase subunit ClpY
+LKHOAPEA_01050	CDS	780	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+LKHOAPEA_01051	CDS	420		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+LKHOAPEA_01052	CDS	312				hypothetical protein
+LKHOAPEA_01053	CDS	873	lacX			Protein LacX, plasmid
+LKHOAPEA_01054	CDS	597	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+LKHOAPEA_01055	CDS	408	yccU		COG1832	putative protein YccU
+LKHOAPEA_01056	CDS	1968	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+LKHOAPEA_01057	CDS	2460	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+LKHOAPEA_01058	CDS	468	luxS	4.4.1.21		S-ribosylhomocysteine lyase
+LKHOAPEA_01059	CDS	1821				hypothetical protein
+LKHOAPEA_01060	CDS	1887	oatA	2.3.1.-		O-acetyltransferase OatA
+LKHOAPEA_01061	CDS	699	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+LKHOAPEA_01062	CDS	1677	glpD	1.1.5.3		Aerobic glycerol-3-phosphate dehydrogenase
+LKHOAPEA_01063	CDS	918	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+LKHOAPEA_01064	CDS	234	hfq		COG1923	RNA-binding protein Hfq
+LKHOAPEA_01065	CDS	1224	hflX_2		COG2262	GTPase HflX
+LKHOAPEA_01066	CDS	1227				hypothetical protein
+LKHOAPEA_01067	CDS	369	glnR		COG0789	HTH-type transcriptional regulator GlnR
+LKHOAPEA_01068	CDS	1335	glnA	6.3.1.2	COG0174	Glutamine synthetase
+LKHOAPEA_01069	CDS	1296	arsB		COG1055	Arsenical pump membrane protein
+LKHOAPEA_01070	CDS	525		2.3.1.-	COG1670	Acetyltransferase
+LKHOAPEA_01071	CDS	615	lexA	3.4.21.88	COG1974	LexA repressor
+LKHOAPEA_01072	CDS	330	yneA_1			Cell division suppressor protein YneA
+LKHOAPEA_01073	CDS	228				hypothetical protein
+LKHOAPEA_01074	CDS	1995	tkt_2	2.2.1.1		Transketolase
+LKHOAPEA_01075	CDS	240				hypothetical protein
+LKHOAPEA_01076	CDS	732	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+LKHOAPEA_01077	CDS	507	ybdM		COG1475	putative protein YbdM
+LKHOAPEA_01078	CDS	1305	tilS_1	6.3.4.19		tRNA(Ile)-lysidine synthase
+LKHOAPEA_01079	CDS	1200				hypothetical protein
+LKHOAPEA_01080	CDS	375				hypothetical protein
+LKHOAPEA_01081	CDS	729	pyrH	2.7.4.22	COG0528	Uridylate kinase
+LKHOAPEA_01082	CDS	558	frr		COG0233	Ribosome-recycling factor
+LKHOAPEA_01083	CDS	759	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+LKHOAPEA_01084	CDS	789				hypothetical protein
+LKHOAPEA_01085	CDS	1143	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+LKHOAPEA_01086	CDS	1263	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+LKHOAPEA_01087	CDS	1707	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+LKHOAPEA_01088	CDS	4425	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+LKHOAPEA_01089	CDS	468	rimP		COG0779	Ribosome maturation factor RimP
+LKHOAPEA_01090	CDS	1119	nusA		COG0195	Transcription termination/antitermination protein NusA
+LKHOAPEA_01091	CDS	285				hypothetical protein
+LKHOAPEA_01092	CDS	300	rplGA		COG1358	putative ribosomal protein YlxQ
+LKHOAPEA_01093	CDS	2349	infB			Translation initiation factor IF-2
+LKHOAPEA_01094	CDS	279				hypothetical protein
+LKHOAPEA_01095	CDS	345	rbfA			Ribosome-binding factor A
+LKHOAPEA_01096	CDS	915	truB	5.4.99.25		tRNA pseudouridine synthase B
+LKHOAPEA_01097	CDS	945	ribF_2		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+LKHOAPEA_01098	CDS	270	rpsO			30S ribosomal protein S15
+LKHOAPEA_01099	CDS	2172	pnp_1	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+LKHOAPEA_01100	CDS	1041	rsgA_1	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+LKHOAPEA_01101	CDS	480	mltG_1	4.2.2.-		Endolytic murein transglycosylase
+LKHOAPEA_01102	CDS	357				hypothetical protein
+LKHOAPEA_01103	CDS	150	rpmG2			50S ribosomal protein L33 2
+LKHOAPEA_01104	CDS	540	yqgN		COG0212	putative protein YqgN
+LKHOAPEA_01105	CDS	1539	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+LKHOAPEA_01106	CDS	213	yqgQ		COG4483	putative protein YqgQ
+LKHOAPEA_01107	CDS	969	glcK	2.7.1.2	COG1940	Glucokinase
+LKHOAPEA_01108	CDS	1092				hypothetical protein
+LKHOAPEA_01109	CDS	318				hypothetical protein
+LKHOAPEA_01110	CDS	468				hypothetical protein
+LKHOAPEA_01111	CDS	285				hypothetical protein
+LKHOAPEA_01112	CDS	423				hypothetical protein
+LKHOAPEA_01113	CDS	324	comGC		COG4537	ComG operon protein 3
+LKHOAPEA_01114	CDS	1032	epsF		COG1459	Type II secretion system protein F
+LKHOAPEA_01115	CDS	1023	comGA		COG2804	ComG operon protein 1
+LKHOAPEA_01116	CDS	1089	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+LKHOAPEA_01117	CDS	1347	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+LKHOAPEA_01118	CDS	1467	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+LKHOAPEA_01119	CDS	381	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+LKHOAPEA_01120	CDS	273				hypothetical protein
+LKHOAPEA_01121	CDS	966				hypothetical protein
+LKHOAPEA_01122	CDS	1062	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+LKHOAPEA_01123	CDS	558	efp			Elongation factor P
+LKHOAPEA_01124	CDS	480	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+LKHOAPEA_01125	CDS	1365	accC	6.3.4.14	COG0439	Biotin carboxylase
+LKHOAPEA_01126	CDS	408				putative protein
+LKHOAPEA_01127	CDS	387	nusB			Transcription antitermination protein NusB
+LKHOAPEA_01128	CDS	855	folD			Bifunctional protein FolD protein
+LKHOAPEA_01129	CDS	1356	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+LKHOAPEA_01130	CDS	228	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+LKHOAPEA_01131	CDS	882		2.5.1.10		Farnesyl diphosphate synthase
+LKHOAPEA_01132	CDS	201	cspLA		COG1278	Cold shock-like protein CspLA
+LKHOAPEA_01133	CDS	1782	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+LKHOAPEA_01134	CDS	825	tlyA		COG1189	Hemolysin A
+LKHOAPEA_01135	CDS	450	argR		COG1438	Arginine repressor
+LKHOAPEA_01136	CDS	1692	recN		COG0497	DNA repair protein RecN
+LKHOAPEA_01137	CDS	867	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+LKHOAPEA_01138	CDS	1068	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+LKHOAPEA_01139	CDS	1428	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+LKHOAPEA_01140	CDS	996	bfmBAA	1.2.4.4	COG1071	2-oxoisovalerate dehydrogenase subunit alpha
+LKHOAPEA_01141	CDS	984	bfmBAB	1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+LKHOAPEA_01142	CDS	1251	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+LKHOAPEA_01143	CDS	96				hypothetical protein
+LKHOAPEA_01144	CDS	1095	pepT_1	3.4.11.4	COG2195	Peptidase T
+LKHOAPEA_01145	CDS	1419	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+LKHOAPEA_01146	CDS	681	arlR		COG0745	Response regulator ArlR
+LKHOAPEA_01147	CDS	1452	arlS	2.7.13.3		Signal transduction histidine-protein kinase ArlS
+LKHOAPEA_01148	CDS	828	misCB		COG0706	Membrane protein insertase MisCB
+LKHOAPEA_01149	CDS	282				hypothetical protein
+LKHOAPEA_01150	CDS	282	yccX	3.6.1.7	COG1254	Acylphosphatase
+LKHOAPEA_01151	CDS	348				hypothetical protein
+LKHOAPEA_01152	CDS	1077	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+LKHOAPEA_01153	CDS	990				hypothetical protein
+LKHOAPEA_01154	CDS	927				hypothetical protein
+LKHOAPEA_01155	CDS	2274	spoIIIE		COG1674	DNA translocase SpoIIIE
+LKHOAPEA_01156	CDS	840	proC_2	1.5.1.2		Pyrroline-5-carboxylate reductase
+LKHOAPEA_01157	CDS	1074	tmpC		COG1744	Membrane lipoprotein TmpC
+LKHOAPEA_01158	CDS	1542	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+LKHOAPEA_01159	CDS	1053				hypothetical protein
+LKHOAPEA_01160	CDS	951				hypothetical protein
+LKHOAPEA_01161	CDS	1293				hypothetical protein
+LKHOAPEA_01162	CDS	1287				hypothetical protein
+LKHOAPEA_01163	CDS	732	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LKHOAPEA_01164	CDS	930	rodZ			Cytoskeleton protein RodZ
+LKHOAPEA_01165	CDS	579	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+LKHOAPEA_01166	CDS	1245	cinA		COG1058	Putative competence-damage inducible protein
+LKHOAPEA_01167	CDS	1047	recA		COG0468	Protein RecA
+LKHOAPEA_01168	CDS	1563	rny	3.1.-.-	COG1418	Ribonuclease Y
+LKHOAPEA_01169	CDS	498				hypothetical protein
+LKHOAPEA_01170	CDS	804	ymdB_1	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+LKHOAPEA_01171	CDS	363	ymcA		COG4550	putative protein YmcA
+LKHOAPEA_01172	CDS	2583	mutS		COG0249	DNA mismatch repair protein MutS
+LKHOAPEA_01173	CDS	1812	mutL		COG0323	DNA mismatch repair protein MutL
+LKHOAPEA_01174	CDS	549	glpP		COG1954	Glycerol uptake operon antiterminator regulatory protein
+LKHOAPEA_01175	CDS	2232	pflB_1	2.3.1.54		Formate acetyltransferase
+LKHOAPEA_01176	CDS	747	pflA	1.97.1.4		Pyruvate formate-lyase-activating enzyme
+LKHOAPEA_01177	CDS	531				hypothetical protein
+LKHOAPEA_01178	CDS	1194	yfmO			Multidrug efflux protein YfmO
+LKHOAPEA_01179	CDS	549				hypothetical protein
+LKHOAPEA_01180	CDS	228				hypothetical protein
+LKHOAPEA_01181	CDS	534				hypothetical protein
+LKHOAPEA_01182	CDS	1323				hypothetical protein
+LKHOAPEA_01183	CDS	1170	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+LKHOAPEA_01184	CDS	1167	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+LKHOAPEA_01185	CDS	600				hypothetical protein
+LKHOAPEA_01186	CDS	1245				hypothetical protein
+LKHOAPEA_01187	CDS	1269				hypothetical protein
+LKHOAPEA_01188	CDS	1038				hypothetical protein
+LKHOAPEA_01189	CDS	897	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+LKHOAPEA_01190	CDS	987	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LKHOAPEA_01191	CDS	1515				hypothetical protein
+LKHOAPEA_01192	CDS	831				hypothetical protein
+LKHOAPEA_01193	CDS	1347	mntH			Divalent metal cation transporter MntH
+LKHOAPEA_01194	CDS	672	opuCD		COG1174	Carnitine transport permease protein OpuCD
+LKHOAPEA_01195	CDS	927	opuCC		COG1732	Carnitine transport binding protein OpuCC
+LKHOAPEA_01196	CDS	657	opuCB		COG1174	Carnitine transport permease protein OpuCB
+LKHOAPEA_01197	CDS	1194	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+LKHOAPEA_01198	CDS	561	thiT			Thiamine transporter ThiT
+LKHOAPEA_01199	CDS	384	yjbR_1		COG2315	putative protein YjbR
+LKHOAPEA_01200	CDS	1602	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+LKHOAPEA_01201	CDS	651				hypothetical protein
+LKHOAPEA_01202	CDS	1341	garB	1.8.1.16		Glutathione amide reductase
+LKHOAPEA_01203	CDS	1668	rnj2	3.1.-.-		Ribonuclease J 2
+LKHOAPEA_01204	CDS	882	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+LKHOAPEA_01205	CDS	1212	lysC_2	2.7.2.4	COG0527	Aspartokinase
+LKHOAPEA_01206	CDS	1044	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+LKHOAPEA_01207	CDS	2166	pbpH		COG0768	Penicillin-binding protein H
+LKHOAPEA_01208	CDS	609	sodA	1.15.1.1		Superoxide dismutase [Mn]
+LKHOAPEA_01209	CDS	714				hypothetical protein
+LKHOAPEA_01210	CDS	1107	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+LKHOAPEA_01211	CDS	708	ygaZ		COG1296	Inner membrane protein YgaZ
+LKHOAPEA_01212	CDS	327				hypothetical protein
+LKHOAPEA_01213	CDS	885	prsA1_1	5.2.1.8	COG0760	Foldase protein PrsA 1
+LKHOAPEA_01214	CDS	426	zur		COG0735	Zinc-specific metallo-regulatory protein
+LKHOAPEA_01215	CDS	879	znuB_1		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+LKHOAPEA_01216	CDS	774	znuC_1	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+LKHOAPEA_01217	CDS	927	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+LKHOAPEA_01218	CDS	894	nfo	3.1.21.2	COG0648	putative endonuclease 4
+LKHOAPEA_01219	CDS	1308	cshB	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+LKHOAPEA_01220	CDS	996	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+LKHOAPEA_01221	CDS	1122			COG0327	GTP cyclohydrolase 1 type 2 
+LKHOAPEA_01222	CDS	705	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+LKHOAPEA_01223	CDS	1125	sigA		COG0568	RNA polymerase sigma factor SigA
+LKHOAPEA_01224	CDS	1881	dnaG	2.7.7.-		DNA primase
+LKHOAPEA_01225	CDS	441				hypothetical protein
+LKHOAPEA_01226	CDS	825	yqfL_1	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+LKHOAPEA_01227	CDS	2067	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+LKHOAPEA_01228	CDS	891	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+LKHOAPEA_01229	CDS	768	recO		COG1381	DNA repair protein RecO
+LKHOAPEA_01230	CDS	630				hypothetical protein
+LKHOAPEA_01231	CDS	906	era		COG1159	GTPase Era
+LKHOAPEA_01232	CDS	396	cdd	3.5.4.5	COG0295	Cytidine deaminase
+LKHOAPEA_01233	CDS	390	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+LKHOAPEA_01234	CDS	486	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+LKHOAPEA_01235	CDS	2157	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+LKHOAPEA_01236	CDS	960			COG1702	PhoH-like protein
+LKHOAPEA_01237	CDS	447	yqeY		COG1610	putative protein YqeY
+LKHOAPEA_01238	CDS	174	rpsU		COG0828	30S ribosomal protein S21
+LKHOAPEA_01239	CDS	768	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+LKHOAPEA_01240	CDS	945	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+LKHOAPEA_01241	CDS	1131	dnaJ			Chaperone protein DnaJ
+LKHOAPEA_01242	CDS	1842	dnaK		COG0443	Chaperone protein DnaK
+LKHOAPEA_01243	CDS	576	grpE			Protein GrpE
+LKHOAPEA_01244	CDS	1038	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+LKHOAPEA_01245	CDS	1158	hemW		COG0635	Heme chaperone HemW
+LKHOAPEA_01246	CDS	1029	fcl	1.1.1.271		GDP-L-fucose synthase
+LKHOAPEA_01247	CDS	438				hypothetical protein
+LKHOAPEA_01248	CDS	1827	lepA	3.6.5.-	COG0481	Elongation factor 4
+LKHOAPEA_01249	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+LKHOAPEA_01250	CDS	1032	yqeN		COG1466	putative protein YqeN
+LKHOAPEA_01251	CDS	2160	comEC_2		COG0658	ComE operon protein 3
+LKHOAPEA_01252	CDS	561	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+LKHOAPEA_01253	CDS	603	comEA		COG1555	ComE operon protein 1
+LKHOAPEA_01254	CDS	732	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+LKHOAPEA_01255	CDS	357	rsfS		COG0799	Ribosomal silencing factor RsfS
+LKHOAPEA_01256	CDS	576				hypothetical protein
+LKHOAPEA_01257	CDS	567	nadD	2.7.7.18		putative nicotinate-nucleotide adenylyltransferase
+LKHOAPEA_01258	CDS	291	yhbY		COG1534	RNA-binding protein YhbY
+LKHOAPEA_01259	CDS	822	aroE_2	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+LKHOAPEA_01260	CDS	1101	yqeH		COG1161	putative protein YqeH
+LKHOAPEA_01261	CDS	522	ppaX_1	3.6.1.1		Pyrophosphatase PpaX
+LKHOAPEA_01262	CDS	1809	pepF1_1	3.4.24.-		Oligoendopeptidase F, plasmid
+LKHOAPEA_01263	CDS	702	mtnN	3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+LKHOAPEA_01264	CDS	624				hypothetical protein
+LKHOAPEA_01265	CDS	483	greA		COG0782	Transcription elongation factor GreA
+LKHOAPEA_01266	CDS	630	udk	2.7.1.48		Uridine kinase
+LKHOAPEA_01267	CDS	654	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+LKHOAPEA_01268	CDS	1071	mltG_2	4.2.2.-		Endolytic murein transglycosylase
+LKHOAPEA_01269	CDS	627	dedA_1		COG0586	Protein DedA
+LKHOAPEA_01270	CDS	303				hypothetical protein
+LKHOAPEA_01271	CDS	408	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+LKHOAPEA_01272	CDS	273				hypothetical protein
+LKHOAPEA_01273	CDS	2640	alaS	6.1.1.7		Alanine--tRNA ligase
+LKHOAPEA_01274	CDS	696			COG1136	putative ABC transporter ATP-binding protein
+LKHOAPEA_01275	CDS	1500				hypothetical protein
+LKHOAPEA_01276	CDS	687	srrA_1		COG0745	Transcriptional regulatory protein SrrA
+LKHOAPEA_01277	CDS	1431	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+LKHOAPEA_01278	CDS	2397	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+LKHOAPEA_01279	CDS	669	yrrB			TPR repeat-containing protein YrrB
+LKHOAPEA_01280	CDS	741				hypothetical protein
+LKHOAPEA_01281	CDS	1116	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+LKHOAPEA_01282	CDS	1149	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+LKHOAPEA_01283	CDS	1284			COG2256	putative AAA domain-containing protein
+LKHOAPEA_01284	CDS	423	cymR			HTH-type transcriptional regulator CymR
+LKHOAPEA_01285	CDS	1206	nrgA			Ammonium transporter
+LKHOAPEA_01286	CDS	366	nrgB		COG0347	Nitrogen regulatory PII-like protein
+LKHOAPEA_01287	CDS	381				hypothetical protein
+LKHOAPEA_01288	CDS	1776	aspS	6.1.1.12		Aspartate--tRNA ligase
+LKHOAPEA_01289	CDS	1278	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+LKHOAPEA_01290	CDS	1284				hypothetical protein
+LKHOAPEA_01291	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+LKHOAPEA_01292	CDS	2217	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+LKHOAPEA_01293	CDS	522	apt	2.4.2.7		Adenine phosphoribosyltransferase
+LKHOAPEA_01294	CDS	2352				hypothetical protein
+LKHOAPEA_01295	CDS	345	lapA			Lipopolysaccharide assembly protein A
+LKHOAPEA_01296	CDS	2265	secDF		COG0341	Protein translocase subunit SecDF
+LKHOAPEA_01297	CDS	291				hypothetical protein
+LKHOAPEA_01298	CDS	330				hypothetical protein
+LKHOAPEA_01299	CDS	1140	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+LKHOAPEA_01300	CDS	1029	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+LKHOAPEA_01301	CDS	1008	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+LKHOAPEA_01302	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+LKHOAPEA_01303	CDS	936	ldh_2	1.1.1.27		L-lactate dehydrogenase
+LKHOAPEA_01304	CDS	726			COG0217	putative transcriptional regulatory protein
+LKHOAPEA_01305	CDS	849	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+LKHOAPEA_01306	CDS	1290	obg	3.6.5.-	COG0536	GTPase Obg
+LKHOAPEA_01307	CDS	1494	glpK_2	2.7.1.30	COG0554	Glycerol kinase
+LKHOAPEA_01308	CDS	819	glpF_2		COG0580	Glycerol uptake facilitator protein
+LKHOAPEA_01309	CDS	291	rpmA		COG0211	50S ribosomal protein L27
+LKHOAPEA_01310	CDS	318				hypothetical protein
+LKHOAPEA_01311	CDS	309	rplU		COG0261	50S ribosomal protein L21
+LKHOAPEA_01312	CDS	1362	rne	3.1.26.12	COG1530	Ribonuclease E
+LKHOAPEA_01313	CDS	801	minD		COG2894	Septum site-determining protein MinD
+LKHOAPEA_01314	CDS	690	minC		COG0850	Septum site-determining protein MinC
+LKHOAPEA_01315	CDS	519	mreD		COG2891	Rod shape-determining protein MreD
+LKHOAPEA_01316	CDS	888	mreC		COG1792	Cell shape-determining protein MreC
+LKHOAPEA_01317	CDS	1014	mreB		COG1077	Cell shape-determining protein MreB
+LKHOAPEA_01318	CDS	675				hypothetical protein
+LKHOAPEA_01319	CDS	711	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+LKHOAPEA_01320	CDS	1290	fpgS	6.3.2.17		Folylpolyglutamate synthase
+LKHOAPEA_01321	CDS	2652	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+LKHOAPEA_01322	CDS	1290	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+LKHOAPEA_01323	CDS	975	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+LKHOAPEA_01324	CDS	723				hypothetical protein
+LKHOAPEA_01325	CDS	930	hemC	2.5.1.61		Porphobilinogen deaminase
+LKHOAPEA_01326	CDS	1308	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+LKHOAPEA_01327	CDS	585	engB		COG0218	putative GTP-binding protein EngB
+LKHOAPEA_01328	CDS	1923	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+LKHOAPEA_01329	CDS	924	dnaI		COG1484	Primosomal protein DnaI
+LKHOAPEA_01330	CDS	1362	dnaB		COG3611	Replication initiation and membrane attachment protein
+LKHOAPEA_01331	CDS	465	nrdR		COG1327	Transcriptional repressor NrdR
+LKHOAPEA_01332	CDS	603	coaE	2.7.1.24		Dephospho-CoA kinase
+LKHOAPEA_01333	CDS	822	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+LKHOAPEA_01334	CDS	2628	polA	2.7.7.7		DNA polymerase I
+LKHOAPEA_01335	CDS	1263	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+LKHOAPEA_01336	CDS	1122	citZ	2.3.3.16	COG0372	Citrate synthase 2
+LKHOAPEA_01337	CDS	462				hypothetical protein
+LKHOAPEA_01338	CDS	378				hypothetical protein
+LKHOAPEA_01339	CDS	1758	pyk	2.7.1.40		Pyruvate kinase
+LKHOAPEA_01340	CDS	960	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+LKHOAPEA_01341	CDS	957	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+LKHOAPEA_01342	CDS	885	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+LKHOAPEA_01343	CDS	3327	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+LKHOAPEA_01344	CDS	936	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+LKHOAPEA_01345	CDS	1368	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+LKHOAPEA_01346	CDS	687				hypothetical protein
+LKHOAPEA_01347	CDS	1098		3.4.-.-		putative peptidase
+LKHOAPEA_01348	CDS	1113	ald2	1.4.1.1		Alanine dehydrogenase 2
+LKHOAPEA_01349	CDS	465				Putative universal stress protein
+LKHOAPEA_01350	CDS	1218	ackA_2	2.7.2.1	COG0282	Acetate kinase
+LKHOAPEA_01351	CDS	999				hypothetical protein
+LKHOAPEA_01352	CDS	498	tpx	1.11.1.15	COG2077	Thiol peroxidase
+LKHOAPEA_01353	CDS	537				hypothetical protein
+LKHOAPEA_01354	CDS	1014	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+LKHOAPEA_01355	CDS	804	nadK1_2	2.7.1.23	COG0061	NAD kinase 1
+LKHOAPEA_01356	CDS	951	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+LKHOAPEA_01357	CDS	1161	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+LKHOAPEA_01358	CDS	753	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+LKHOAPEA_01359	CDS	1197	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+LKHOAPEA_01360	CDS	1032	argC	1.2.1.38		N-acetyl-gamma-glutamyl-phosphate reductase
+LKHOAPEA_01361	CDS	1197	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+LKHOAPEA_01362	CDS	1140	iscS_2	2.8.1.7	COG1104	Cysteine desulfurase IscS
+LKHOAPEA_01363	CDS	1716	ezrA		COG4477	Septation ring formation regulator EzrA
+LKHOAPEA_01364	CDS	489	msrC	1.8.4.14	COG1956	Free methionine-R-sulfoxide reductase
+LKHOAPEA_01365	CDS	603	rpsD		COG0522	30S ribosomal protein S4
+LKHOAPEA_01366	CDS	201				hypothetical protein
+LKHOAPEA_01367	CDS	873				hypothetical protein
+LKHOAPEA_01368	CDS	1260	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+LKHOAPEA_01369	CDS	1008	ccpA		COG1609	Catabolite control protein A
+LKHOAPEA_01370	CDS	1086	aroA_1		COG1605	Protein AroA(G)
+LKHOAPEA_01371	CDS	525				hypothetical protein
+LKHOAPEA_01372	CDS	456				hypothetical protein
+LKHOAPEA_01373	CDS	1113	pepS_1	3.4.11.-	COG2309	Aminopeptidase PepS
+LKHOAPEA_01374	CDS	546	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+LKHOAPEA_01375	CDS	1344	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+LKHOAPEA_01376	CDS	2352				hypothetical protein
+LKHOAPEA_01377	CDS	618				hypothetical protein
+LKHOAPEA_01378	CDS	801				hypothetical protein
+LKHOAPEA_01379	CDS	312	ytpP			Thioredoxin-like protein YtpP
+LKHOAPEA_01380	CDS	1074	ysdC_3	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+LKHOAPEA_01381	CDS	312				hypothetical protein
+LKHOAPEA_01382	CDS	273	rcnR		COG1937	Transcriptional repressor RcnR
+LKHOAPEA_01383	CDS	852	ytnP	3.1.1.-	COG0491	putative quorum-quenching lactonase YtnP
+LKHOAPEA_01384	CDS	645	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+LKHOAPEA_01385	CDS	783	srkA	2.7.11.1		Stress response kinase A
+LKHOAPEA_01386	CDS	1464	emrB_1			Multidrug export protein EmrB
+LKHOAPEA_01387	CDS	441				hypothetical protein
+LKHOAPEA_01388	CDS	870	dat	2.6.1.21		D-alanine aminotransferase
+LKHOAPEA_01389	CDS	1413		3.4.13.-		Putative dipeptidase
+LKHOAPEA_01390	CDS	414				hypothetical protein
+LKHOAPEA_01391	CDS	831	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+LKHOAPEA_01392	CDS	654				hypothetical protein
+LKHOAPEA_01393	CDS	1614	murJ_1		COG2244	Lipid II flippase MurJ
+LKHOAPEA_01394	CDS	1614	murJ_2		COG2244	Lipid II flippase MurJ
+LKHOAPEA_01395	CDS	438				hypothetical protein
+LKHOAPEA_01396	CDS	774	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+LKHOAPEA_01397	CDS	1203	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+LKHOAPEA_01398	CDS	609	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+LKHOAPEA_01399	CDS	759	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+LKHOAPEA_01400	CDS	1020	trpD2	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase 2
+LKHOAPEA_01401	CDS	606	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+LKHOAPEA_01402	CDS	1365	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+LKHOAPEA_01403	CDS	2601	adhE_4		COG1012	Aldehyde-alcohol dehydrogenase
+LKHOAPEA_01404	CDS	429				hypothetical protein
+LKHOAPEA_01405	CDS	921	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+LKHOAPEA_01406	CDS	1068				hypothetical protein
+LKHOAPEA_01407	CDS	975	mccF_1			Microcin C7 self-immunity protein MccF
+LKHOAPEA_01408	CDS	582	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+LKHOAPEA_01409	CDS	234				hypothetical protein
+LKHOAPEA_01410	CDS	2703	citB	4.2.1.-	COG1048	Aconitate/2-methylaconitate hydratase
+LKHOAPEA_01411	CDS	804				hypothetical protein
+LKHOAPEA_01412	CDS	423				hypothetical protein
+LKHOAPEA_01413	CDS	3219	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+LKHOAPEA_01414	CDS	3072				hypothetical protein
+LKHOAPEA_01415	CDS	1125	sbcD			Nuclease SbcCD subunit D
+LKHOAPEA_01416	CDS	609	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+LKHOAPEA_01417	CDS	516				hypothetical protein
+LKHOAPEA_01418	CDS	489				hypothetical protein
+LKHOAPEA_01419	CDS	1806	yheH	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+LKHOAPEA_01420	CDS	1770	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+LKHOAPEA_01421	CDS	621				hypothetical protein
+LKHOAPEA_01422	CDS	495				hypothetical protein
+LKHOAPEA_01423	CDS	564				hypothetical protein
+LKHOAPEA_01424	CDS	432				hypothetical protein
+LKHOAPEA_01425	CDS	885	tsf			Elongation factor Ts
+LKHOAPEA_01426	CDS	750	rpsB		COG0052	30S ribosomal protein S2
+LKHOAPEA_01427	CDS	1449				PTS system EIIBC component
+LKHOAPEA_01428	CDS	891	murQ	4.2.1.126	COG2103	N-acetylmuramic acid 6-phosphate etherase
+LKHOAPEA_01429	CDS	852	ybbH_2		COG1737	putative HTH-type transcriptional regulator YbbH
+LKHOAPEA_01430	CDS	2421	leuS	6.1.1.4		Leucine--tRNA ligase
+LKHOAPEA_01431	CDS	966	miaB	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+LKHOAPEA_01432	CDS	579	MENG_2	2.1.1.329		2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic
+LKHOAPEA_01433	CDS	1866	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+LKHOAPEA_01434	CDS	1239	metK	2.5.1.6		S-adenosylmethionine synthase
+LKHOAPEA_01435	CDS	303				hypothetical protein
+LKHOAPEA_01436	CDS	5157				hypothetical protein
+LKHOAPEA_01437	CDS	912		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+LKHOAPEA_01438	CDS	237	ytmB			putative protein YtmB
+LKHOAPEA_01439	CDS	474	ytkD	3.6.1.55	COG0494	Putative 8-oxo-dGTP diphosphatase YtkD
+LKHOAPEA_01440	CDS	267	yidD			Putative membrane protein insertion efficiency factor
+LKHOAPEA_01441	CDS	954	znuA_1		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+LKHOAPEA_01442	CDS	1410	menE_2	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+LKHOAPEA_01443	CDS	819	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+LKHOAPEA_01444	CDS	828	menH_1	4.2.99.20	COG0596	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+LKHOAPEA_01445	CDS	1743	menD	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+LKHOAPEA_01446	CDS	1389	pchA	5.4.4.2	COG1169	Salicylate biosynthesis isochorismate synthase
+LKHOAPEA_01447	CDS	939	menA_1	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+LKHOAPEA_01448	CDS	1854	yitJ		COG0646	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+LKHOAPEA_01449	CDS	1173	metC	4.4.1.13	COG0626	Cystathionine beta-lyase MetC
+LKHOAPEA_01450	CDS	1125	metI	2.5.1.-	COG0626	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+LKHOAPEA_01451	CDS	2331	metE_2	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+LKHOAPEA_01452	CDS	1176	ycaD			putative MFS-type transporter YcaD
+LKHOAPEA_01453	tRNA	76				tRNA-Glu(ttc)
+LKHOAPEA_01454	tRNA	91				tRNA-Ser(gct)
+LKHOAPEA_01455	tRNA	75				tRNA-Asn(gtt)
+LKHOAPEA_01456	tRNA	74				tRNA-Ile(gat)
+LKHOAPEA_01457	tRNA	71				tRNA-Gly(tcc)
+LKHOAPEA_01458	tRNA	74				tRNA-His(gtg)
+LKHOAPEA_01459	tRNA	75				tRNA-Phe(gaa)
+LKHOAPEA_01460	tRNA	76				tRNA-Asp(gtc)
+LKHOAPEA_01461	tRNA	76				tRNA-Met(cat)
+LKHOAPEA_01462	tRNA	92				tRNA-Ser(tga)
+LKHOAPEA_01463	tRNA	75				tRNA-Met(cat)
+LKHOAPEA_01464	tRNA	76				tRNA-Met(cat)
+LKHOAPEA_01465	tRNA	74				tRNA-Ala(tgc)
+LKHOAPEA_01466	tRNA	74				tRNA-Pro(tgg)
+LKHOAPEA_01467	tRNA	75				tRNA-Arg(acg)
+LKHOAPEA_01468	tRNA	87				tRNA-Leu(taa)
+LKHOAPEA_01469	tRNA	75				tRNA-Gly(gcc)
+LKHOAPEA_01470	tRNA	83				tRNA-Leu(tag)
+LKHOAPEA_01471	tRNA	74				tRNA-Lys(ttt)
+LKHOAPEA_01472	tRNA	76				tRNA-Thr(tgt)
+LKHOAPEA_01473	tRNA	75				tRNA-Val(tac)
+LKHOAPEA_01474	rRNA	110				5S ribosomal RNA
+LKHOAPEA_01475	CDS	441	perR		COG0735	Peroxide operon regulator
+LKHOAPEA_01476	CDS	942	ghrA	1.1.1.81		Glyoxylate/hydroxypyruvate reductase A
+LKHOAPEA_01477	CDS	1299	hemL1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase 1
+LKHOAPEA_01478	CDS	1089				hypothetical protein
+LKHOAPEA_01479	CDS	528				hypothetical protein
+LKHOAPEA_01480	CDS	747	fabL	1.3.1.104		Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+LKHOAPEA_01481	CDS	1098	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+LKHOAPEA_01482	CDS	981	yfhP		COG1988	putative protein YfhP
+LKHOAPEA_01483	CDS	462	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+LKHOAPEA_01484	CDS	234				hypothetical protein
+LKHOAPEA_01485	CDS	810	recX			Regulatory protein RecX
+LKHOAPEA_01486	CDS	903				Epimerase family protein
+LKHOAPEA_01487	CDS	2598	mprF	2.3.2.3		Phosphatidylglycerol lysyltransferase
+LKHOAPEA_01488	CDS	675				hypothetical protein
+LKHOAPEA_01489	CDS	966			COG0053	putative cation efflux system protein
+LKHOAPEA_01490	CDS	543	rimJ	2.3.1.267	COG1670	[Ribosomal protein S5]-alanine N-acetyltransferase
+LKHOAPEA_01491	CDS	903	bdlA		COG0840	Biofilm dispersion protein BdlA
+LKHOAPEA_01492	CDS	207				hypothetical protein
+LKHOAPEA_01493	CDS	354				hypothetical protein
+LKHOAPEA_01494	CDS	402	fosX		COG0346	Fosfomycin resistance protein FosX
+LKHOAPEA_01495	CDS	1380	rlmCD_1	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+LKHOAPEA_01496	CDS	381				hypothetical protein
+LKHOAPEA_01497	CDS	645		2.7.1.113	COG1428	Deoxyguanosine kinase
+LKHOAPEA_01498	CDS	870				hypothetical protein
+LKHOAPEA_01499	CDS	222				hypothetical protein
+LKHOAPEA_01500	CDS	807	yokD	2.3.1.-	COG2746	SPbeta prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD
+LKHOAPEA_01501	CDS	759	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+LKHOAPEA_01502	CDS	447				Flavodoxin
+LKHOAPEA_01503	CDS	1233	pepS_2	3.4.11.-	COG2309	Aminopeptidase PepS
+LKHOAPEA_01504	CDS	1260	mdrP_1			Na(+), Li(+), K(+)/H(+) antiporter
+LKHOAPEA_01505	CDS	993	mreBH		COG1077	Cell shape-determining protein MreBH
+LKHOAPEA_01506	tRNA	73				tRNA-Arg(cct)
+LKHOAPEA_01507	CDS	573				hypothetical protein
+LKHOAPEA_01508	CDS	669	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+LKHOAPEA_01509	CDS	576	betI_1			HTH-type transcriptional regulator BetI
+LKHOAPEA_01510	CDS	1062				hypothetical protein
+LKHOAPEA_01511	CDS	1089				hypothetical protein
+LKHOAPEA_01512	CDS	303	licA_1		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+LKHOAPEA_01513	CDS	309	licB_2	2.7.1.-	COG1440	Lichenan-specific phosphotransferase enzyme IIB component
+LKHOAPEA_01514	CDS	2679	norR_1			Anaerobic nitric oxide reductase transcription regulator NorR
+LKHOAPEA_01515	CDS	1329	yfmL	3.6.4.13	COG0513	putative ATP-dependent RNA helicase YfmL
+LKHOAPEA_01516	CDS	774				hypothetical protein
+LKHOAPEA_01517	CDS	681		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+LKHOAPEA_01518	CDS	369				hypothetical protein
+LKHOAPEA_01519	CDS	984	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+LKHOAPEA_01520	CDS	966	rbsR_1		COG1609	Ribose operon repressor
+LKHOAPEA_01521	CDS	3255		2.4.1.333	COG3459	1,2-beta-oligoglucan phosphorylase
+LKHOAPEA_01522	CDS	2172		3.2.1.-		Putative beta-xylosidase
+LKHOAPEA_01523	CDS	1245	cycB_2		COG2182	Cyclodextrin-binding protein
+LKHOAPEA_01524	CDS	894	lacF_4			Lactose transport system permease protein LacF
+LKHOAPEA_01525	CDS	831	araQ_3		COG0395	L-arabinose transport system permease protein AraQ
+LKHOAPEA_01526	CDS	1470	gltB	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+LKHOAPEA_01527	CDS	4593	gltA	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+LKHOAPEA_01528	CDS	888	gltC_2			HTH-type transcriptional regulator GltC
+LKHOAPEA_01529	CDS	519				hypothetical protein
+LKHOAPEA_01530	CDS	1107	hcxA	1.1.1.-	COG0371	Hydroxycarboxylate dehydrogenase A
+LKHOAPEA_01531	CDS	816	fliY		COG0834	L-cystine-binding protein FliY
+LKHOAPEA_01532	CDS	648	glnQ		COG1126	Glutamine transport ATP-binding protein GlnQ
+LKHOAPEA_01533	CDS	642	yecS		COG0765	L-cystine transport system permease protein YecS
+LKHOAPEA_01534	CDS	1041	graS	2.7.13.3		Sensor histidine kinase GraS
+LKHOAPEA_01535	CDS	1740	adeC	3.5.4.2		Adenine deaminase
+LKHOAPEA_01536	CDS	459				hypothetical protein
+LKHOAPEA_01537	CDS	876				hypothetical protein
+LKHOAPEA_01538	CDS	678	graR		COG0745	Response regulator protein GraR
+LKHOAPEA_01539	CDS	2013	bceB_1		COG0577	Bacitracin export permease protein BceB
+LKHOAPEA_01540	CDS	768	bceA		COG1136	Bacitracin export ATP-binding protein BceA
+LKHOAPEA_01541	CDS	510				hypothetical protein
+LKHOAPEA_01542	CDS	474	aroK_2	2.7.1.71	COG0703	Shikimate kinase
+LKHOAPEA_01543	CDS	555				hypothetical protein
+LKHOAPEA_01544	CDS	1362	rlmCD_2	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+LKHOAPEA_01545	CDS	756				hypothetical protein
+LKHOAPEA_01546	CDS	933	dagK_2	2.7.1.107	COG1597	Diacylglycerol kinase
+LKHOAPEA_01547	CDS	1431	gatB_2	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+LKHOAPEA_01548	CDS	1452	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+LKHOAPEA_01549	CDS	294	gatC_2	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+LKHOAPEA_01550	CDS	1116				hypothetical protein
+LKHOAPEA_01551	CDS	2016	ligA	6.5.1.2		DNA ligase
+LKHOAPEA_01552	CDS	2196	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+LKHOAPEA_01553	CDS	678	pcrB	2.5.1.-	COG1646	Heptaprenylglyceryl phosphate synthase
+LKHOAPEA_01554	CDS	1356				hypothetical protein
+LKHOAPEA_01555	CDS	255				hypothetical protein
+LKHOAPEA_01556	CDS	297				hypothetical protein
+LKHOAPEA_01557	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+LKHOAPEA_01558	CDS	1530	purH			Bifunctional purine biosynthesis protein PurH
+LKHOAPEA_01559	CDS	567	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+LKHOAPEA_01560	CDS	1050	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+LKHOAPEA_01561	CDS	1428	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+LKHOAPEA_01562	CDS	2220	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+LKHOAPEA_01563	CDS	684	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+LKHOAPEA_01564	CDS	246	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+LKHOAPEA_01565	CDS	714	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+LKHOAPEA_01566	CDS	1293	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+LKHOAPEA_01567	CDS	1125	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+LKHOAPEA_01568	CDS	489	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+LKHOAPEA_01569	CDS	525				hypothetical protein
+LKHOAPEA_01570	rRNA	86				5S ribosomal RNA (partial)
+LKHOAPEA_01571	CDS	609	yedJ		COG1418	putative protein YedJ
+LKHOAPEA_01572	CDS	786	ylmA	3.6.3.-	COG1119	putative ABC transporter ATP-binding protein YlmA
+LKHOAPEA_01573	CDS	363				hypothetical protein
+LKHOAPEA_01574	CDS	1233	pepT_2	3.4.11.4	COG2195	Peptidase T
+LKHOAPEA_01575	CDS	531				hypothetical protein
+LKHOAPEA_01576	CDS	756	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+LKHOAPEA_01577	CDS	360	rplT		COG0292	50S ribosomal protein L20
+LKHOAPEA_01578	CDS	201	rpmI		COG0291	50S ribosomal protein L35
+LKHOAPEA_01579	CDS	570	infC			Translation initiation factor IF-3
+LKHOAPEA_01580	CDS	894	inlC		COG4886	Internalin C
+LKHOAPEA_01581	CDS	108				hypothetical protein
+LKHOAPEA_01582	CDS	345	rplS		COG0335	50S ribosomal protein L19
+LKHOAPEA_01583	CDS	471				hypothetical protein
+LKHOAPEA_01584	CDS	612	azoR1	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase 1
+LKHOAPEA_01585	CDS	717	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+LKHOAPEA_01586	CDS	390				hypothetical protein
+LKHOAPEA_01587	CDS	738	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+LKHOAPEA_01588	CDS	519	rimM			Ribosome maturation factor RimM
+LKHOAPEA_01589	CDS	387				hypothetical protein
+LKHOAPEA_01590	CDS	735	puuD	3.5.1.94	COG2071	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+LKHOAPEA_01591	CDS	231				hypothetical protein
+LKHOAPEA_01592	CDS	273	rpsP		COG0228	30S ribosomal protein S16
+LKHOAPEA_01593	CDS	1659				hypothetical protein
+LKHOAPEA_01594	CDS	2700				hypothetical protein
+LKHOAPEA_01595	CDS	897				hypothetical protein
+LKHOAPEA_01596	CDS	1353	ffh		COG0541	Signal recognition particle protein
+LKHOAPEA_01597	CDS	333				hypothetical protein
+LKHOAPEA_01598	CDS	987	ftsY		COG0552	Signal recognition particle receptor FtsY
+LKHOAPEA_01599	CDS	3561	smc_4		COG1196	Chromosome partition protein Smc
+LKHOAPEA_01600	CDS	690	rnc	3.1.26.3	COG0571	Ribonuclease 3
+LKHOAPEA_01601	CDS	234	acpA		COG0236	Acyl carrier protein
+LKHOAPEA_01602	CDS	744	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LKHOAPEA_01603	CDS	942	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+LKHOAPEA_01604	CDS	1014	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+LKHOAPEA_01605	CDS	570	fapR		COG2050	Transcription factor FapR
+LKHOAPEA_01606	CDS	2049	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+LKHOAPEA_01607	CDS	891	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+LKHOAPEA_01608	CDS	663	sdhB	4.3.1.17		L-serine dehydratase, beta chain
+LKHOAPEA_01609	CDS	1659				putative protein
+LKHOAPEA_01610	CDS	366				putative protein
+LKHOAPEA_01611	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+LKHOAPEA_01612	CDS	645	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+LKHOAPEA_01613	CDS	657	rpe_3	5.1.3.1		Ribulose-phosphate 3-epimerase
+LKHOAPEA_01614	CDS	876	rsgA_2	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+LKHOAPEA_01615	CDS	1968	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+LKHOAPEA_01616	CDS	759	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+LKHOAPEA_01617	CDS	1335	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+LKHOAPEA_01618	CDS	939	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+LKHOAPEA_01619	CDS	2394	priA	3.6.4.-		primosomal protein N'
+LKHOAPEA_01620	CDS	1200	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+LKHOAPEA_01621	CDS	207	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+LKHOAPEA_01622	CDS	621	gmk	2.7.4.8	COG0194	Guanylate kinase
+LKHOAPEA_01623	CDS	876				hypothetical protein
+LKHOAPEA_01624	CDS	1713	rqcH		COG1293	Rqc2 RqcH
+LKHOAPEA_01625	CDS	600				hypothetical protein
+LKHOAPEA_01626	CDS	630	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+LKHOAPEA_01627	CDS	702	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+LKHOAPEA_01628	CDS	915	pyrDB	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+LKHOAPEA_01629	CDS	765	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+LKHOAPEA_01630	CDS	3213	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+LKHOAPEA_01631	CDS	1092	carA_1	6.3.5.5		Carbamoyl-phosphate synthase small chain
+LKHOAPEA_01632	CDS	1281	pyrC	3.5.2.3	COG0044	Dihydroorotase
+LKHOAPEA_01633	CDS	912	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+LKHOAPEA_01634	CDS	1287	pyrP			Uracil permease
+LKHOAPEA_01635	CDS	552	pyrR		COG2065	Bifunctional protein PyrR
+LKHOAPEA_01636	CDS	231				hypothetical protein
+LKHOAPEA_01637	CDS	825	rsbRD_1			RsbT co-antagonist protein RsbRD
+LKHOAPEA_01638	CDS	912	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+LKHOAPEA_01639	CDS	465	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+LKHOAPEA_01640	CDS	1284				Nucleobase transporter PlAzg2
+LKHOAPEA_01641	CDS	1371	norM		COG0534	Multidrug resistance protein NorM
+LKHOAPEA_01642	CDS	933	mntA		COG0803	Manganese-binding lipoprotein MntA
+LKHOAPEA_01643	CDS	843	mntB_1			Manganese transport system membrane protein MntB
+LKHOAPEA_01644	CDS	723	mntB_2		COG1121	Manganese transport system ATP-binding protein MntB
+LKHOAPEA_01645	CDS	417				hypothetical protein
+LKHOAPEA_01646	CDS	1491	ctpA	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpA
+LKHOAPEA_01647	CDS	207	copZ			Copper chaperone CopZ
+LKHOAPEA_01648	CDS	2214	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+LKHOAPEA_01649	CDS	294	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+LKHOAPEA_01650	CDS	825	ddpX	3.4.13.22		D-alanyl-D-alanine dipeptidase
+LKHOAPEA_01651	CDS	702	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+LKHOAPEA_01652	CDS	234				hypothetical protein
+LKHOAPEA_01653	CDS	906	yceM	1.-.-.-	COG0673	Putative oxidoreductase YceM
+LKHOAPEA_01654	CDS	438	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+LKHOAPEA_01655	CDS	534	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+LKHOAPEA_01656	CDS	615				hypothetical protein
+LKHOAPEA_01657	CDS	786	lipC	3.-.-.-	COG2755	Spore germination lipase LipC
+LKHOAPEA_01658	CDS	840				DegV domain-containing protein
+LKHOAPEA_01659	CDS	633				hypothetical protein
+LKHOAPEA_01660	CDS	618	ccpN		COG0517	Transcriptional repressor CcpN
+LKHOAPEA_01661	CDS	813	yqfL_2	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+LKHOAPEA_01662	CDS	2640	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+LKHOAPEA_01663	CDS	378				hypothetical protein
+LKHOAPEA_01664	CDS	984				hypothetical protein
+LKHOAPEA_01665	CDS	624			COG0586	putative membrane protein
+LKHOAPEA_01666	CDS	1353				hypothetical protein
+LKHOAPEA_01667	CDS	1512	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+LKHOAPEA_01668	CDS	876	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+LKHOAPEA_01669	CDS	483				IS1595 family transposase ISSsu9
+LKHOAPEA_01670	CDS	945	thyA	2.1.1.45	COG0207	Thymidylate synthase
+LKHOAPEA_01671	CDS	1893	ettA_1		COG0488	Energy-dependent translational throttle protein EttA
+LKHOAPEA_01672	CDS	1683	fhs1	6.3.4.3		Formate--tetrahydrofolate ligase 1
+LKHOAPEA_01673	CDS	429	mntR		COG1321	HTH-type transcriptional regulator MntR
+LKHOAPEA_01674	CDS	201	cspD_1		COG1278	Cold shock protein CspD
+LKHOAPEA_01675	CDS	402	rnhA		COG0328	14.7 kDa ribonuclease H-like protein
+LKHOAPEA_01676	CDS	873	ypcP	3.1.11.-	COG0258	5'-3' exonuclease
+LKHOAPEA_01677	CDS	270	rpsN2		COG0199	Alternate 30S ribosomal protein S14
+LKHOAPEA_01678	CDS	1059		3.2.1.14	COG3469	Chitinase
+LKHOAPEA_01679	CDS	1308				Nucleobase transporter PlUacP
+LKHOAPEA_01680	CDS	579	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+LKHOAPEA_01681	CDS	1509	ypwA	3.4.17.19	COG2317	Carboxypeptidase 1
+LKHOAPEA_01682	CDS	1149	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+LKHOAPEA_01683	CDS	165				hypothetical protein
+LKHOAPEA_01684	CDS	342	gpsB		COG3599	Cell cycle protein GpsB
+LKHOAPEA_01685	CDS	546				hypothetical protein
+LKHOAPEA_01686	CDS	366	yppE			putative protein YppE
+LKHOAPEA_01687	CDS	606	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+LKHOAPEA_01688	CDS	2484	ponA		COG0744	Penicillin-binding protein 1A/1B
+LKHOAPEA_01689	CDS	492				hypothetical protein
+LKHOAPEA_01690	CDS	660	nth_2	4.2.99.18	COG0177	Endonuclease III
+LKHOAPEA_01691	CDS	720	dnaD		COG3935	DNA replication protein DnaD
+LKHOAPEA_01692	CDS	1293	asnS	6.1.1.22		Asparagine--tRNA ligase
+LKHOAPEA_01693	CDS	1182		2.6.1.1		Aspartate aminotransferase
+LKHOAPEA_01694	CDS	585	ypmB		COG5353	putative protein YpmB
+LKHOAPEA_01695	CDS	2787	dinG_1	3.1.-.-		3'-5' exonuclease DinG
+LKHOAPEA_01696	CDS	384	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+LKHOAPEA_01697	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+LKHOAPEA_01698	CDS	834	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+LKHOAPEA_01699	CDS	474				hypothetical protein
+LKHOAPEA_01700	CDS	978	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+LKHOAPEA_01701	CDS	1182	cca	2.7.7.72		CCA-adding enzyme
+LKHOAPEA_01702	CDS	405	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+LKHOAPEA_01703	CDS	792	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+LKHOAPEA_01704	CDS	396	ypjD		COG1694	putative protein YpjD
+LKHOAPEA_01705	CDS	867				hypothetical protein
+LKHOAPEA_01706	CDS	1107	thiO	1.4.3.19		Glycine oxidase
+LKHOAPEA_01707	CDS	1137				hypothetical protein
+LKHOAPEA_01708	CDS	1128				hypothetical protein
+LKHOAPEA_01709	CDS	1005				hypothetical protein
+LKHOAPEA_01710	CDS	684	pdeG	3.1.4.52		putative cyclic di-GMP phosphodiesterase PdeG
+LKHOAPEA_01711	CDS	1644	mleS	4.1.1.101	COG0281	Malolactic enzyme
+LKHOAPEA_01712	CDS	1008	yfeW	3.4.16.4		Putative D-alanyl-D-alanine carboxypeptidase
+LKHOAPEA_01713	CDS	2280	pflB_2	2.3.1.54		Formate acetyltransferase
+LKHOAPEA_01714	CDS	1266			COG2081	putative protein
+LKHOAPEA_01715	CDS	684				hypothetical protein
+LKHOAPEA_01716	CDS	597				hypothetical protein
+LKHOAPEA_01717	CDS	546				hypothetical protein
+LKHOAPEA_01718	CDS	1254	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+LKHOAPEA_01719	CDS	1287	aroA_2	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+LKHOAPEA_01720	CDS	1104				hypothetical protein
+LKHOAPEA_01721	CDS	1083	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+LKHOAPEA_01722	CDS	375	aroH	5.4.99.5	COG4401	Chorismate mutase AroH
+LKHOAPEA_01723	CDS	1098	aroB	4.2.3.4		3-dehydroquinate synthase
+LKHOAPEA_01724	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+LKHOAPEA_01725	CDS	444	ndk	2.7.4.6		Nucleoside diphosphate kinase
+LKHOAPEA_01726	CDS	966	hepT_1	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+LKHOAPEA_01727	CDS	714	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+LKHOAPEA_01728	CDS	768	hepS	2.5.1.30		Heptaprenyl diphosphate synthase component 1
+LKHOAPEA_01729	CDS	570	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+LKHOAPEA_01730	CDS	276	hup			DNA-binding protein HU
+LKHOAPEA_01731	CDS	981				hypothetical protein
+LKHOAPEA_01732	CDS	1017	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+LKHOAPEA_01733	CDS	1311	der		COG1160	GTPase Der
+LKHOAPEA_01734	CDS	1332	ypfD		COG0539	30S ribosomal protein S1 
+LKHOAPEA_01735	CDS	675	cmk	2.7.4.25	COG0283	Cytidylate kinase
+LKHOAPEA_01736	CDS	963	ansZ	3.5.1.1	COG0252	L-asparaginase 2
+LKHOAPEA_01737	CDS	720				hypothetical protein
+LKHOAPEA_01738	CDS	1404	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+LKHOAPEA_01739	CDS	1218				hypothetical protein
+LKHOAPEA_01740	CDS	6012				hypothetical protein
+LKHOAPEA_01741	CDS	804				hypothetical protein
+LKHOAPEA_01742	CDS	519				hypothetical protein
+LKHOAPEA_01743	CDS	1791	resE	2.7.13.3		Sensor histidine kinase ResE
+LKHOAPEA_01744	CDS	717	srrA_2		COG0745	Transcriptional regulatory protein SrrA
+LKHOAPEA_01745	CDS	735	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+LKHOAPEA_01746	CDS	597	scpB		COG1386	Segregation and condensation protein B
+LKHOAPEA_01747	CDS	750	scpA		COG1354	Segregation and condensation protein A
+LKHOAPEA_01748	CDS	1311	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+LKHOAPEA_01749	CDS	819	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+LKHOAPEA_01750	CDS	1185	deoB	5.4.2.7	COG1015	Phosphopentomutase
+LKHOAPEA_01751	CDS	894	xerD			Tyrosine recombinase XerD
+LKHOAPEA_01752	CDS	453	fur		COG0735	Ferric uptake regulation protein
+LKHOAPEA_01753	CDS	1023	feuC		COG0609	Iron-uptake system permease protein FeuC
+LKHOAPEA_01754	CDS	1026	feuB		COG0609	Iron-uptake system permease protein FeuB
+LKHOAPEA_01755	CDS	942	yxeB		COG0614	Iron(3+)-hydroxamate-binding protein YxeB
+LKHOAPEA_01756	CDS	825	yusV		COG1120	putative siderophore transport system ATP-binding protein YusV
+LKHOAPEA_01757	CDS	999	ycgT	1.18.1.2	COG0492	Ferredoxin--NADP reductase 1
+LKHOAPEA_01758	CDS	621	slmA_2			Nucleoid occlusion factor SlmA
+LKHOAPEA_01759	CDS	816				hypothetical protein
+LKHOAPEA_01760	CDS	888	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LKHOAPEA_01761	CDS	558	act	3.-.-.-		Methanol dehydrogenase activator
+LKHOAPEA_01762	CDS	660				hypothetical protein
+LKHOAPEA_01763	CDS	1200				TelA-like protein
+LKHOAPEA_01764	CDS	1071	dinB	2.7.7.7	COG0389	DNA polymerase IV
+LKHOAPEA_01765	CDS	792	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+LKHOAPEA_01766	CDS	921	rnz	3.1.26.11	COG1234	Ribonuclease Z
+LKHOAPEA_01767	CDS	1476	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+LKHOAPEA_01768	CDS	432	yueI		COG5506	putative protein YueI
+LKHOAPEA_01769	CDS	138				hypothetical protein
+LKHOAPEA_01770	CDS	486				hypothetical protein
+LKHOAPEA_01771	CDS	528				hypothetical protein
+LKHOAPEA_01772	CDS	1695	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+LKHOAPEA_01773	CDS	1722	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+LKHOAPEA_01774	CDS	492	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+LKHOAPEA_01775	CDS	996	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+LKHOAPEA_01776	CDS	1539	leuA	2.3.3.13		2-isopropylmalate synthase
+LKHOAPEA_01777	CDS	1053	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+LKHOAPEA_01778	CDS	1389	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+LKHOAPEA_01779	CDS	582	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+LKHOAPEA_01780	CDS	1269	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+LKHOAPEA_01781	CDS	720	alsD	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+LKHOAPEA_01782	CDS	1302	pdp	2.4.2.2	COG0213	Pyrimidine-nucleoside phosphorylase
+LKHOAPEA_01783	CDS	1011	rbsR_2		COG1609	Ribose operon repressor
+LKHOAPEA_01784	CDS	672	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+LKHOAPEA_01785	CDS	948	deoR		COG2390	Deoxyribonucleoside regulator
+LKHOAPEA_01786	CDS	417	manX_3	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+LKHOAPEA_01787	CDS	996	frlB	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+LKHOAPEA_01788	CDS	1065	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+LKHOAPEA_01789	CDS	822	manZ_2		COG3716	PTS system mannose-specific EIID component
+LKHOAPEA_01790	CDS	819	agaC_1		COG3715	N-acetylgalactosamine permease IIC component 1
+LKHOAPEA_01791	CDS	468		2.7.1.-		putative phosphotransferase enzyme IIB component
+LKHOAPEA_01792	CDS	702	mngR		COG2188	Mannosyl-D-glycerate transport/metabolism system repressor MngR
+LKHOAPEA_01793	CDS	732	yurK		COG2188	putative HTH-type transcriptional regulator YurK
+LKHOAPEA_01794	CDS	111				hypothetical protein
+LKHOAPEA_01795	CDS	996	yajO_2	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+LKHOAPEA_01796	CDS	1698	alsS	2.2.1.6	COG0028	Acetolactate synthase
+LKHOAPEA_01797	CDS	1458				hypothetical protein
+LKHOAPEA_01798	CDS	972	araQ_4		COG0395	L-arabinose transport system permease protein AraQ
+LKHOAPEA_01799	CDS	930	yteP		COG4209	putative multiple-sugar transport system permease YteP
+LKHOAPEA_01800	CDS	1485	rssB			Regulator of RpoS
+LKHOAPEA_01801	CDS	1740				hypothetical protein
+LKHOAPEA_01802	CDS	612	yesV		COG5578	putative protein YesV
+LKHOAPEA_01803	CDS	1305				hypothetical protein
+LKHOAPEA_01804	CDS	2658	mngB_3	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+LKHOAPEA_01805	CDS	3099				hypothetical protein
+LKHOAPEA_01806	CDS	201	cspD_2		COG1278	Cold shock protein CspD
+LKHOAPEA_01807	CDS	696				hypothetical protein
+LKHOAPEA_01808	CDS	990	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+LKHOAPEA_01809	CDS	2766	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+LKHOAPEA_01810	CDS	528	divIVA		COG3599	Septum site-determining protein DivIVA
+LKHOAPEA_01811	CDS	489	nadR		COG1827	Transcription repressor NadR
+LKHOAPEA_01812	CDS	1107	nifS	2.8.1.7	COG1104	Putative cysteine desulfurase NifS
+LKHOAPEA_01813	CDS	1455	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+LKHOAPEA_01814	CDS	846	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+LKHOAPEA_01815	CDS	1101	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+LKHOAPEA_01816	CDS	267				hypothetical protein
+LKHOAPEA_01817	CDS	780	COQ3_3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+LKHOAPEA_01818	CDS	594				hypothetical protein
+LKHOAPEA_01819	CDS	162				hypothetical protein
+LKHOAPEA_01820	CDS	777				hypothetical protein
+LKHOAPEA_01821	CDS	291				hypothetical protein
+LKHOAPEA_01822	CDS	459	sepF		COG1799	Cell division protein SepF
+LKHOAPEA_01823	CDS	690			COG0325	Pyridoxal phosphate homeostasis protein
+LKHOAPEA_01824	CDS	1176	ftsZ		COG0206	Cell division protein FtsZ
+LKHOAPEA_01825	CDS	1281	ftsA_3		COG0849	Cell division protein FtsA
+LKHOAPEA_01826	CDS	813	divIB		COG1589	Cell division protein DivIB
+LKHOAPEA_01827	CDS	1092	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+LKHOAPEA_01828	CDS	1368	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+LKHOAPEA_01829	CDS	975	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+LKHOAPEA_01830	CDS	1476	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+LKHOAPEA_01831	CDS	2217	pbpB		COG0768	Penicillin-binding protein 2B
+LKHOAPEA_01832	CDS	363	ftsL		COG4839	Cell division protein FtsL
+LKHOAPEA_01833	CDS	939	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+LKHOAPEA_01834	CDS	381	mraZ			Transcriptional regulator MraZ
+LKHOAPEA_01835	CDS	1248	mdrP_2			Na(+), Li(+), K(+)/H(+) antiporter
+LKHOAPEA_01836	CDS	1815	sgrR		COG4533	HTH-type transcriptional regulator SgrR
+LKHOAPEA_01837	CDS	387				hypothetical protein
+LKHOAPEA_01838	CDS	894	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+LKHOAPEA_01839	CDS	174	rpmF_2			50S ribosomal protein L32
+LKHOAPEA_01840	CDS	537				hypothetical protein
+LKHOAPEA_01841	CDS	1173	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+LKHOAPEA_01842	CDS	2241	uvrA_1		COG0178	UvrABC system protein A
+LKHOAPEA_01843	CDS	1041	ylbL		COG3480	putative protein YlbL
+LKHOAPEA_01844	CDS	483	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+LKHOAPEA_01845	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+LKHOAPEA_01846	CDS	282				hypothetical protein
+LKHOAPEA_01847	CDS	450				hypothetical protein
+LKHOAPEA_01848	CDS	1056				hypothetical protein
+LKHOAPEA_01849	CDS	906	ctaB2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase 2
+LKHOAPEA_01850	CDS	918	ctaA	1.3.-.-		Heme A synthase
+LKHOAPEA_01851	CDS	744				hypothetical protein
+LKHOAPEA_01852	CDS	642	yiiM		COG2258	Protein YiiM
+LKHOAPEA_01853	CDS	618	ycnI		COG4549	putative protein YcnI
+LKHOAPEA_01854	CDS	1626	ycnJ		COG1276	Copper transport protein YcnJ
+LKHOAPEA_01855	CDS	192				hypothetical protein
+LKHOAPEA_01856	CDS	387	mscL		COG1970	Large-conductance mechanosensitive channel
+LKHOAPEA_01857	CDS	393				hypothetical protein
+LKHOAPEA_01858	CDS	210				hypothetical protein
+LKHOAPEA_01859	CDS	1011	cbh	3.5.1.24		Choloylglycine hydrolase
+LKHOAPEA_01860	CDS	1629	groL		COG0459	60 kDa chaperonin
+LKHOAPEA_01861	CDS	285	groS		COG0234	10 kDa chaperonin
+LKHOAPEA_01862	CDS	687				hypothetical protein
+LKHOAPEA_01863	CDS	198				hypothetical protein
+LKHOAPEA_01864	CDS	648	rex		COG2344	Redox-sensing transcriptional repressor Rex
+LKHOAPEA_01865	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+LKHOAPEA_01866	CDS	960	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+LKHOAPEA_01867	CDS	1023	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+LKHOAPEA_01868	CDS	480	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+LKHOAPEA_01869	CDS	693	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+LKHOAPEA_01870	CDS	462	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+LKHOAPEA_01871	CDS	1143				hypothetical protein
+LKHOAPEA_01872	CDS	381				hypothetical protein
+LKHOAPEA_01873	CDS	357	crcB_1			Putative fluoride ion transporter CrcB
+LKHOAPEA_01874	CDS	390	crcB_2			Putative fluoride ion transporter CrcB
+LKHOAPEA_01875	CDS	627				hypothetical protein
+LKHOAPEA_01876	CDS	894				hypothetical protein
+LKHOAPEA_01877	tRNA	84				tRNA-Leu(gag)
+LKHOAPEA_01878	CDS	1689				hypothetical protein
+LKHOAPEA_01879	CDS	1272				hypothetical protein
+LKHOAPEA_01880	CDS	1332	mepA_2			Multidrug export protein MepA
+LKHOAPEA_01881	CDS	591				hypothetical protein
+LKHOAPEA_01882	CDS	1044	aes_1	3.1.1.-		Acetyl esterase
+LKHOAPEA_01883	CDS	1215	argG	6.3.4.5		Argininosuccinate synthase
+LKHOAPEA_01884	CDS	1371	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+LKHOAPEA_01885	CDS	1524	betL		COG1292	Glycine betaine transporter BetL
+LKHOAPEA_01886	CDS	198				hypothetical protein
+LKHOAPEA_01887	CDS	651	drdA	4.1.2.-		5-deoxy-D-ribulose 1-phosphate aldolase
+LKHOAPEA_01888	CDS	933	lacC_1	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+LKHOAPEA_01889	CDS	1350	gatC_3		COG3775	PTS system galactitol-specific EIIC component
+LKHOAPEA_01890	CDS	276	gatB_3	2.7.1.200	COG3414	PTS system galactitol-specific EIIB component
+LKHOAPEA_01891	CDS	468	gatA_2		COG1762	PTS system galactitol-specific EIIA component
+LKHOAPEA_01892	CDS	2007				hypothetical protein
+LKHOAPEA_01893	CDS	1446	norG		COG1167	HTH-type transcriptional regulator NorG
+LKHOAPEA_01894	CDS	888	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+LKHOAPEA_01895	CDS	567	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+LKHOAPEA_01896	CDS	978	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+LKHOAPEA_01897	CDS	228				hypothetical protein
+LKHOAPEA_01898	CDS	1995	feoB		COG0370	Fe(2+) transporter FeoB
+LKHOAPEA_01899	CDS	174				hypothetical protein
+LKHOAPEA_01900	CDS	855	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+LKHOAPEA_01901	CDS	765	glcR		COG1349	HTH-type transcriptional repressor GlcR
+LKHOAPEA_01902	CDS	1134	nagA_2	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+LKHOAPEA_01903	CDS	810	xylF	3.7.1.9		2-hydroxymuconate semialdehyde hydrolase
+LKHOAPEA_01904	CDS	957	yvyI	5.3.1.8	COG1482	Putative mannose-6-phosphate isomerase YvyI
+LKHOAPEA_01905	CDS	732	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+LKHOAPEA_01906	CDS	231				hypothetical protein
+LKHOAPEA_01907	CDS	756		1.11.1.-	COG3253	Putative heme-dependent peroxidase
+LKHOAPEA_01908	CDS	768	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+LKHOAPEA_01909	CDS	1941	bceB_2		COG0577	Bacitracin export permease protein BceB
+LKHOAPEA_01910	CDS	834				hypothetical protein
+LKHOAPEA_01911	CDS	462	yvbK	2.3.1.-		putative N-acetyltransferase YvbK
+LKHOAPEA_01912	CDS	1353	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+LKHOAPEA_01913	CDS	1362	cdaR		COG4856	CdaA regulatory protein CdaR
+LKHOAPEA_01914	CDS	822	dacA_1	2.7.7.85	COG1624	Diadenylate cyclase
+LKHOAPEA_01915	CDS	1296				hypothetical protein
+LKHOAPEA_01916	CDS	2262	malP	2.4.1.8		Maltose phosphorylase
+LKHOAPEA_01917	CDS	834				hypothetical protein
+LKHOAPEA_01918	CDS	852	malG		COG3833	Maltose/maltodextrin transport system permease protein MalG
+LKHOAPEA_01919	CDS	1308				hypothetical protein
+LKHOAPEA_01920	CDS	1260	mdxE		COG2182	Maltodextrin-binding protein MdxE
+LKHOAPEA_01921	CDS	1776	bbmA	3.2.1.-	COG0366	Intracellular maltogenic amylase
+LKHOAPEA_01922	CDS	636				hypothetical protein
+LKHOAPEA_01923	CDS	966	galR		COG1609	HTH-type transcriptional regulator GalR
+LKHOAPEA_01924	CDS	237				hypothetical protein
+LKHOAPEA_01925	CDS	1824	kimA		COG0531	Potassium transporter KimA
+LKHOAPEA_01926	tRNA	73				tRNA-Glu(ttc)
+LKHOAPEA_01927	tRNA	74				tRNA-Thr(cgt)
+LKHOAPEA_01928	tRNA	84				tRNA-Tyr(gta)
+LKHOAPEA_01929	tRNA	75				tRNA-Gln(ttg)
+LKHOAPEA_01930	tRNA	73				tRNA-Lys(ttt)
+LKHOAPEA_01931	CDS	690				hypothetical protein
+LKHOAPEA_01932	CDS	711				hypothetical protein
+LKHOAPEA_01933	CDS	900	gatY_2	4.1.2.40	COG0191	D-tagatose-1,6-bisphosphate aldolase subunit GatY
+LKHOAPEA_01934	CDS	855	gatY_3	4.1.2.40	COG0191	D-tagatose-1,6-bisphosphate aldolase subunit GatY
+LKHOAPEA_01935	CDS	1098	fruA_7		COG1299	PTS system fructose-specific EIIB'BC component
+LKHOAPEA_01936	CDS	312	manP		COG1299	PTS system mannose-specific EIIBCA component
+LKHOAPEA_01937	CDS	474	mngA_3		COG1299	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+LKHOAPEA_01938	CDS	1458	mtlR			Transcriptional regulator MtlR
+LKHOAPEA_01939	CDS	903	btuD_7	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LKHOAPEA_01940	CDS	1236	yhaP		COG1668	putative protein YhaP
+LKHOAPEA_01941	CDS	474	mnaT	2.3.1.-	COG1247	L-amino acid N-acyltransferase MnaT
+LKHOAPEA_01942	CDS	666				hypothetical protein
+LKHOAPEA_01943	CDS	1743				hypothetical protein
+LKHOAPEA_01944	CDS	735	nagR_2		COG2188	HTH-type transcriptional repressor NagR
+LKHOAPEA_01945	CDS	1017				hypothetical protein
+LKHOAPEA_01946	CDS	855	cysL		COG0583	HTH-type transcriptional regulator CysL
+LKHOAPEA_01947	CDS	1008				hypothetical protein
+LKHOAPEA_01948	CDS	642				hypothetical protein
+LKHOAPEA_01949	CDS	318				hypothetical protein
+LKHOAPEA_01950	CDS	177				hypothetical protein
+LKHOAPEA_01951	CDS	300				hypothetical protein
+LKHOAPEA_01952	CDS	327	trxA_2		COG0526	Thioredoxin
+LKHOAPEA_01953	CDS	438				Flavodoxin
+LKHOAPEA_01954	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+LKHOAPEA_01955	CDS	2292	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+LKHOAPEA_01956	CDS	342				hypothetical protein
+LKHOAPEA_01957	CDS	1902	yjcS_2	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+LKHOAPEA_01958	CDS	186				hypothetical protein
+LKHOAPEA_01959	CDS	1050	ydgJ	1.-.-.-	COG0673	putative oxidoreductase YdgJ
+LKHOAPEA_01960	CDS	969				hypothetical protein
+LKHOAPEA_01961	CDS	723				hypothetical protein
+LKHOAPEA_01962	CDS	741	iolE	4.2.1.44		Inosose dehydratase
+LKHOAPEA_01963	CDS	1077	gfo	1.1.99.28		Glucose--fructose oxidoreductase
+LKHOAPEA_01964	CDS	879	rhaR_3			HTH-type transcriptional activator RhaR
+LKHOAPEA_01965	CDS	696				hypothetical protein
+LKHOAPEA_01966	CDS	672				hypothetical protein
+LKHOAPEA_01967	CDS	618		3.-.-.-		putative metallo-hydrolase
+LKHOAPEA_01968	CDS	390	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+LKHOAPEA_01969	CDS	159				hypothetical protein
+LKHOAPEA_01970	CDS	930		1.6.5.11	COG2070	NADH:quinone reductase
+LKHOAPEA_01971	CDS	1224				L-lactate transporter
+LKHOAPEA_01972	CDS	1584	carA_2	2.8.3.23	COG4670	Caffeate CoA-transferase
+LKHOAPEA_01973	CDS	1368	norR_2			Anaerobic nitric oxide reductase transcription regulator NorR
+LKHOAPEA_01974	CDS	1074				hypothetical protein
+LKHOAPEA_01975	CDS	762		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+LKHOAPEA_01976	CDS	567	fabR			HTH-type transcriptional repressor FabR
+LKHOAPEA_01977	CDS	348				hypothetical protein
+LKHOAPEA_01978	CDS	4311				hypothetical protein
+LKHOAPEA_01979	CDS	5145				hypothetical protein
+LKHOAPEA_01980	CDS	3456				hypothetical protein
+LKHOAPEA_01981	CDS	477				hypothetical protein
+LKHOAPEA_01982	CDS	741	srtB	3.4.22.-	COG4509	Sortase B
+LKHOAPEA_01983	CDS	780	fepC		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+LKHOAPEA_01984	CDS	990	isdF			putative heme-iron transport system permease protein IsdF
+LKHOAPEA_01985	CDS	873	isdE_1			High-affinity heme uptake system protein IsdE
+LKHOAPEA_01986	CDS	1710	hbp2		COG5386	Hemin/hemoglobin-binding protein 2
+LKHOAPEA_01987	CDS	627	hbp1		COG5386	Hemin/hemoglobin-binding protein 1
+LKHOAPEA_01988	CDS	261				hypothetical protein
+LKHOAPEA_01989	CDS	1806	pepF1_2	3.4.24.-		Oligoendopeptidase F, plasmid
+LKHOAPEA_01990	CDS	1116				hypothetical protein
+LKHOAPEA_01991	CDS	654	mecA		COG4862	Adapter protein MecA 1
+LKHOAPEA_01992	CDS	396	spxA		COG1393	Regulatory protein Spx
+LKHOAPEA_01993	CDS	969	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+LKHOAPEA_01994	CDS	1077	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+LKHOAPEA_01995	CDS	1035	oppC		COG1173	Oligopeptide transport system permease protein OppC
+LKHOAPEA_01996	CDS	930	oppB		COG0601	Oligopeptide transport system permease protein OppB
+LKHOAPEA_01997	CDS	1677	dppE_1		COG4166	Dipeptide-binding protein DppE
+LKHOAPEA_01998	CDS	345				hypothetical protein
+LKHOAPEA_01999	CDS	996	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+LKHOAPEA_02000	CDS	417	ohrA		COG1764	Organic hydroperoxide resistance protein OhrA
+LKHOAPEA_02001	CDS	456	hpr			HTH-type transcriptional regulator Hpr
+LKHOAPEA_02002	CDS	1242	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+LKHOAPEA_02003	CDS	939	fabHA	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1
+LKHOAPEA_02004	CDS	1104				hypothetical protein
+LKHOAPEA_02005	CDS	180				hypothetical protein
+LKHOAPEA_02006	CDS	690	gpmA_5	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+LKHOAPEA_02007	CDS	2601	clpB		COG0542	Chaperone protein ClpB
+LKHOAPEA_02008	CDS	678	yetJ		COG0670	putative protein YetJ
+LKHOAPEA_02009	CDS	771				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+LKHOAPEA_02010	CDS	786				hypothetical protein
+LKHOAPEA_02011	CDS	345				hypothetical protein
+LKHOAPEA_02012	CDS	930	hemH	4.99.1.1	COG0276	Ferrochelatase
+LKHOAPEA_02013	CDS	1062	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+LKHOAPEA_02014	CDS	504	hmoB	1.14.14.18	COG2329	Heme-degrading monooxygenase HmoB
+LKHOAPEA_02015	CDS	1224				hypothetical protein
+LKHOAPEA_02016	CDS	753	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+LKHOAPEA_02017	CDS	423	hit		COG0537	Protein hit
+LKHOAPEA_02018	CDS	363				hypothetical protein
+LKHOAPEA_02019	CDS	540				hypothetical protein
+LKHOAPEA_02020	CDS	882	prsA1_2	5.2.1.8	COG0760	Foldase protein PrsA 1
+LKHOAPEA_02021	CDS	942	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+LKHOAPEA_02022	CDS	2724				hypothetical protein
+LKHOAPEA_02023	CDS	1236	yhaO		COG0420	putative metallophosphoesterase YhaO
+LKHOAPEA_02024	CDS	354				hypothetical protein
+LKHOAPEA_02025	CDS	1134				hypothetical protein
+LKHOAPEA_02026	CDS	1368	fumC	4.2.1.2		Fumarate hydratase class II
+LKHOAPEA_02027	CDS	795	yxlG			putative transmembrane protein YxlG
+LKHOAPEA_02028	CDS	906	yxlF	3.6.3.-	COG1131	putative ABC transporter ATP-binding protein YxlF
+LKHOAPEA_02029	CDS	198	yxlE			Negative regulatory protein YxlE
+LKHOAPEA_02030	CDS	2145	pbpF		COG0744	Penicillin-binding protein 1F
+LKHOAPEA_02031	CDS	426	arsC	1.20.4.4	COG0394	Arsenate reductase
+LKHOAPEA_02032	CDS	870	mneS		COG0053	Manganese efflux system protein MneS
+LKHOAPEA_02033	CDS	1305				hypothetical protein
+LKHOAPEA_02034	CDS	879	gltC_3			HTH-type transcriptional regulator GltC
+LKHOAPEA_02035	CDS	855				hypothetical protein
+LKHOAPEA_02036	CDS	1926	baiH	1.3.1.116	COG0446	7-beta-hydroxy-3-oxochol-24-oyl-CoA 4-desaturase
+LKHOAPEA_02037	CDS	870	aroE_3	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+LKHOAPEA_02038	CDS	1209	ydiM_1			Inner membrane transport protein YdiM
+LKHOAPEA_02039	CDS	1191	ydiM_2			Inner membrane transport protein YdiM
+LKHOAPEA_02040	CDS	1065				hypothetical protein
+LKHOAPEA_02041	CDS	879	ytrB_2		COG1131	ABC transporter ATP-binding protein YtrB
+LKHOAPEA_02042	CDS	396	ytrA_3		COG1725	HTH-type transcriptional repressor YtrA
+LKHOAPEA_02043	CDS	483	adaB	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, inducible
+LKHOAPEA_02044	CDS	561	adaA	2.1.1.-	COG2169	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+LKHOAPEA_02045	CDS	870	rluD_3	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+LKHOAPEA_02046	CDS	393				Tn3 family transposase ISAau4
+LKHOAPEA_02047	CDS	657				hypothetical protein
+LKHOAPEA_02048	CDS	885	ytbE	1.-.-.-	COG0656	putative oxidoreductase YtbE
+LKHOAPEA_02049	CDS	621				hypothetical protein
+LKHOAPEA_02050	CDS	999				hypothetical protein
+LKHOAPEA_02051	CDS	1461	mltF_2	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+LKHOAPEA_02052	CDS	726	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+LKHOAPEA_02053	CDS	1152	aspB	2.6.1.14	COG0436	Asparagine--oxo-acid transaminase
+LKHOAPEA_02054	CDS	630		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+LKHOAPEA_02055	CDS	1293	pbuO		COG2252	Guanine/hypoxanthine permease PbuO
+LKHOAPEA_02056	CDS	267				hypothetical protein
+LKHOAPEA_02057	CDS	522	yraA	3.2.-.-	COG0693	Putative cysteine protease YraA
+LKHOAPEA_02058	CDS	192				hypothetical protein
+LKHOAPEA_02059	CDS	351	celD			PTS system cellobiose-specific EIIA component
+LKHOAPEA_02060	CDS	876				hypothetical protein
+LKHOAPEA_02061	CDS	309	sufT			Fe-S protein maturation auxiliary factor SufT
+LKHOAPEA_02062	CDS	753				hypothetical protein
+LKHOAPEA_02063	CDS	813	yitU_2	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+LKHOAPEA_02064	CDS	903				hypothetical protein
+LKHOAPEA_02065	CDS	363				hypothetical protein
+LKHOAPEA_02066	CDS	849				hypothetical protein
+LKHOAPEA_02067	CDS	3708	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+LKHOAPEA_02068	CDS	3474	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+LKHOAPEA_02069	CDS	237				hypothetical protein
+LKHOAPEA_02070	CDS	609				hypothetical protein
+LKHOAPEA_02071	CDS	348				hypothetical protein
+LKHOAPEA_02072	CDS	1899	fruA_8		COG1299	PTS system fructose-specific EIIABC component
+LKHOAPEA_02073	CDS	924	lacC_2	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+LKHOAPEA_02074	CDS	753	lacR			Lactose phosphotransferase system repressor
+LKHOAPEA_02075	CDS	1326	pepC	3.4.22.40	COG3579	Aminopeptidase C
+LKHOAPEA_02076	CDS	444				hypothetical protein
+LKHOAPEA_02077	CDS	912	psuG	4.2.1.70	COG2313	Pseudouridine-5'-phosphate glycosidase
+LKHOAPEA_02078	CDS	1119	psuK	2.7.1.83	COG0524	Pseudouridine kinase
+LKHOAPEA_02079	CDS	702	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+LKHOAPEA_02080	CDS	1323	moxC	1.14.-.-	COG2141	Putative monooxygenase MoxC
+LKHOAPEA_02081	CDS	267				hypothetical protein
+LKHOAPEA_02082	CDS	996	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+LKHOAPEA_02083	CDS	780	tcyN	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyN
+LKHOAPEA_02084	CDS	708	tcyM		COG0765	L-cystine transport system permease protein TcyM
+LKHOAPEA_02085	CDS	717	tcyL		COG0765	L-cystine transport system permease protein TcyL
+LKHOAPEA_02086	CDS	810	tcyK		COG0834	L-cystine-binding protein TcyK
+LKHOAPEA_02087	CDS	537	ytmI	2.3.1.-		putative N-acetyltransferase YtmI
+LKHOAPEA_02088	CDS	546	ssuE	1.5.1.38	COG0431	FMN reductase (NADPH)
+LKHOAPEA_02089	CDS	900	hdfR			HTH-type transcriptional regulator HdfR
+LKHOAPEA_02090	CDS	1953				hypothetical protein
+LKHOAPEA_02091	CDS	1599	nfdA	3.5.1.91		N-substituted formamide deformylase
+LKHOAPEA_02092	CDS	1242				hypothetical protein
+LKHOAPEA_02093	CDS	612				hypothetical protein
+LKHOAPEA_02094	CDS	531				hypothetical protein
+LKHOAPEA_02095	CDS	732	nagB_3	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase 1
+LKHOAPEA_02096	CDS	846	ywpJ_2	3.1.3.-	COG0561	Phosphatase YwpJ
+LKHOAPEA_02097	CDS	1308	pagL	3.2.1.-	COG1486	6-phospho-alpha-glucosidase
+LKHOAPEA_02098	CDS	1917	licR_5		COG1762	putative licABCH operon regulator
+LKHOAPEA_02099	CDS	747	chbG	3.5.1.105	COG3394	Chitooligosaccharide deacetylase ChbG
+LKHOAPEA_02100	CDS	315	lacF_5		COG1447	PTS system lactose-specific EIIA component
+LKHOAPEA_02101	CDS	357	celA_4	2.7.1.205		PTS system cellobiose-specific EIIB component
+LKHOAPEA_02102	CDS	1302	lacE			PTS system lactose-specific EIICB component
+LKHOAPEA_02103	CDS	2784	smc_5			Chromosome partition protein Smc
+LKHOAPEA_02104	CDS	471	iscR			HTH-type transcriptional regulator IscR
+LKHOAPEA_02105	CDS	1524	gadC_1		COG0531	Glutamate/gamma-aminobutyrate antiporter
+LKHOAPEA_02106	CDS	1395	gadB_1	4.1.1.15	COG0076	Glutamate decarboxylase
+LKHOAPEA_02107	CDS	1515				hypothetical protein
+LKHOAPEA_02108	tRNA	84				tRNA-Leu(caa)
+LKHOAPEA_02109	tRNA	74				tRNA-Cys(gca)
+LKHOAPEA_02110	tRNA	72				tRNA-Gly(gcc)
+LKHOAPEA_02111	tRNA	74				tRNA-Gln(ttg)
+LKHOAPEA_02112	tRNA	74				tRNA-His(gtg)
+LKHOAPEA_02113	tRNA	74				tRNA-Trp(cca)
+LKHOAPEA_02114	tRNA	84				tRNA-Tyr(gta)
+LKHOAPEA_02115	tRNA	74				tRNA-Phe(gaa)
+LKHOAPEA_02116	CDS	759	srlR_3		COG1349	Glucitol operon repressor
+LKHOAPEA_02117	CDS	1353	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+LKHOAPEA_02118	CDS	408				hypothetical protein
+LKHOAPEA_02119	CDS	354	yugI		COG1098	General stress protein 13
+LKHOAPEA_02120	CDS	1167	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+LKHOAPEA_02121	CDS	1104			COG0577	putative ABC transporter permease
+LKHOAPEA_02122	CDS	681	hrtA_1	3.6.3.-		Putative hemin import ATP-binding protein HrtA
+LKHOAPEA_02123	CDS	315	licB_3	2.7.1.-	COG1440	Lichenan-specific phosphotransferase enzyme IIB component
+LKHOAPEA_02124	CDS	1362	yclM	2.7.2.4	COG0527	Aspartokinase 3
+LKHOAPEA_02125	CDS	393				hypothetical protein
+LKHOAPEA_02126	CDS	1371				hypothetical protein
+LKHOAPEA_02127	CDS	279				hypothetical protein
+LKHOAPEA_02128	CDS	585		5.2.1.8		Putative peptidyl-prolyl cis-trans isomerase
+LKHOAPEA_02129	CDS	1212	sbnD_1			Staphyloferrin B transporter
+LKHOAPEA_02130	CDS	2409	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+LKHOAPEA_02131	CDS	423	mrpB		COG2111	Na(+)/H(+) antiporter subunit B
+LKHOAPEA_02132	CDS	348	mrpC		COG1006	Na(+)/H(+) antiporter subunit C
+LKHOAPEA_02133	CDS	1488	mnhD1		COG0651	Na(+)/H(+) antiporter subunit D1
+LKHOAPEA_02134	CDS	480	mrpE		COG1863	Na(+)/H(+) antiporter subunit E
+LKHOAPEA_02135	CDS	288	mrpF		COG2212	Na(+)/H(+) antiporter subunit F
+LKHOAPEA_02136	CDS	594				hypothetical protein
+LKHOAPEA_02137	CDS	372		3.1.2.-	COG2050	Putative esterase
+LKHOAPEA_02138	CDS	474				hypothetical protein
+LKHOAPEA_02139	CDS	1221	yfeO			Putative ion-transport protein YfeO
+LKHOAPEA_02140	CDS	630				hypothetical protein
+LKHOAPEA_02141	CDS	819	ywqG		COG3878	putative protein YwqG
+LKHOAPEA_02142	CDS	1212		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+LKHOAPEA_02143	CDS	996	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+LKHOAPEA_02144	CDS	630	yhfK	4.-.-.-	COG0702	putative sugar epimerase YhfK
+LKHOAPEA_02145	CDS	234				hypothetical protein
+LKHOAPEA_02146	CDS	327				hypothetical protein
+LKHOAPEA_02147	CDS	426				hypothetical protein
+LKHOAPEA_02148	CDS	237	nfuA			Fe/S biogenesis protein NfuA
+LKHOAPEA_02149	CDS	501	ypjQ		COG1267	putative protein YpjQ
+LKHOAPEA_02150	CDS	1311				hypothetical protein
+LKHOAPEA_02151	CDS	444	bltD	2.3.1.57	COG0454	Spermine/spermidine acetyltransferase
+LKHOAPEA_02152	CDS	768	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+LKHOAPEA_02153	CDS	276	yutD		COG4470	putative protein YutD
+LKHOAPEA_02154	CDS	1389	mggB	3.1.3.-	COG0737	Mannosylglucosyl-3-phosphoglycerate phosphatase
+LKHOAPEA_02155	CDS	840				hypothetical protein
+LKHOAPEA_02156	CDS	366				hypothetical protein
+LKHOAPEA_02157	CDS	843				hypothetical protein
+LKHOAPEA_02158	CDS	315				hypothetical protein
+LKHOAPEA_02159	CDS	1395				hypothetical protein
+LKHOAPEA_02160	CDS	444	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+LKHOAPEA_02161	CDS	1227	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+LKHOAPEA_02162	CDS	1302				hypothetical protein
+LKHOAPEA_02163	CDS	786	sufC		COG0396	Vegetative protein 296
+LKHOAPEA_02164	CDS	1077				hypothetical protein
+LKHOAPEA_02165	CDS	831	metQ_2		COG1464	Methionine-binding lipoprotein MetQ
+LKHOAPEA_02166	CDS	675	metP_2		COG2011	Methionine import system permease protein MetP
+LKHOAPEA_02167	CDS	1098	metN_2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+LKHOAPEA_02168	CDS	189				hypothetical protein
+LKHOAPEA_02169	CDS	1143	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+LKHOAPEA_02170	CDS	696	srrA_3		COG0745	Transcriptional regulatory protein SrrA
+LKHOAPEA_02171	CDS	876	fieF		COG0053	Ferrous-iron efflux pump FieF
+LKHOAPEA_02172	CDS	285				hypothetical protein
+LKHOAPEA_02173	CDS	378	gcvH			Glycine cleavage system H protein
+LKHOAPEA_02174	CDS	354	mgsR		COG1393	Regulatory protein MgsR
+LKHOAPEA_02175	CDS	1176	rodA_1	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+LKHOAPEA_02176	CDS	1170	rodA_2	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+LKHOAPEA_02177	CDS	792	fpuC	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuC
+LKHOAPEA_02178	CDS	1011	yfhA		COG0609	putative siderophore transport system permease protein YfhA
+LKHOAPEA_02179	CDS	972	isdE_2			High-affinity heme uptake system protein IsdE
+LKHOAPEA_02180	CDS	165				hypothetical protein
+LKHOAPEA_02181	CDS	759				hypothetical protein
+LKHOAPEA_02182	CDS	1404	gadB_2	4.1.1.15	COG0076	Glutamate decarboxylase
+LKHOAPEA_02183	CDS	309				hypothetical protein
+LKHOAPEA_02184	CDS	855	licT_1		COG3711	Transcription antiterminator LicT
+LKHOAPEA_02185	CDS	411				hypothetical protein
+LKHOAPEA_02186	CDS	513				hypothetical protein
+LKHOAPEA_02187	CDS	393				hypothetical protein
+LKHOAPEA_02188	CDS	384				hypothetical protein
+LKHOAPEA_02189	CDS	897				hypothetical protein
+LKHOAPEA_02190	CDS	570				hypothetical protein
+LKHOAPEA_02191	CDS	420				hypothetical protein
+LKHOAPEA_02192	tmRNA	367	ssrA			transfer-messenger RNA, SsrA
+LKHOAPEA_02193	CDS	1062				hypothetical protein
+LKHOAPEA_02194	CDS	3936				hypothetical protein
+LKHOAPEA_02195	CDS	945				hypothetical protein
+LKHOAPEA_02196	CDS	3276				hypothetical protein
+LKHOAPEA_02197	CDS	909				hypothetical protein
+LKHOAPEA_02198	CDS	465	smpB		COG0691	SsrA-binding protein
+LKHOAPEA_02199	CDS	2382	rnr	3.1.13.1	COG0557	Ribonuclease R
+LKHOAPEA_02200	CDS	747	est_1	3.1.1.1	COG1647	Carboxylesterase
+LKHOAPEA_02201	CDS	234	secG		COG1314	putative protein-export membrane protein SecG
+LKHOAPEA_02202	CDS	744	est_2	3.1.1.1	COG1647	Carboxylesterase
+LKHOAPEA_02203	CDS	720	menH_3	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+LKHOAPEA_02204	CDS	168				hypothetical protein
+LKHOAPEA_02205	CDS	1293	eno	4.2.1.11	COG0148	Enolase
+LKHOAPEA_02206	CDS	1533	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+LKHOAPEA_02207	CDS	756	tpiA	5.3.1.1		Triosephosphate isomerase
+LKHOAPEA_02208	CDS	1191	pgk	2.7.2.3		Phosphoglycerate kinase
+LKHOAPEA_02209	CDS	1011	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+LKHOAPEA_02210	CDS	1047	cggR		COG2390	Central glycolytic genes regulator
+LKHOAPEA_02211	CDS	1344	rpoN		COG1508	RNA polymerase sigma-54 factor
+LKHOAPEA_02212	CDS	927				hypothetical protein
+LKHOAPEA_02213	CDS	2163	apeX		COG2409	Apo-petrobactin exporter
+LKHOAPEA_02214	CDS	609	betI_2			HTH-type transcriptional regulator BetI
+LKHOAPEA_02215	CDS	399				hypothetical protein
+LKHOAPEA_02216	CDS	336				hypothetical protein
+LKHOAPEA_02217	tRNA	72				tRNA-Arg(ccg)
+LKHOAPEA_02218	CDS	1437	gbpA			GlcNAc-binding protein A
+LKHOAPEA_02219	CDS	597	clpP_2	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+LKHOAPEA_02220	CDS	1392	yhdG_2		COG0531	putative amino acid permease YhdG
+LKHOAPEA_02221	CDS	1152				hypothetical protein
+LKHOAPEA_02222	CDS	1017	namA	1.6.99.1	COG1902	NADPH dehydrogenase
+LKHOAPEA_02223	CDS	972	whiA		COG1481	putative cell division protein WhiA
+LKHOAPEA_02224	CDS	969			COG0391	Gluconeogenesis factor
+LKHOAPEA_02225	CDS	876	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+LKHOAPEA_02226	CDS	1731	pgcA_2	5.4.2.2		Phosphoglucomutase
+LKHOAPEA_02227	CDS	993	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+LKHOAPEA_02228	CDS	984	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+LKHOAPEA_02229	CDS	960	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+LKHOAPEA_02230	CDS	1476	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+LKHOAPEA_02231	CDS	498	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+LKHOAPEA_02232	CDS	654	ppaX_2	3.6.1.1	COG0546	Pyrophosphatase PpaX
+LKHOAPEA_02233	CDS	834	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+LKHOAPEA_02234	CDS	939	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+LKHOAPEA_02235	CDS	354				hypothetical protein
+LKHOAPEA_02236	CDS	201	pspC		COG1983	Phage shock protein C
+LKHOAPEA_02237	CDS	1212				hypothetical protein
+LKHOAPEA_02238	CDS	1263				hypothetical protein
+LKHOAPEA_02239	CDS	2871	uvrA_2			UvrABC system protein A
+LKHOAPEA_02240	CDS	1977	uvrB		COG0556	UvrABC system protein B
+LKHOAPEA_02241	CDS	240				hypothetical protein
+LKHOAPEA_02242	CDS	648	yfbR	3.1.3.89	COG1896	5'-deoxynucleotidase YfbR
+LKHOAPEA_02243	CDS	387				hypothetical protein
+LKHOAPEA_02244	CDS	306	czrA		COG0640	HTH-type transcriptional repressor CzrA
+LKHOAPEA_02245	CDS	660	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+LKHOAPEA_02246	CDS	780	pstB3_1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+LKHOAPEA_02247	CDS	819	pstB3_2	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+LKHOAPEA_02248	CDS	885	pstA		COG0581	Phosphate transport system permease protein PstA
+LKHOAPEA_02249	CDS	951				hypothetical protein
+LKHOAPEA_02250	CDS	909	pstS1		COG0226	Phosphate-binding protein PstS 1
+LKHOAPEA_02251	CDS	1776	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+LKHOAPEA_02252	CDS	711	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+LKHOAPEA_02253	CDS	1176	minJ		COG0265	Cell division topological determinant MinJ
+LKHOAPEA_02254	CDS	1449	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+LKHOAPEA_02255	CDS	1311	smc_6			Chromosome partition protein Smc
+LKHOAPEA_02256	CDS	1206	smc_7			Chromosome partition protein Smc
+LKHOAPEA_02257	CDS	885	ftsX		COG2177	Cell division protein FtsX
+LKHOAPEA_02258	CDS	687	ftsE		COG2884	Cell division ATP-binding protein FtsE
+LKHOAPEA_02259	CDS	864				hypothetical protein
+LKHOAPEA_02260	CDS	984	prfB			Peptide chain release factor 2
+LKHOAPEA_02261	CDS	2514	secA		COG0653	Protein translocase subunit SecA
+LKHOAPEA_02262	CDS	564	hpf			Ribosome hibernation promotion factor
+LKHOAPEA_02263	CDS	657	prs_2			Putative ribose-phosphate pyrophosphokinase
+LKHOAPEA_02264	CDS	1320	comFA	3.6.4.12	COG4098	ComF operon protein 1
+LKHOAPEA_02265	CDS	852	degV		COG1307	Protein DegV
+LKHOAPEA_02266	CDS	687	degU		COG2197	Transcriptional regulatory protein DegU
+LKHOAPEA_02267	CDS	636	yigZ		COG1739	IMPACT family member YigZ
+LKHOAPEA_02268	CDS	546				hypothetical protein
+LKHOAPEA_02269	CDS	1059	tagT	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagT
+LKHOAPEA_02270	CDS	1053	tagO_2	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+LKHOAPEA_02271	CDS	1125	menC	4.2.1.113	COG4948	o-succinylbenzoate synthase
+LKHOAPEA_02272	CDS	735	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+LKHOAPEA_02273	CDS	834	yocH		COG1388	Cell wall-binding protein YocH
+LKHOAPEA_02274	CDS	366	ssbB		COG0629	Single-stranded DNA-binding protein B
+LKHOAPEA_02275	CDS	435	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+LKHOAPEA_02276	CDS	996	mbl		COG1077	Cell shape-determining protein Mbl
+LKHOAPEA_02277	CDS	1293	murA1	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+LKHOAPEA_02278	CDS	237				hypothetical protein
+LKHOAPEA_02279	CDS	405	atpC_1		COG0355	ATP synthase epsilon chain
+LKHOAPEA_02280	CDS	1422	atpD_1	7.1.2.2	COG0055	ATP synthase subunit beta
+LKHOAPEA_02281	CDS	873	atpG_1		COG0224	ATP synthase gamma chain
+LKHOAPEA_02282	CDS	1515	atpA_1	7.1.2.2	COG0056	ATP synthase subunit alpha
+LKHOAPEA_02283	CDS	540	atpH			ATP synthase subunit delta
+LKHOAPEA_02284	CDS	513	atpF		COG0711	ATP synthase subunit b
+LKHOAPEA_02285	CDS	219	atpE_1			ATP synthase subunit c
+LKHOAPEA_02286	CDS	717	atpB			ATP synthase subunit a
+LKHOAPEA_02287	CDS	399				hypothetical protein
+LKHOAPEA_02288	CDS	1140	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+LKHOAPEA_02289	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+LKHOAPEA_02290	CDS	1242	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+LKHOAPEA_02291	CDS	408	ywle	3.9.1.2		Protein-arginine-phosphatase
+LKHOAPEA_02292	CDS	1038	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+LKHOAPEA_02293	CDS	852	prmC	2.1.1.297		Release factor glutamine methyltransferase
+LKHOAPEA_02294	CDS	1077	prfA_1		COG0216	Peptide chain release factor 1
+LKHOAPEA_02295	CDS	576	tdk	2.7.1.21	COG1435	Thymidine kinase
+LKHOAPEA_02296	CDS	867	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+LKHOAPEA_02297	CDS	1056	thrC	4.2.3.1	COG0498	Threonine synthase
+LKHOAPEA_02298	CDS	1287	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+LKHOAPEA_02299	CDS	246	rpmE2			50S ribosomal protein L31 type B
+LKHOAPEA_02300	CDS	438	yfdG		COG2246	Prophage bactoprenol-linked glucose translocase 
+LKHOAPEA_02301	CDS	1272	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+LKHOAPEA_02302	CDS	1272	murAB	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+LKHOAPEA_02303	CDS	1074				hypothetical protein
+LKHOAPEA_02304	CDS	1026	cpoA	2.4.1.-	COG0438	Alpha-galactosylglucosyldiacylglycerol synthase
+LKHOAPEA_02305	CDS	1284		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+LKHOAPEA_02306	CDS	855	fba	4.1.2.13		Fructose-bisphosphate aldolase
+LKHOAPEA_02307	CDS	921	dagK_3	2.7.1.107	COG1597	Diacylglycerol kinase
+LKHOAPEA_02308	CDS	1227				hypothetical protein
+LKHOAPEA_02309	CDS	1599	pyrG	6.3.4.2		CTP synthase
+LKHOAPEA_02310	CDS	537	rpoE			DNA-directed RNA polymerase subunit delta
+LKHOAPEA_02311	CDS	1671	argS	6.1.1.19		Arginine--tRNA ligase
+LKHOAPEA_02312	CDS	450				hypothetical protein
+LKHOAPEA_02313	CDS	654				hypothetical protein
+LKHOAPEA_02314	CDS	186		5.3.2.-		putative tautomerase
+LKHOAPEA_02315	CDS	1323				hypothetical protein
+LKHOAPEA_02316	CDS	837	lipL	2.3.1.200	COG0095	Lipoyl-[GcvH]:protein N-lipoyltransferase
+LKHOAPEA_02317	CDS	93				hypothetical protein
+LKHOAPEA_02318	CDS	201				hypothetical protein
+LKHOAPEA_02319	CDS	324				hypothetical protein
+LKHOAPEA_02320	CDS	1662	dppE_2		COG4166	Dipeptide-binding protein DppE
+LKHOAPEA_02321	CDS	615				hypothetical protein
+LKHOAPEA_02322	CDS	633				hypothetical protein
+LKHOAPEA_02323	CDS	525				IS1595 family transposase ISCac2
+LKHOAPEA_02324	CDS	999				Zinc-type alcohol dehydrogenase-like protein
+LKHOAPEA_02325	CDS	273				hypothetical protein
+LKHOAPEA_02326	CDS	912	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+LKHOAPEA_02327	CDS	828	ybhA	3.1.3.74	COG0561	Pyridoxal phosphate phosphatase YbhA
+LKHOAPEA_02328	CDS	876				hypothetical protein
+LKHOAPEA_02329	CDS	294	ycnE_1	1.-.-.-	COG1359	Putative monooxygenase YcnE
+LKHOAPEA_02330	CDS	240				hypothetical protein
+LKHOAPEA_02331	CDS	669	hrtA_2	3.6.3.-	COG1136	Putative hemin import ATP-binding protein HrtA
+LKHOAPEA_02332	CDS	1089			COG0577	putative ABC transporter permease
+LKHOAPEA_02333	CDS	1380	hssS	2.7.13.3		Heme sensor protein HssS
+LKHOAPEA_02334	CDS	678	hssR			Heme response regulator HssR
+LKHOAPEA_02335	CDS	786	fdhD		COG1526	Sulfur carrier protein FdhD
+LKHOAPEA_02336	CDS	477				hypothetical protein
+LKHOAPEA_02337	CDS	2988		1.17.1.9		Putative formate dehydrogenase
+LKHOAPEA_02338	CDS	843	salL	2.5.1.94	COG1912	Adenosyl-chloride synthase
+LKHOAPEA_02339	CDS	1482	emrB_2			Multidrug export protein EmrB
+LKHOAPEA_02340	CDS	888				hypothetical protein
+LKHOAPEA_02341	tRNA	73				tRNA-Thr(ggt)
+LKHOAPEA_02342	tRNA	76				tRNA-Asn(gtt)
+LKHOAPEA_02343	CDS	1029	salA		COG0489	Iron-sulfur cluster carrier protein
+LKHOAPEA_02344	CDS	1527				hypothetical protein
+LKHOAPEA_02345	CDS	852	yvgN_2	1.1.1.-	COG0656	Glyoxal reductase
+LKHOAPEA_02346	CDS	423	adhR_2		COG0789	HTH-type transcriptional regulator AdhR
+LKHOAPEA_02347	CDS	870				hypothetical protein
+LKHOAPEA_02348	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+LKHOAPEA_02349	CDS	438	rplM		COG0102	50S ribosomal protein L13
+LKHOAPEA_02350	CDS	747	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+LKHOAPEA_02351	CDS	798	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+LKHOAPEA_02352	CDS	867	ecfA2	3.6.3.-		Energy-coupling factor transporter ATP-binding protein EcfA2
+LKHOAPEA_02353	CDS	894	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+LKHOAPEA_02354	CDS	663	sapB		COG1285	Protein SapB
+LKHOAPEA_02355	CDS	891				hypothetical protein
+LKHOAPEA_02356	CDS	1095				hypothetical protein
+LKHOAPEA_02357	CDS	408	rplQ			50S ribosomal protein L17
+LKHOAPEA_02358	CDS	945	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+LKHOAPEA_02359	CDS	390	rpsK			30S ribosomal protein S11
+LKHOAPEA_02360	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+LKHOAPEA_02361	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+LKHOAPEA_02362	CDS	219	infA		COG0361	Translation initiation factor IF-1
+LKHOAPEA_02363	CDS	648	adk	2.7.4.3		Adenylate kinase
+LKHOAPEA_02364	CDS	1296	secY			Protein translocase subunit SecY
+LKHOAPEA_02365	CDS	441	rplO			50S ribosomal protein L15
+LKHOAPEA_02366	CDS	180	rpmD		COG1841	50S ribosomal protein L30
+LKHOAPEA_02367	CDS	504	rpsE			30S ribosomal protein S5
+LKHOAPEA_02368	CDS	360	rplR		COG0256	50S ribosomal protein L18
+LKHOAPEA_02369	CDS	537	rplF			50S ribosomal protein L6
+LKHOAPEA_02370	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+LKHOAPEA_02371	CDS	186	rpsN1		COG0199	30S ribosomal protein S14
+LKHOAPEA_02372	CDS	540	rplE		COG0094	50S ribosomal protein L5
+LKHOAPEA_02373	CDS	312	rplX		COG0198	50S ribosomal protein L24
+LKHOAPEA_02374	CDS	369	rplN		COG0093	50S ribosomal protein L14
+LKHOAPEA_02375	CDS	264	rpsQ		COG0186	30S ribosomal protein S17
+LKHOAPEA_02376	CDS	192	rpmC		COG0255	50S ribosomal protein L29
+LKHOAPEA_02377	CDS	435	rplP		COG0197	50S ribosomal protein L16
+LKHOAPEA_02378	CDS	657	rpsC		COG0092	30S ribosomal protein S3
+LKHOAPEA_02379	CDS	357	rplV		COG0091	50S ribosomal protein L22
+LKHOAPEA_02380	CDS	321	rpsS		COG0185	30S ribosomal protein S19
+LKHOAPEA_02381	CDS	834	rplB		COG0090	50S ribosomal protein L2
+LKHOAPEA_02382	CDS	285	rplW			50S ribosomal protein L23
+LKHOAPEA_02383	CDS	624	rplD		COG0088	50S ribosomal protein L4
+LKHOAPEA_02384	CDS	630	rplC		COG0087	50S ribosomal protein L3
+LKHOAPEA_02385	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+LKHOAPEA_02386	CDS	801	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+LKHOAPEA_02387	CDS	960	menA_2	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+LKHOAPEA_02388	CDS	1083	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+LKHOAPEA_02389	CDS	900				hypothetical protein
+LKHOAPEA_02390	CDS	1887	hcaD	1.18.1.3		3-phenylpropionate/cinnamic acid dioxygenase ferredoxin--NAD(+) reductase component
+LKHOAPEA_02391	CDS	435				hypothetical protein
+LKHOAPEA_02392	CDS	543				hypothetical protein
+LKHOAPEA_02393	CDS	981	hepT_2	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+LKHOAPEA_02394	CDS	1341	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+LKHOAPEA_02395	CDS	987				hypothetical protein
+LKHOAPEA_02396	CDS	744				hypothetical protein
+LKHOAPEA_02397	CDS	720	dgaF	4.1.2.14		2-dehydro-3-deoxy-phosphogluconate aldolase
+LKHOAPEA_02398	CDS	750	crnA	3.5.2.10		Creatinine amidohydrolase
+LKHOAPEA_02399	CDS	993		3.1.1.25		Phospho-furanose lactonase
+LKHOAPEA_02400	CDS	1299	ulaA		COG3037	Ascorbate-specific PTS system EIIC component
+LKHOAPEA_02401	CDS	273	ulaB	2.7.1.194		Ascorbate-specific PTS system EIIB component
+LKHOAPEA_02402	CDS	435	ulaC		COG1762	Ascorbate-specific PTS system EIIA component
+LKHOAPEA_02403	CDS	2067				hypothetical protein
+LKHOAPEA_02404	CDS	483				hypothetical protein
+LKHOAPEA_02405	CDS	645	bcrA_3			Bacitracin transport ATP-binding protein BcrA
+LKHOAPEA_02406	CDS	750				hypothetical protein
+LKHOAPEA_02407	CDS	699				hypothetical protein
+LKHOAPEA_02408	CDS	786				hypothetical protein
+LKHOAPEA_02409	CDS	408				hypothetical protein
+LKHOAPEA_02410	CDS	1188	tuf		COG0050	Elongation factor Tu
+LKHOAPEA_02411	CDS	2088	fusA		COG0480	Elongation factor G
+LKHOAPEA_02412	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+LKHOAPEA_02413	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+LKHOAPEA_02414	CDS	1398	dgt	3.1.5.1	COG0232	Deoxyguanosinetriphosphate triphosphohydrolase
+LKHOAPEA_02415	CDS	480				hypothetical protein
+LKHOAPEA_02416	CDS	1470				hypothetical protein
+LKHOAPEA_02417	CDS	645	rpe_4	5.1.3.1		Ribulose-phosphate 3-epimerase
+LKHOAPEA_02418	CDS	2016	tkt_3	2.2.1.1		Transketolase
+LKHOAPEA_02419	CDS	675	alsE	5.1.3.-	COG0036	D-allulose-6-phosphate 3-epimerase
+LKHOAPEA_02420	CDS	441	rpiB_3	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+LKHOAPEA_02421	CDS	1032		1.1.1.301		D-arabitol-phosphate dehydrogenase
+LKHOAPEA_02422	CDS	1053	gatD_2	1.1.1.251	COG1063	Galactitol 1-phosphate 5-dehydrogenase
+LKHOAPEA_02423	CDS	1272	gatC_4		COG3775	PTS system galactitol-specific EIIC component
+LKHOAPEA_02424	CDS	282	gatB_4	2.7.1.200	COG3414	PTS system galactitol-specific EIIB component
+LKHOAPEA_02425	CDS	465	mtlF		COG2213	Mannitol-specific phosphotransferase enzyme IIA component
+LKHOAPEA_02426	CDS	2070				hypothetical protein
+LKHOAPEA_02427	CDS	813				hypothetical protein
+LKHOAPEA_02428	CDS	363	yjbR_2		COG2315	putative protein YjbR
+LKHOAPEA_02429	CDS	369				hypothetical protein
+LKHOAPEA_02430	CDS	807	rhaS_2			HTH-type transcriptional activator RhaS
+LKHOAPEA_02431	CDS	471				Putative universal stress protein
+LKHOAPEA_02432	CDS	456	ywlF	5.3.1.-	COG0698	Putative sugar phosphate isomerase YwlF
+LKHOAPEA_02433	CDS	342				hypothetical protein
+LKHOAPEA_02434	CDS	1257	umuC		COG0389	Protein UmuC
+LKHOAPEA_02435	CDS	813	yvaM	3.-.-.-		AB hydrolase superfamily protein YvaM
+LKHOAPEA_02436	CDS	696	kdpE		COG0745	KDP operon transcriptional regulatory protein KdpE
+LKHOAPEA_02437	CDS	2691	kdpD	2.7.13.3	COG2205	Sensor protein KdpD
+LKHOAPEA_02438	CDS	573	kdpC		COG2156	Potassium-transporting ATPase KdpC subunit
+LKHOAPEA_02439	CDS	2046	kdpB	7.2.2.6	COG2216	Potassium-transporting ATPase ATP-binding subunit
+LKHOAPEA_02440	CDS	1686	kdpA		COG2060	Potassium-transporting ATPase potassium-binding subunit
+LKHOAPEA_02441	CDS	306	celA_5	2.7.1.205		PTS system cellobiose-specific EIIB component
+LKHOAPEA_02442	CDS	1308	licC_4		COG1455	Lichenan permease IIC component
+LKHOAPEA_02443	CDS	303	licA_2		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+LKHOAPEA_02444	CDS	1122	rodA_3	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+LKHOAPEA_02445	CDS	1131	ftsW_2	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+LKHOAPEA_02446	CDS	2571	mgtB	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+LKHOAPEA_02447	CDS	96				hypothetical protein
+LKHOAPEA_02448	CDS	567	betI_3			HTH-type transcriptional regulator BetI
+LKHOAPEA_02449	CDS	1776	yneA_2			Cell division suppressor protein YneA
+LKHOAPEA_02450	CDS	330	darA		COG3870	Cyclic di-AMP receptor A
+LKHOAPEA_02451	CDS	627	tmk	2.7.4.9	COG0125	Thymidylate kinase
+LKHOAPEA_02452	CDS	1362	speA	4.1.1.19	COG1982	Arginine decarboxylase
+LKHOAPEA_02453	CDS	990	dhaK	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+LKHOAPEA_02454	CDS	597	dhaL	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+LKHOAPEA_02455	CDS	375	dhaM	2.7.1.121	COG3412	PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM
+LKHOAPEA_02456	CDS	852	murR_1		COG1737	HTH-type transcriptional regulator MurR
+LKHOAPEA_02457	CDS	840	yidA_2	3.1.3.23	COG0561	Sugar phosphatase YidA
+LKHOAPEA_02458	CDS	447				hypothetical protein
+LKHOAPEA_02459	CDS	843	yvgN_3	1.1.1.-	COG0656	Glyoxal reductase
+LKHOAPEA_02460	CDS	246				hypothetical protein
+LKHOAPEA_02461	CDS	597	recR		COG0353	Recombination protein RecR
+LKHOAPEA_02462	CDS	318				Nucleoid-associated protein
+LKHOAPEA_02463	CDS	1740	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+LKHOAPEA_02464	CDS	465				hypothetical protein
+LKHOAPEA_02465	CDS	189				hypothetical protein
+LKHOAPEA_02466	CDS	222				hypothetical protein
+LKHOAPEA_02467	CDS	1365	celB		COG1455	PTS system cellobiose-specific EIIC component
+LKHOAPEA_02468	CDS	156				hypothetical protein
+LKHOAPEA_02469	CDS	642				hypothetical protein
+LKHOAPEA_02470	CDS	96				hypothetical protein
+LKHOAPEA_02471	CDS	1494	xylB	2.7.1.17	COG1070	Xylulose kinase
+LKHOAPEA_02472	CDS	939				hypothetical protein
+LKHOAPEA_02473	CDS	948				Cell wall protein
+LKHOAPEA_02474	CDS	1740			COG1132	putative ABC transporter ATP-binding/permease protein
+LKHOAPEA_02475	CDS	1725	cydD_2		COG4988	ATP-binding/permease protein CydD
+LKHOAPEA_02476	CDS	1014	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+LKHOAPEA_02477	CDS	1407	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+LKHOAPEA_02478	CDS	471	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+LKHOAPEA_02479	CDS	1578	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+LKHOAPEA_02480	CDS	720	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+LKHOAPEA_02481	CDS	735				hypothetical protein
+LKHOAPEA_02482	CDS	462				hypothetical protein
+LKHOAPEA_02483	CDS	444			COG2764	putative protein
+LKHOAPEA_02484	CDS	1353	mepA_3		COG0534	Multidrug export protein MepA
+LKHOAPEA_02485	CDS	450	slyA_5			Transcriptional regulator SlyA
+LKHOAPEA_02486	CDS	975	lrp			Leucine-rich protein
+LKHOAPEA_02487	CDS	456	adhR_3		COG0789	HTH-type transcriptional regulator AdhR
+LKHOAPEA_02488	CDS	405				hypothetical protein
+LKHOAPEA_02489	CDS	612	mupP	3.1.3.105	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+LKHOAPEA_02490	CDS	369				hypothetical protein
+LKHOAPEA_02491	CDS	753	murR_2			HTH-type transcriptional regulator MurR
+LKHOAPEA_02492	CDS	1959	mngA_4		COG1299	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+LKHOAPEA_02493	CDS	2649	mngB_4	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+LKHOAPEA_02494	CDS	1683		2.4.1.352	COG0366	Glucosylglycerate phosphorylase
+LKHOAPEA_02495	CDS	1134	garK_1	2.7.1.165	COG1929	Glycerate 2-kinase
+LKHOAPEA_02496	CDS	957	ccpB_2			Catabolite control protein B
+LKHOAPEA_02497	CDS	1335				hypothetical protein
+LKHOAPEA_02498	CDS	690	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+LKHOAPEA_02499	CDS	291				hypothetical protein
+LKHOAPEA_02500	CDS	1209	sbnD_2			Staphyloferrin B transporter
+LKHOAPEA_02501	CDS	348				hypothetical protein
+LKHOAPEA_02502	CDS	645	tal_3	2.2.1.2	COG0176	Transaldolase
+LKHOAPEA_02503	CDS	690				hypothetical protein
+LKHOAPEA_02504	CDS	1728	bmrA	3.6.3.-	COG1132	Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+LKHOAPEA_02505	CDS	252	sxy		COG3070	Protein Sxy
+LKHOAPEA_02506	CDS	1284	serS	6.1.1.11		Serine--tRNA ligase
+LKHOAPEA_02507	CDS	420	ydaG		COG3871	General stress protein 26
+LKHOAPEA_02508	CDS	573	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+LKHOAPEA_02509	CDS	1707	menF	5.4.4.2		Isochorismate synthase MenF
+LKHOAPEA_02510	CDS	1722			COG1132	putative ABC transporter ATP-binding protein
+LKHOAPEA_02511	CDS	1773			COG1132	putative ABC transporter ATP-binding protein
+LKHOAPEA_02512	CDS	1854				hypothetical protein
+LKHOAPEA_02513	CDS	948				hypothetical protein
+LKHOAPEA_02514	CDS	1338	dacA_2	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+LKHOAPEA_02515	CDS	1668	cocE	3.1.1.84		Cocaine esterase
+LKHOAPEA_02516	CDS	2154	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+LKHOAPEA_02517	CDS	1773	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+LKHOAPEA_02518	CDS	1467	guaB_1	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+LKHOAPEA_02519	CDS	531	ymdB_2	3.1.1.106	COG2110	O-acetyl-ADP-ribose deacetylase
+LKHOAPEA_02520	CDS	1611	ettA_2		COG0488	Energy-dependent translational throttle protein EttA
+LKHOAPEA_02521	CDS	111				hypothetical protein
+LKHOAPEA_02522	CDS	1455	bglC_3	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglC
+LKHOAPEA_02523	CDS	303	gmuB	2.7.1.205	COG1440	PTS system oligo-beta-mannoside-specific EIIB component
+LKHOAPEA_02524	CDS	1353	chbC		COG1455	PTS system N,N'-diacetylchitobiose-specific EIIC component
+LKHOAPEA_02525	CDS	885	bglK_2	2.7.1.85	COG1940	Beta-glucoside kinase
+LKHOAPEA_02526	CDS	309	licA_3		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+LKHOAPEA_02527	CDS	738	glvR_1		COG1737	HTH-type transcriptional regulator GlvR
+LKHOAPEA_02528	CDS	663				hypothetical protein
+LKHOAPEA_02529	CDS	1131				hypothetical protein
+LKHOAPEA_02530	CDS	909	ytrB_3		COG1131	ABC transporter ATP-binding protein YtrB
+LKHOAPEA_02531	CDS	2331	gshAB		COG1181	Glutathione biosynthesis bifunctional protein GshAB
+LKHOAPEA_02532	CDS	1449	bglA	3.2.1.86	COG2723	6-phospho-beta-glucosidase BglA
+LKHOAPEA_02533	CDS	1854	bglF_2		COG1263	PTS system beta-glucoside-specific EIIBCA component
+LKHOAPEA_02534	CDS	837	licT_2		COG3711	Transcription antiterminator LicT
+LKHOAPEA_02535	CDS	204				hypothetical protein
+LKHOAPEA_02536	CDS	624	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+LKHOAPEA_02537	CDS	2169				hypothetical protein
+LKHOAPEA_02538	CDS	381				hypothetical protein
+LKHOAPEA_02539	CDS	1191	emrD			Multidrug resistance protein D
+LKHOAPEA_02540	CDS	510				hypothetical protein
+LKHOAPEA_02541	CDS	1101	ychF		COG0012	Ribosome-binding ATPase YchF
+LKHOAPEA_02542	CDS	309	gmuA_2		COG1447	PTS system oligo-beta-mannoside-specific EIIA component
+LKHOAPEA_02543	CDS	2271		3.2.1.-		Putative beta-xylosidase
+LKHOAPEA_02544	CDS	300	licB_4	2.7.1.-	COG1440	Lichenan-specific phosphotransferase enzyme IIB component
+LKHOAPEA_02545	CDS	1296	licC_5		COG1455	Lichenan permease IIC component
+LKHOAPEA_02546	CDS	1917	licR_6		COG1762	putative licABCH operon regulator
+LKHOAPEA_02547	CDS	1467	katA	1.11.1.6	COG0753	Catalase
+LKHOAPEA_02548	CDS	204				hypothetical protein
+LKHOAPEA_02549	CDS	852	spo0J		COG1475	Stage 0 sporulation protein J
+LKHOAPEA_02550	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+LKHOAPEA_02551	CDS	759				hypothetical protein
+LKHOAPEA_02552	CDS	300				hypothetical protein
+LKHOAPEA_02553	CDS	855	noc		COG1475	Nucleoid occlusion protein
+LKHOAPEA_02554	CDS	807	ybbH_3		COG1737	putative HTH-type transcriptional regulator YbbH
+LKHOAPEA_02555	CDS	906	bglK_3	2.7.1.85	COG1940	Beta-glucoside kinase
+LKHOAPEA_02556	CDS	447				hypothetical protein
+LKHOAPEA_02557	CDS	657	cbbY	3.1.3.-	COG0637	Protein CbbY
+LKHOAPEA_02558	CDS	1407	mtlA			PTS system mannitol-specific EIICB component
+LKHOAPEA_02559	CDS	1002	iolG_3	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+LKHOAPEA_02560	CDS	696	nanE	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+LKHOAPEA_02561	CDS	717	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+LKHOAPEA_02562	CDS	267				hypothetical protein
+LKHOAPEA_02563	CDS	366				hypothetical protein
+LKHOAPEA_02564	CDS	1281				hypothetical protein
+LKHOAPEA_02565	CDS	387				hypothetical protein
+LKHOAPEA_02566	CDS	387				hypothetical protein
+LKHOAPEA_02567	CDS	354				hypothetical protein
+LKHOAPEA_02568	CDS	1890	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+LKHOAPEA_02569	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+LKHOAPEA_02570	CDS	819	dacA_3	3.4.16.4		D-alanyl-D-alanine carboxypeptidase DacA
+LKHOAPEA_02571	CDS	708				hypothetical protein
+LKHOAPEA_02572	CDS	528				hypothetical protein
+LKHOAPEA_02573	CDS	732	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LKHOAPEA_02574	CDS	1194	sauU			putative sulfoacetate transporter SauU
+LKHOAPEA_02575	CDS	1191	scmP_2	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+LKHOAPEA_02576	CDS	1401	norB			Quinolone resistance protein NorB
+LKHOAPEA_02577	CDS	1188		3.5.1.47		N-acetyldiaminopimelate deacetylase
+LKHOAPEA_02578	CDS	2343	rhaR_4			HTH-type transcriptional activator RhaR
+LKHOAPEA_02579	CDS	2541	inlJ			Internalin J
+LKHOAPEA_02580	CDS	252				hypothetical protein
+LKHOAPEA_02581	CDS	1242				hypothetical protein
+LKHOAPEA_02582	CDS	1188	pdxB	1.1.1.290		Erythronate-4-phosphate dehydrogenase
+LKHOAPEA_02583	CDS	1092	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+LKHOAPEA_02584	CDS	1149	cntE			Staphylopine export protein
+LKHOAPEA_02585	CDS	423	mhqR		COG1846	HTH-type transcriptional regulator MhqR
+LKHOAPEA_02586	CDS	357				hypothetical protein
+LKHOAPEA_02587	CDS	600				hypothetical protein
+LKHOAPEA_02588	CDS	321	trxA_3		COG0526	Thioredoxin 1
+LKHOAPEA_02589	CDS	663	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+LKHOAPEA_02590	CDS	1122	garK_2	2.7.1.165	COG1929	Glycerate 2-kinase
+LKHOAPEA_02591	CDS	2178	ycjT	2.4.1.230	COG1554	Kojibiose phosphorylase
+LKHOAPEA_02592	CDS	1032	iolG_4	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+LKHOAPEA_02593	CDS	795	iolO	5.1.3.-	COG1082	5-keto-L-gluconate epimerase
+LKHOAPEA_02594	CDS	1053	tdh	1.1.1.103		L-threonine 3-dehydrogenase
+LKHOAPEA_02595	CDS	852	ycjP		COG0395	Inner membrane ABC transporter permease protein YcjP
+LKHOAPEA_02596	CDS	882	ycjO		COG1175	Inner membrane ABC transporter permease protein YcjO
+LKHOAPEA_02597	CDS	1293				hypothetical protein
+LKHOAPEA_02598	CDS	1701	ycjM	2.4.1.352	COG0366	Glucosylglycerate phosphorylase
+LKHOAPEA_02599	CDS	1026	purR_1		COG1609	HTH-type transcriptional repressor PurR
+LKHOAPEA_02600	tRNA	75				tRNA-Val(gac)
+LKHOAPEA_02601	CDS	1995				hypothetical protein
+LKHOAPEA_02602	CDS	543				hypothetical protein
+LKHOAPEA_02603	CDS	1413	hsrA			putative transport protein HsrA
+LKHOAPEA_02604	CDS	315	rhaM	5.1.3.32	COG3254	L-rhamnose mutarotase
+LKHOAPEA_02605	CDS	822	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+LKHOAPEA_02606	CDS	1263	rhaA	5.3.1.14	COG4806	L-rhamnose isomerase
+LKHOAPEA_02607	CDS	1452	rhaB	2.7.1.5	COG1070	L-Rhamnulokinase
+LKHOAPEA_02608	CDS	1269	csbC			putative metabolite transport protein CsbC
+LKHOAPEA_02609	CDS	981	rhaR_5			HTH-type transcriptional activator RhaR
+LKHOAPEA_02610	CDS	462				hypothetical protein
+LKHOAPEA_02611	CDS	621				hypothetical protein
+LKHOAPEA_02612	CDS	864	misCA		COG0706	Membrane protein insertase MisCA
+LKHOAPEA_02613	CDS	360	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+LKHOAPEA_02614	CDS	135	rpmH			50S ribosomal protein L34
+LKHOAPEA_02615	CDS	471				hypothetical protein
+LKHOAPEA_02616	CDS	1356	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+LKHOAPEA_02617	CDS	1146	dnaN		COG0592	Beta sliding clamp
+LKHOAPEA_02618	CDS	1344	yeeO_2		COG0534	putative FMN/FAD exporter YeeO
+LKHOAPEA_02619	CDS	288				hypothetical protein
+LKHOAPEA_02620	CDS	1113	recF_2		COG1195	DNA replication and repair protein RecF
+LKHOAPEA_02621	CDS	1941	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+LKHOAPEA_02622	CDS	2529	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+LKHOAPEA_02623	CDS	1515	ywiE	2.7.8.-	COG1502	putative cardiolipin synthase YwiE
+LKHOAPEA_02624	CDS	519	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+LKHOAPEA_02625	CDS	969	galK	2.7.1.6		Galactokinase
+LKHOAPEA_02626	CDS	972	thrB_2	2.7.1.39		Homoserine kinase
+LKHOAPEA_02627	CDS	1071		2.7.4.2		Phosphomevalonate kinase
+LKHOAPEA_02628	CDS	195				hypothetical protein
+LKHOAPEA_02629	CDS	660				hypothetical protein
+LKHOAPEA_02630	CDS	576				hypothetical protein
+LKHOAPEA_02631	CDS	357	inlB_2			Internalin B
+LKHOAPEA_02632	CDS	1107				hypothetical protein
+LKHOAPEA_02633	CDS	1980	qoxB	1.10.3.-		Quinol oxidase subunit 1
+LKHOAPEA_02634	CDS	612	qoxC	1.10.3.-		Quinol oxidase subunit 3
+LKHOAPEA_02635	CDS	333	qoxD	1.10.3.-		Quinol oxidase subunit 4
+LKHOAPEA_02636	CDS	1119				hypothetical protein
+LKHOAPEA_02637	CDS	1434	bglH_4	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+LKHOAPEA_02638	CDS	822				hypothetical protein
+LKHOAPEA_02639	CDS	741	frlR		COG2188	putative fructoselysine utilization operon transcriptional repressor
+LKHOAPEA_02640	CDS	402	sorF		COG2893	PTS system sorbose-specific EIIA component
+LKHOAPEA_02641	CDS	489	levE	2.7.1.202	COG3444	PTS system fructose-specific EIIB component
+LKHOAPEA_02642	CDS	804	agaC_2		COG3715	N-acetylgalactosamine permease IIC component 1
+LKHOAPEA_02643	CDS	822	manZ_3		COG3716	PTS system mannose-specific EIID component
+LKHOAPEA_02644	CDS	705				hypothetical protein
+LKHOAPEA_02645	CDS	642	cutC_2		COG3142	Copper homeostasis protein CutC
+LKHOAPEA_02646	CDS	1905	bglF_3		COG1263	PTS system beta-glucoside-specific EIIBCA component
+LKHOAPEA_02647	CDS	876	mccF_2			Microcin C7 self-immunity protein MccF
+LKHOAPEA_02648	CDS	621				hypothetical protein
+LKHOAPEA_02649	CDS	585	bcrA_4			Bacitracin transport ATP-binding protein BcrA
+LKHOAPEA_02650	CDS	723				hypothetical protein
+LKHOAPEA_02651	CDS	432				hypothetical protein
+LKHOAPEA_02652	CDS	765				hypothetical protein
+LKHOAPEA_02653	CDS	405				hypothetical protein
+LKHOAPEA_02654	CDS	339				hypothetical protein
+LKHOAPEA_02655	CDS	810	yidA_3	3.1.3.23	COG0561	Sugar phosphatase YidA
+LKHOAPEA_02656	CDS	1056	degA_2		COG1609	HTH-type transcriptional regulator DegA
+LKHOAPEA_02657	CDS	966	nanK	2.7.1.60	COG1940	N-acetylmannosamine kinase
+LKHOAPEA_02658	CDS	2403				hypothetical protein
+LKHOAPEA_02659	CDS	1359	licC_6		COG1455	Lichenan permease IIC component
+LKHOAPEA_02660	CDS	1086	glmS_3	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+LKHOAPEA_02661	CDS	1026	ptcA	2.1.3.6	COG0078	Putrescine carbamoyltransferase
+LKHOAPEA_02662	CDS	1386	gadC_2		COG0531	putative glutamate/gamma-aminobutyrate antiporter
+LKHOAPEA_02663	CDS	1095	aguA_1	3.5.3.12	COG2957	Putative agmatine deiminase
+LKHOAPEA_02664	CDS	942	arcC1	2.7.2.2		Carbamate kinase 1
+LKHOAPEA_02665	CDS	1110	aguA_2	3.5.3.12	COG2957	Agmatine deiminase
+LKHOAPEA_02666	CDS	780	glvR_2		COG1737	HTH-type transcriptional regulator GlvR
+LKHOAPEA_02667	CDS	660	dedA_2		COG0586	Protein DedA
+LKHOAPEA_02668	CDS	1227	arcA	3.5.3.6		Arginine deiminase
+LKHOAPEA_02669	CDS	294	rpsF		COG0360	30S ribosomal protein S6
+LKHOAPEA_02670	CDS	537	ssbA		COG0629	Single-stranded DNA-binding protein A
+LKHOAPEA_02671	CDS	240	rpsR			30S ribosomal protein S18
+LKHOAPEA_02672	CDS	612				hypothetical protein
+LKHOAPEA_02673	CDS	615	agrB	3.4.-.-	COG4512	Accessory gene regulator protein B
+LKHOAPEA_02674	CDS	162				hypothetical protein
+LKHOAPEA_02675	CDS	1296				hypothetical protein
+LKHOAPEA_02676	CDS	729	agrA		COG3279	Accessory gene regulator protein A
+LKHOAPEA_02677	CDS	1974	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+LKHOAPEA_02678	CDS	447	rplI			50S ribosomal protein L9
+LKHOAPEA_02679	CDS	1353	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+LKHOAPEA_02680	CDS	1293	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+LKHOAPEA_02681	CDS	294	esxA			Type VII secretion system extracellular protein A
+LKHOAPEA_02682	CDS	3207				hypothetical protein
+LKHOAPEA_02683	CDS	516				hypothetical protein
+LKHOAPEA_02684	CDS	252	esaB			Type VII secretion system accessory factor EsaB
+LKHOAPEA_02685	CDS	1197	essB		COG4499	Type VII secretion system protein EssB
+LKHOAPEA_02686	CDS	4497	essC		COG1674	Type VII secretion system protein EssC
+LKHOAPEA_02687	CDS	318				hypothetical protein
+LKHOAPEA_02688	CDS	435				hypothetical protein
+LKHOAPEA_02689	CDS	309				hypothetical protein
+LKHOAPEA_02690	CDS	642				hypothetical protein
+LKHOAPEA_02691	CDS	315				hypothetical protein
+LKHOAPEA_02692	CDS	963				hypothetical protein
+LKHOAPEA_02693	CDS	336				hypothetical protein
+LKHOAPEA_02694	CDS	441				hypothetical protein
+LKHOAPEA_02695	CDS	597				hypothetical protein
+LKHOAPEA_02696	CDS	291				hypothetical protein
+LKHOAPEA_02697	CDS	774			COG2513	putative protein
+LKHOAPEA_02698	CDS	1053	ada		COG0350	Bifunctional transcriptional activator/DNA repair enzyme Ada
+LKHOAPEA_02699	CDS	639				hypothetical protein
+LKHOAPEA_02700	CDS	957		1.1.1.-		Putative 2-hydroxyacid dehydrogenase
+LKHOAPEA_02701	tRNA	73				tRNA-Lys(ctt)
+LKHOAPEA_02702	CDS	342				hypothetical protein
+LKHOAPEA_02703	CDS	369			COG0789	putative HTH-type transcriptional regulator
+LKHOAPEA_02704	CDS	984	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+LKHOAPEA_02705	CDS	690				hypothetical protein
+LKHOAPEA_02706	CDS	5880				hypothetical protein
+LKHOAPEA_02707	CDS	2310				hypothetical protein
+LKHOAPEA_02708	CDS	243	atpE_2		COG0636	ATP synthase subunit c
+LKHOAPEA_02709	CDS	1047	atpD_2			ATP synthase subunit delta
+LKHOAPEA_02710	CDS	1497	atpA_2	7.1.2.2	COG0056	ATP synthase subunit alpha
+LKHOAPEA_02711	CDS	870	atpG_2			ATP synthase gamma chain, sodium ion specific
+LKHOAPEA_02712	CDS	1371	atpD_3	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+LKHOAPEA_02713	CDS	333	atpC_2			ATP synthase epsilon chain
+LKHOAPEA_02714	CDS	561				hypothetical protein
+LKHOAPEA_02715	CDS	633				hypothetical protein
+LKHOAPEA_02716	CDS	966	manX_4	2.7.1.191		PTS system mannose-specific EIIAB component
+LKHOAPEA_02717	CDS	807	sorA		COG3715	PTS system sorbose-specific EIIC component
+LKHOAPEA_02718	CDS	912	manZ_4		COG3716	PTS system mannose-specific EIID component
+LKHOAPEA_02719	CDS	390				hypothetical protein
+LKHOAPEA_02720	CDS	351				hypothetical protein
+LKHOAPEA_02721	CDS	1545				hypothetical protein
+LKHOAPEA_02722	CDS	294				hypothetical protein
+LKHOAPEA_02723	CDS	291	ycnE_2	1.-.-.-	COG1359	Putative monooxygenase YcnE
+LKHOAPEA_02724	CDS	633	yodC	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YodC
+LKHOAPEA_02725	CDS	372				hypothetical protein
+LKHOAPEA_02726	CDS	2271	chiA1	3.2.1.14		Chitinase A1
+LKHOAPEA_02727	CDS	903	bglK_4	2.7.1.85	COG1940	Beta-glucoside kinase
+LKHOAPEA_02728	CDS	1782			COG1132	putative ABC transporter ATP-binding protein
+LKHOAPEA_02729	CDS	1743			COG1132	putative ABC transporter ATP-binding protein
+LKHOAPEA_02730	CDS	834	rhaR_6			HTH-type transcriptional activator RhaR
+LKHOAPEA_02731	CDS	1116	aes_2	3.1.1.-		Acetyl esterase
+LKHOAPEA_02732	CDS	699				hypothetical protein
+LKHOAPEA_02733	CDS	696				hypothetical protein
+LKHOAPEA_02734	CDS	462				hypothetical protein
+LKHOAPEA_02735	CDS	336				hypothetical protein
+LKHOAPEA_02736	CDS	429				hypothetical protein
+LKHOAPEA_02737	CDS	417				hypothetical protein
+LKHOAPEA_02738	CDS	390				hypothetical protein
+LKHOAPEA_02739	CDS	513				hypothetical protein
+LKHOAPEA_02740	CDS	303				hypothetical protein
+LKHOAPEA_02741	CDS	405				hypothetical protein
+LKHOAPEA_02742	CDS	1869				hypothetical protein
+LKHOAPEA_02743	CDS	819				hypothetical protein
+LKHOAPEA_02744	CDS	1137				hypothetical protein
+LKHOAPEA_02745	CDS	300				hypothetical protein
+LKHOAPEA_02746	CDS	576				hypothetical protein
+LKHOAPEA_02747	CDS	480				hypothetical protein
+LKHOAPEA_02748	CDS	537				hypothetical protein
+LKHOAPEA_02749	CDS	423				hypothetical protein
+LKHOAPEA_02750	CDS	729				hypothetical protein
+LKHOAPEA_02751	CDS	2349			COG0737	Cell wall protein
+LKHOAPEA_02752	CDS	750			COG2199	putative signaling protein
+LKHOAPEA_02753	CDS	1509	guaB_2	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+LKHOAPEA_02754	CDS	234				hypothetical protein
+LKHOAPEA_02755	CDS	279	yjdJ		COG2388	putative protein YjdJ
+LKHOAPEA_02756	CDS	1575	appA			Oligopeptide-binding protein AppA
+LKHOAPEA_02757	CDS	951	gsiC		COG0601	Glutathione transport system permease protein GsiC
+LKHOAPEA_02758	CDS	894	gsiD		COG1173	Glutathione transport system permease protein GsiD
+LKHOAPEA_02759	CDS	285				hypothetical protein
+LKHOAPEA_02760	CDS	369				hypothetical protein
+LKHOAPEA_02761	CDS	1305				hypothetical protein
+LKHOAPEA_02762	CDS	243				hypothetical protein
+LKHOAPEA_02763	CDS	444				hypothetical protein
+LKHOAPEA_02764	CDS	237				hypothetical protein
+LKHOAPEA_02765	CDS	234				hypothetical protein
+LKHOAPEA_02766	CDS	348				hypothetical protein
+LKHOAPEA_02767	CDS	792				hypothetical protein
+LKHOAPEA_02768	CDS	357				hypothetical protein
+LKHOAPEA_02769	CDS	1656	dppE_3		COG4166	Dipeptide-binding protein DppE
+LKHOAPEA_02770	CDS	942	znuA_2		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+LKHOAPEA_02771	CDS	705	znuC_2	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+LKHOAPEA_02772	CDS	807	znuB_2		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+LKHOAPEA_02773	CDS	681				hypothetical protein
+LKHOAPEA_02774	CDS	2340	dinG_2	3.1.-.-		3'-5' exonuclease DinG
+LKHOAPEA_02775	CDS	813	yidA_4	3.1.3.23	COG0561	Sugar phosphatase YidA
+LKHOAPEA_02776	CDS	2115				hypothetical protein
+LKHOAPEA_02777	CDS	1761				hypothetical protein
+LKHOAPEA_02778	CDS	837	rsbRD_2			RsbT co-antagonist protein RsbRD
+LKHOAPEA_02779	CDS	993				hypothetical protein
+LKHOAPEA_02780	CDS	834				hypothetical protein
+LKHOAPEA_02781	CDS	390	yabA		COG4467	Initiation-control protein YabA
+LKHOAPEA_02782	CDS	774	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+LKHOAPEA_02783	CDS	270				hypothetical protein
+LKHOAPEA_02784	CDS	882	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+LKHOAPEA_02785	CDS	285	abrB		COG2002	Transition state regulatory protein AbrB
+LKHOAPEA_02786	CDS	858	glcU_2		COG4975	putative glucose uptake protein GlcU
+LKHOAPEA_02787	CDS	1263				hypothetical protein
+LKHOAPEA_02788	CDS	1266				hypothetical protein
+LKHOAPEA_02789	CDS	861	glcU_3		COG4975	putative glucose uptake protein GlcU
+LKHOAPEA_02790	CDS	1998	metG	6.1.1.10		Methionine--tRNA ligase
+LKHOAPEA_02791	CDS	1215	nagC		COG1940	N-acetylglucosamine repressor
+LKHOAPEA_02792	CDS	879	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+LKHOAPEA_02793	CDS	849	araQ_5		COG0395	L-arabinose transport system permease protein AraQ
+LKHOAPEA_02794	CDS	1257				hypothetical protein
+LKHOAPEA_02795	CDS	3303				hypothetical protein
+LKHOAPEA_02796	CDS	2292		2.4.1.161	COG1501	Oligosaccharide 4-alpha-D-glucosyltransferase
+LKHOAPEA_02797	CDS	1662	malL_3	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+LKHOAPEA_02798	CDS	774	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+LKHOAPEA_02799	CDS	1215				hypothetical protein
+LKHOAPEA_02800	CDS	576	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+LKHOAPEA_02801	CDS	888	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+LKHOAPEA_02802	CDS	258	veg		COG4466	Protein Veg
+LKHOAPEA_02803	CDS	882	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+LKHOAPEA_02804	CDS	738		3.5.1.-	COG3394	Carbohydrate deacetylase
+LKHOAPEA_02805	CDS	819	purR_2		COG0503	Pur operon repressor
+LKHOAPEA_02806	CDS	678	mdtA			Multidrug resistance protein MdtA
+LKHOAPEA_02807	CDS	693	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+LKHOAPEA_02808	CDS	1209	yknZ_2		COG0577	putative ABC transporter permease YknZ
+LKHOAPEA_02809	CDS	309	spoVG_1		COG2088	Putative septation protein SpoVG
+LKHOAPEA_02810	CDS	309	spoVG_2		COG2088	Putative septation protein SpoVG
+LKHOAPEA_02811	CDS	1374	glmU			Bifunctional protein GlmU
+LKHOAPEA_02812	CDS	957	prs_3	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+LKHOAPEA_02813	CDS	714	prfA_2		COG0664	Listeriolysin regulatory protein
+LKHOAPEA_02814	CDS	954	plcA	4.6.1.13		1-phosphatidylinositol phosphodiesterase
+LKHOAPEA_02815	CDS	1590	hly			Listeriolysin O
+LKHOAPEA_02816	CDS	1533	mpl	3.4.24.-	COG3227	Zinc metalloproteinase
+LKHOAPEA_02817	CDS	1815	actA			Actin assembly-inducing protein
+LKHOAPEA_02818	CDS	870	plcB	3.1.4.3		Phospholipase C
+LKHOAPEA_02819	CDS	324				hypothetical protein
+LKHOAPEA_02820	CDS	462	yehR		COG4808	putative lipoprotein YehR
+LKHOAPEA_02821	CDS	333				hypothetical protein
+LKHOAPEA_02822	CDS	720				hypothetical protein
+LKHOAPEA_02823	CDS	942	ldh_3	1.1.1.27	COG0039	L-lactate dehydrogenase
+LKHOAPEA_02824	CDS	624	ctc		COG1825	General stress protein CTC
+LKHOAPEA_02825	CDS	585				hypothetical protein
+LKHOAPEA_02826	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+LKHOAPEA_02827	CDS	3540	mfd	3.6.4.-		Transcription-repair-coupling factor
+LKHOAPEA_02828	CDS	1590	murJ_3		COG2244	Lipid II flippase MurJ
+LKHOAPEA_02829	CDS	279				hypothetical protein
+LKHOAPEA_02830	CDS	387	divIC		COG2919	Cell division protein DivIC
+LKHOAPEA_02831	CDS	429	pnp_2	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+LKHOAPEA_02832	CDS	1947	tilS_2	6.3.4.19		tRNA(Ile)-lysidine synthase
+LKHOAPEA_02833	CDS	2100	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+LKHOAPEA_02834	CDS	780	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+LKHOAPEA_02835	CDS	885	hslO		COG1281	33 kDa chaperonin
+LKHOAPEA_02836	CDS	927	cysK	2.5.1.47		Cysteine synthase
+LKHOAPEA_02837	CDS	786	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+LKHOAPEA_02838	CDS	375	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+LKHOAPEA_02839	CDS	480	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+LKHOAPEA_02840	CDS	996	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+LKHOAPEA_02841	CDS	1497	lysS	6.1.1.6		Lysine--tRNA ligase
+LKHOAPEA_02842	rRNA	2928				23S ribosomal RNA
+LKHOAPEA_02843	rRNA	1547				16S ribosomal RNA
+LKHOAPEA_02844	tRNA	76				tRNA-Asp(gtc)
+LKHOAPEA_02845	tRNA	76				tRNA-Met(cat)
+LKHOAPEA_02846	tRNA	76				tRNA-Val(tac)
+LKHOAPEA_02847	tRNA	72				tRNA-Glu(ttc)
+LKHOAPEA_02848	tRNA	91				tRNA-Ser(gga)
+LKHOAPEA_02849	tRNA	76				tRNA-Asn(gtt)
+LKHOAPEA_02850	CDS	387				hypothetical protein
+LKHOAPEA_02851	tRNA	76				tRNA-Ala(tgc)
+LKHOAPEA_02852	tRNA	75				tRNA-Ile(gat)
+LKHOAPEA_02853	CDS	129				hypothetical protein
+LKHOAPEA_02854	CDS	150				hypothetical protein
+LKHOAPEA_02855	tRNA	76				tRNA-Ala(tgc)
+LKHOAPEA_02856	tRNA	74				tRNA-Pro(tgg)
+LKHOAPEA_02857	rRNA	110				5S ribosomal RNA
+LKHOAPEA_02858	rRNA	110				5S ribosomal RNA
+LKHOAPEA_02859	tRNA	76				tRNA-Asn(gtt)
